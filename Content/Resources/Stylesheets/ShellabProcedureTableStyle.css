@@ -39,6 +39,8 @@ mcTableBodyStyle
 	separator-color: #000000;
 	name: Body1;
 	id: 1;
+	cell-content-style-tag: p;
+	cell-content-style-class: table_data;
 }
 
 mcTableBodyStyle
@@ -49,6 +51,8 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 	separator-style: none;
 	separator-width: 0px;
+	cell-content-style-tag: p;
+	cell-content-style-class: table_data;
 }
 
 
