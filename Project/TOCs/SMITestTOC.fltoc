@@ -14,8 +14,7 @@
     BreakType="pageLayout"
     PageType="left"
     AutoEndOnLeftPage="disabled"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Blank.flpgl" />
+    StartSection="false" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Resources/Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -61,7 +60,9 @@
       BreakType="chapter"
       AutoEndOnLeftPage="disabled"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="continue"
+      PageType="firstright"
+      PageLayout="/Content/Resources/PageLayouts/Receiving.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Data_Plate.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -124,12 +125,6 @@
       PageLayout="/Content/Resources/PageLayouts/Operation.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/Set_OTL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      PageType="continue"
-      AutoEndOnLeftPage="disabled"
-      StartSection="false" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Set_OTL_Table.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       PageType="continue"
       AutoEndOnLeftPage="disabled"
@@ -155,7 +150,9 @@
       BreakType="chapter"
       AutoEndOnLeftPage="disabled"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="continue"
+      PageType="firstright"
+      PageLayout="/Content/Resources/PageLayouts/Maintenance.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Maintenance_Disinfect.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

@@ -187,12 +187,15 @@ p.Back_Page
 
 header
 {
-	font-size: 22pt;
+	font-weight: bold;
 	text-transform: uppercase;
-	font: 'Proxima Nova Semibold';
-	margin-top: 1pt;
+	font-size: 22pt;
+	text-align: left;
+	font-family: 'Proxima Nova Semibold';
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
 	color: #ffffff;
-	padding-bottom: 12pt;
 }
 
 MadCap|pageFooter
@@ -221,4 +224,9 @@ th
 	background: #f5f5f5;
 	padding: 5pt;
 	border: solid 1px #f5f5f5;
+}
+
+MadCap|xref.ConceptPageNumber
+{
+	mc-format: '{pageref}';
 }
