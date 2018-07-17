@@ -1,0 +1,490 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: ShellabProcedureTableStyle;
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 0px;
+	border-left-color: #000000;
+	border-right-style: none;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-top-style: none;
+	border-top-width: 0px;
+	border-top-color: #000000;
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-bottom-color: #000000;
+	max-id: 4;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 0px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+}
+
+mcTableBodyStyle
+{
+	span: 2;
+	separator-style: none;
+	separator-width: 0px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+}
+
+mcTableBodyStyle
+{
+	span: 2;
+	id: 4;
+	name: Body2;
+	background-color: #dcdcdc;
+	separator-style: none;
+	separator-width: 0px;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-ShellabProcedureTableStyle
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-color: #000000;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-right-color: #000000;
+	border-right-width: 0px;
+	border-top-style: none;
+	border-top-color: #000000;
+	border-top-width: 0px;
+	border-bottom-style: none;
+	border-bottom-color: #000000;
+	border-bottom-width: 0px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-ShellabProcedureTableStyle-Column-Column1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadI-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadI-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadE-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadE-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadF-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadF-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadH-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadH-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadD-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadD-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadC-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadC-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadB-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadB-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadA-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadA-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadG-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-HeadG-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootI-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootE-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootF-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootH-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootD-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootC-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootB-Column1-
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootA-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootG-Column1-
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-Body-Body1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyI-Column1-Body1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyE-Column1-Body1
+{
+	border-bottom-width: 0px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyF-Column1-Body1
+{
+	border-bottom-width: 0px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyH-Column1-Body1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyD-Column1-Body1
+{
+	border-bottom-width: 0px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyC-Column1-Body1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyB-Column1-Body1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyA-Column1-Body1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyG-Column1-Body1
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-Body-Body2
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyI-Column1-Body2
+{
+	background-color: #dcdcdc;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyI-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyE-Column1-Body2
+{
+	background-color: #dcdcdc;
+	border-bottom-width: 0px;
+	border-bottom-style: none;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyE-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyF-Column1-Body2
+{
+	background-color: #dcdcdc;
+	border-bottom-width: 0px;
+	border-bottom-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyF-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyH-Column1-Body2
+{
+	background-color: #dcdcdc;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyH-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyD-Column1-Body2
+{
+	background-color: #dcdcdc;
+	border-bottom-width: 0px;
+	border-bottom-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyD-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyC-Column1-Body2
+{
+	background-color: #dcdcdc;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyC-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyB-Column1-Body2
+{
+	background-color: #dcdcdc;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyB-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyA-Column1-Body2
+{
+	background-color: #dcdcdc;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyA-Column1-Body2 p
+{
+	
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyG-Column1-Body2
+{
+	background-color: #dcdcdc;
+}
+
+.TableStyle-ShellabProcedureTableStyle-BodyG-Column1-Body2 p
+{
+	
+}
+
+
