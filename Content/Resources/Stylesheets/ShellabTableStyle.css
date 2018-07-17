@@ -6,14 +6,14 @@ mcTableStyle
 {
 	name: ShellabTableStyle;
 	border-collapse: separate;
-	border-left-style: none;
-	border-left-width: 0px;
-	border-right-style: none;
-	border-right-width: 0px;
-	border-top-style: none;
-	border-top-width: 0px;
-	border-bottom-style: none;
-	border-bottom-width: 0px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
 	max-id: 6;
 	frame-break-inside: avoid;
 	page-break-inside: avoid;
@@ -21,10 +21,6 @@ mcTableStyle
 	cell-padding-right: 5px;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 0px;
-	border-left-color: ;
-	border-right-color: ;
-	border-top-color: ;
-	border-bottom-color: ;
 }
 
 mcTableColumnStyle
@@ -42,8 +38,8 @@ mcTableColumnStyle
 mcTableHeadStyle
 {
 	span: 1;
-	separator-style: none;
-	separator-width: 0px;
+	separator-style: solid;
+	separator-width: 1px;
 	separator-color: #000000;
 	name: Header1;
 	id: 2;
@@ -52,13 +48,14 @@ mcTableHeadStyle
 	font-weight: bold;
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: p;
+	background-color: #dcdcdc;
 }
 
 mcTableBodyStyle
 {
-	span: 2;
-	separator-style: none;
-	separator-width: 0px;
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
 	separator-color: #000000;
 	name: Body1;
 	id: 1;
@@ -74,13 +71,14 @@ mcTableBodyStyle
 
 mcTableBodyStyle
 {
-	span: 2;
+	span: 1;
 	id: 6;
 	name: Body2;
-	separator-style: none;
-	separator-width: 0px;
+	separator-style: solid;
+	separator-width: 1px;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 
@@ -89,18 +87,14 @@ mcTableBodyStyle
 .TableStyle-ShellabTableStyle
 {
 	border-collapse: separate;
-	border-left-style: none;
-	border-left-color: ;
-	border-left-width: 0px;
-	border-right-style: none;
-	border-right-color: ;
-	border-right-width: 0px;
-	border-top-style: none;
-	border-top-color: ;
-	border-top-width: 0px;
-	border-bottom-style: none;
-	border-bottom-color: ;
-	border-bottom-width: 0px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
 	page-break-inside: avoid;
 	frame-break-inside: avoid;
 	border-spacing: 0px 0px;
@@ -125,6 +119,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadI-Column1-Header1 p
@@ -144,9 +139,10 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	border-bottom-width: 0px;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 }
 
 .TableStyle-ShellabTableStyle-HeadE-Column1-Header1 p
@@ -163,9 +159,10 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	border-bottom-width: 0px;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 }
 
 .TableStyle-ShellabTableStyle-HeadF-Column1-Header1 p
@@ -185,6 +182,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadH-Column1-Header1 p
@@ -201,9 +199,10 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	border-bottom-width: 0px;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 }
 
 .TableStyle-ShellabTableStyle-HeadD-Column1-Header1 p
@@ -220,6 +219,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadC-Column1-Header1 p
@@ -239,6 +239,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadB-Column1-Header1 p
@@ -255,6 +256,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadA-Column1-Header1 p
@@ -271,6 +273,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #dcdcdc;
 }
 
 .TableStyle-ShellabTableStyle-HeadG-Column1-Header1 p
@@ -450,9 +453,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	border-bottom-width: 0px;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -472,9 +475,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	border-bottom-width: 0px;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -510,9 +513,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	border-bottom-width: 0px;
+	border-bottom-width: 1px;
 	border-bottom-color: #000000;
-	border-bottom-style: none;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -600,6 +603,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -615,8 +619,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
-	border-bottom-width: 0px;
-	border-bottom-style: none;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -635,8 +640,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
-	border-bottom-width: 0px;
-	border-bottom-style: none;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -652,6 +658,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -670,8 +677,9 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
-	border-bottom-width: 0px;
-	border-bottom-style: none;
+	background-color: #dcdcdc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -687,6 +695,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -702,6 +711,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -720,6 +730,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -735,6 +746,7 @@ mcTableBodyStyle
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 0px;
+	background-color: #dcdcdc;
 	text-align: left;
 	vertical-align: middle;
 }
