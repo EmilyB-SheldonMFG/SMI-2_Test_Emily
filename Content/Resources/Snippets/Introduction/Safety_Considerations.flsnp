@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Safety Considerations and Requirements</h2>
+        <p>Follow basic safety precautions, including all national laws, regulations, and local ordinances in your area regarding the use of this unit. If you have any questions about local requirements, please contact the appropriate agencies.</p>
+        <h3>SOPs</h3>
+        <p>Because of the range of potential applications this unit can be used for, the operator or their supervisors must draw up a site-specific standard operating procedure (SOP) covering each application and associated safety guidelines. This SOP must be written and available to all operators in a language they understand.</p>
+        <h3>Intended Applications and Locations</h3>
+        <p>The <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubators</MadCap:conditionalText> are intended for <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">constant temperature, non-humidified microbiological incubation</MadCap:conditionalText> applications in professional, industrial, and educational environments. The units are not intended for use at hazardous or household locations.</p>
+    </body>
+</html>

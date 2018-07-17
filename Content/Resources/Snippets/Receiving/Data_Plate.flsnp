@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h2>Recording Data Plate Information</h2>
+        <p>Record the unit <b>model number, serial number, part number,</b> and <MadCap:conditionalText MadCap:conditions="Brand.SHEL LAB" style="font-weight: bold;">part ID</MadCap:conditionalText> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</p>
+        <ul>•	The data plate is located <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">on the inside of the incubation chamber door in the top right corner.</MadCap:conditionalText></ul>
+        <p>&#160;</p>
+        <table style="border-spacing: 0px 1px;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;border-collapse: separate;margin-left: 0;margin-right: auto;">
+            <col />
+            <col style="width: 300px;" />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>MODEL NO:</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>SERIAL NO:</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>PART NO:</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Brand.SHEL LAB">
+                    <td style="font-weight: bold;">
+                        <p>PART ID:</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

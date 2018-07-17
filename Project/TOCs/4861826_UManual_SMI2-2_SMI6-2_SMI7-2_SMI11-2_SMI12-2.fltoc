@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="INTRODUCTION"
+    StartSection="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Read this Manual" />
+    <TocEntry
+      Title="Safety Considerations and Requirements" />
+    <TocEntry
+      Title="Contacting Assistance" />
+    <TocEntry
+      Title="Engineering Improvements" />
+    <TocEntry
+      Title="Reference Sensor Device" />
+  </TocEntry>
+  <TocEntry
+    Title="RECEIVING YOUR UNIT">
+    <TocEntry
+      Title="Inspect the Shipment" />
+    <TocEntry
+      Title="Orientation Images" />
+    <TocEntry
+      Title="Recording Data Plate Information" />
+  </TocEntry>
+  <TocEntry
+    Title="INSTALLATION">
+    <TocEntry
+      Title="Installation Procedure Checklist" />
+    <TocEntry
+      Title="Required Ambient Conditions" />
+    <TocEntry
+      Title="Required Clearances" />
+    <TocEntry
+      Title="Power Source Requirements" />
+    <TocEntry
+      Title="Lifting and Handling" />
+    <TocEntry
+      Title="Leveling" />
+    <TocEntry
+      Title="Install the Incubator" />
+    <TocEntry
+      Title="Deionized and Distilled Water" />
+    <TocEntry
+      Title="Installation Cleaning and Disinfection" />
+    <TocEntry
+      Title="Install the Shelving" />
+    <TocEntry
+      Title="Access Port" />
+  </TocEntry>
+  <TocEntry
+    Title="GRAPHIC SYMBOLS" />
+  <TocEntry
+    Title="CONTROL PANEL OVERVIEW" />
+  <TocEntry
+    Title="OPERATION">
+    <TocEntry
+      Title="Theory of Operation" />
+    <TocEntry
+      Title="Put the Incubator into Operation" />
+    <TocEntry
+      Title="Set the Date and Time" />
+    <TocEntry
+      Title="Set the Temperature Settings" />
+    <TocEntry
+      Title="Set the Over Temperature Limit (OTL)" />
+    <TocEntry
+      Title="Passcode Locking the Incubator" />
+    <TocEntry
+      Title="Active Alarms and Muting" />
+    <TocEntry
+      Title="Load Samples" />
+    <TocEntry
+      Title="Chamber Accessory Power Outlet" />
+    <TocEntry
+      Title="Power and Memory" />
+    <TocEntry
+      Title="Data Log" />
+    <TocEntry
+      Title="Exporting the Data Log" />
+    <TocEntry
+      Title="Real Time Data Outputs" />
+    <TocEntry
+      Title="Humidifying the Incubator" />
+    <TocEntry
+      Title="Condensation and the Dew Point" />
+  </TocEntry>
+  <TocEntry
+    Title="USER MAINTENANCE">
+    <TocEntry
+      Title="Cleaning and Disinfecting" />
+    <TocEntry
+      Title="Minimizing Contamination Exposure" />
+    <TocEntry
+      Title="Storing the Incubator" />
+    <TocEntry
+      Title="Door Components" />
+    <TocEntry
+      Title="Electrical Components" />
+    <TocEntry
+      Title="Calibrating the Temperature display" />
+  </TocEntry>
+  <TocEntry
+    Title="UNIT SPECIFICATIONS">
+    <TocEntry
+      Title="Weight" />
+    <TocEntry
+      Title="Dimensions" />
+    <TocEntry
+      Title="Capacity" />
+    <TocEntry
+      Title="Shelf Capacity by Weight" />
+    <TocEntry
+      Title="Temperature" />
+    <TocEntry
+      Title="Power" />
+  </TocEntry>
+  <TocEntry
+    Title="PARTS LIST" />
+</CatapultToc>

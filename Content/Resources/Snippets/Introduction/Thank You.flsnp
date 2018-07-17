@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="Thank_You">Thank you for purchasing a <MadCap:conditionalText MadCap:conditions="Brand.SHEL LAB">SHEL LAB</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator</MadCap:conditionalText>. We know you have many choices in today’s competitive marketplace when it comes to constant temperature equipment. We appreciate you choosing ours. We stand behind our products and will be here for you if you need us.</p>
+    </body>
+</html>

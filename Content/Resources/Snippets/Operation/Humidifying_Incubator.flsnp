@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Unit Type.Incubator">
+    <body>
+        <h2>Humidifying the Incubator</h2>
+        <p>Long-term use of a large water container, such as a humidifier pan, will create excess water vapor in the unit and can damage the electrical components of an <MadCap:conditionalText MadCap:conditions="Unit_Family.SMI2/6/7/11/12,Unit_Family.SMI2/6/7/11/12 220V">SMI</MadCap:conditionalText> incubator. Additionally, use of deionized water may cause significant corrosion damage to the incubator. Overloading the unit with sample media may also damage the incubator from excessive media evaporation and disruption of air flow pathways through the shelf space.</p>
+        <h3>Small Sample Load</h3>
+        <p>Placing a small number of petri dishes or other media containers in the incubator chamber may lead to excessively fast drying of sample media. A small water-filled container, such as an open flask, may be placed in the chamber to help slow sample drying with small loads.</p>
+    </body>
+</html>

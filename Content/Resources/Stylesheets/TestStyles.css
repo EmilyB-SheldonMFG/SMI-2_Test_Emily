@@ -1,0 +1,65 @@
+﻿/*<meta />*/
+
+a.Popup
+{
+	
+}
+
+h1
+{
+	font-size: 14pt;
+	text-align: center;
+	page-break-after: avoid;
+}
+
+li
+{
+	font-size: 10pt;
+	color: #808080;
+	text-decoration: underline;
+	padding-right: 4px;
+	padding-left: 6px;
+}
+
+MadCap|SnippetBlock
+{
+	color: #556b2f;
+	font-weight: bold;
+}
+
+body
+{
+	color: #800000;
+	font-family: 'Proxima Nova';
+	font-size: 10pt;
+}
+
+MadCap|SnippetText
+{
+	color: #ff8c00;
+	font-variant: small-caps;
+}
+
+h2
+{
+	font-weight: bolder
+	mc-heading-level: 0
+}
+
+div.NoPageBreak
+{
+	page-break-inside: avoid;
+}
+
+@media print
+{
+	MadCap|pageHeader
+	{
+		
+	}
+
+	div.NoPageBreak
+	{
+		page-break-inside: avoid;
+	}
+}

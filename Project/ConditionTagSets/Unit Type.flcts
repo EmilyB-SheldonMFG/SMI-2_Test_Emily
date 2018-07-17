@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    BackgroundColor="#48d1cc"
+    Name="Incubator"
+    Comment=""
+    OriginalName="Incubator" />
+  <ConditionTag
+    BackgroundColor="#8a2be2"
+    Name="Oven"
+    Comment=""
+    OriginalName="Oven" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Vacuum Oven"
+    Comment=""
+    OriginalName="Vacuum Oven" />
+</CatapultConditionTagSet>

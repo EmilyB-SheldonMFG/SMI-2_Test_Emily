@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2018-06-20T15:30:49.9362227-07:00"
+  ProjectName="SMI-2 Test Emily"
+  ProjectFolder="G:\Tech_Com_Dev\Test_Env\Flare\2018"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-06-20T15:34:11.9282227-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/emilyb/Downloads/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.docx"
+      AbsoluteSource="file:///C:/Users/emilyb/Downloads/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS_1.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS_2.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS_3.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS_4.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS_5.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI INCUBATORS.htm"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Pictured on the front cover.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Pictured on the front cover.htm"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Manufacturing Warranty.htm"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/SMI Microbiological Incubators.htm"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Revised May 10 2018.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Revised May 10 2018.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Safety Certifications.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Safety Certifications_1.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Safety Certifications.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Table of Contents.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Read this Manual.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Safety Considerations and.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INTRODUCTION.htm"
+      TimeStamp="6/20/2018 3:30:57 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Engineering Improvements.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INTRODUCTION_1.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INTRODUCTION_1.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INTRODUCTION_2.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_1.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_2.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_3.png"
+      TimeStamp="6/20/2018 3:30:50 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_1.htm"
+      TimeStamp="6/20/2018 3:30:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_2.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_3.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_3.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_4.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_4.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_5.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_5_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_5_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_5.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/RECEIVING_6.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/MODEL NO.htm"
+      TimeStamp="6/20/2018 3:30:59 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Required Clearances.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Required Clearances_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Required Clearances.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_1.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_1_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_1.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_2.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling_3.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling_4.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Leveling.htm"
+      TimeStamp="6/20/2018 3:31:00 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Install the Incubator.htm"
+      TimeStamp="6/20/2018 3:31:01 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_3.htm"
+      TimeStamp="6/20/2018 3:31:01 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Installation Cleaning and.htm"
+      TimeStamp="6/20/2018 3:31:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_4.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_4_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_4_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_4_3.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/INSTALLATION_4.htm"
+      TimeStamp="6/20/2018 3:31:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Access Port.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Access Port.htm"
+      TimeStamp="6/20/2018 3:31:01 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_3.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_4.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_5.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_6.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol_7.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Symbol.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1_1.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1_2.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1_3.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1_4.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1_5.png"
+      TimeStamp="6/20/2018 3:30:51 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/GRAPHIC SYMBOLS_1.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/CONTROL PANEL OVERVIEW.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Heating.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Heating.htm"
+      TimeStamp="6/20/2018 3:31:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/The Over Temperature Limit.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/The Over Temperature Limit_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/The Over Temperature Limit.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_5.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1_6.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_1.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_2.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_3_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_3_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_3.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_5.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4_6.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_4.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_5.htm"
+      TimeStamp="6/20/2018 3:31:03 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_6.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit_5.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Set the Over Temperature Limit.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_7.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_7_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_7_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_7_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_7.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8_1.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8_2.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8_3.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8_4.png"
+      TimeStamp="6/20/2018 3:30:52 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_8.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_9.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_9_1.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_9_2.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_9_3.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_9.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_10.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_10.htm"
+      TimeStamp="6/20/2018 3:31:04 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Load Samples.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Chamber Accessory Power Outlet.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Chamber Accessory Power Outlet.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_11.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Data Log.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Data Log_1.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Data Log_2.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Data Log.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_1.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_2.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_3.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_4.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_5.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_6.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12_7.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_12.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_13.htm"
+      TimeStamp="6/20/2018 3:31:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_14.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_14_1.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_14_2.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_14.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Parameter.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Humidifying the Incubator.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_15.png"
+      TimeStamp="6/20/2018 3:30:53 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/OPERATION_15.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Cleaning and Disinfecting.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Cleaning and Disinfecting_1.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Cleaning and Disinfecting_2.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Cleaning and Disinfecting.htm"
+      TimeStamp="6/20/2018 3:31:06 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_1.htm"
+      TimeStamp="6/20/2018 3:31:07 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Disinfecting the Incubator.htm"
+      TimeStamp="6/20/2018 3:31:07 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_2.htm"
+      TimeStamp="6/20/2018 3:31:07 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Storing the Incubator.htm"
+      TimeStamp="6/20/2018 3:31:07 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Door Components.htm"
+      TimeStamp="6/20/2018 3:31:07 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Electrical Components.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3_1.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3_2.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3_3.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3_4.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_3.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_4.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_4_1.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_4_2.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_4_3.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_4.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5_1.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5_2.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5_3.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5_4.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5_5.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_5.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_6.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_6_1.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_6_2.png"
+      TimeStamp="6/20/2018 3:30:54 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_6.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/USER MAINTENANCE_7.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Weight.htm"
+      TimeStamp="6/20/2018 3:31:08 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Dimensions.htm"
+      TimeStamp="6/20/2018 3:31:09 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Model_2.htm"
+      TimeStamp="6/20/2018 3:31:09 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/UNIT SPECIFICATIONS.htm"
+      TimeStamp="6/20/2018 3:31:09 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Shelf Capacity by Weight.htm"
+      TimeStamp="6/20/2018 3:31:09 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Temperature.htm"
+      TimeStamp="6/20/2018 3:31:09 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/Power.htm"
+      TimeStamp="6/20/2018 3:31:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_1.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_2.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_3.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_4.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_5.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_6.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST_7.png"
+      TimeStamp="6/20/2018 3:30:55 PM" />
+    <Url
+      Source="../../Content/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2/PARTS LIST.htm"
+      TimeStamp="6/20/2018 3:31:10 PM" />
+    <Url
+      Source="../TOCs/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.fltoc"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.flmsp"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/4861826_UManual_SMI2-2_SMI6-2_SMI7-2_SMI11-2_SMI12-2.css"
+      TimeStamp="6/20/2018 3:30:56 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="SHEL_LAB_Caption" />
+    <StyleName
+      Name="SHEL_LAB_Heading(continued)" />
+    <StyleName
+      Name="SHEL_LAB_Heading-1(top of page)" />
+    <StyleName
+      Name="SHEL_LAB_Heading-2" />
+    <StyleName
+      Name="Shel_Lab_Heading-3" />
+    <StyleName
+      Name="SHEL_LAB_Table_Header" />
+    <StyleName
+      Name="SHEL_LAB_Title" />
+    <StyleName
+      Name="SHEL_LAB_Title2" />
+    <StyleName
+      Name="SHEL_LAB_Warning" />
+    <StyleName
+      Name="Title" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Caption" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="SHEL_LAB_body" />
+    <StyleName
+      Name="SHEL_LAB_body_bulleted-1" />
+    <StyleName
+      Name="SHEL_LAB_body_bulleted-2" />
+    <StyleName
+      Name="SHEL_LAB_Caption" />
+    <StyleName
+      Name="SHEL_LAB_Graphic_Anchor" />
+    <StyleName
+      Name="SHEL_LAB_Heading(continued)" />
+    <StyleName
+      Name="SHEL_LAB_Heading-1(top of page)" />
+    <StyleName
+      Name="SHEL_LAB_Heading-2" />
+    <StyleName
+      Name="Shel_Lab_Heading-3" />
+    <StyleName
+      Name="SHEL_LAB_Note" />
+    <StyleName
+      Name="SHEL_LAB_Numbered" />
+    <StyleName
+      Name="SHEL_LAB_table_body_centered" />
+    <StyleName
+      Name="SHEL_LAB_Table_Header" />
+    <StyleName
+      Name="SHEL_LAB_table-body" />
+    <StyleName
+      Name="SHEL_LAB_Title" />
+    <StyleName
+      Name="SHEL_LAB_Title2" />
+    <StyleName
+      Name="SHEL_LAB_Warning" />
+    <StyleName
+      Name="Title" />
+    <StyleName
+      Name="TOC 1" />
+    <StyleName
+      Name="TOC 2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="SHEL_LAB_body Char" />
+    <StyleName
+      Name="Title Char" />
+  </UsedCharacterStyles>
+</MsWordImport>

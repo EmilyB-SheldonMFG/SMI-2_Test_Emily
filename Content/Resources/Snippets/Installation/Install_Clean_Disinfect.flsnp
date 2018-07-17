@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Installation Cleaning <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and Disinfection</MadCap:conditionalText></h2>
+        <p>The manufacturer recommends cleaning the shelving and unit chamber prior to installation of the shelving in the chamber.</p>
+        <ul>•	The unit was cleaned at the factory but may have been exposed to contaminants during shipping.</ul>
+        <ul>•	Remove all wrappings and coverings from shelving prior to cleaning and installation.<b> Do not clean the shelving with deionized water.</b></ul>
+        <ul>•	Please see the Cleaning <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and Disinfection</MadCap:conditionalText> procedure on page 45 in the <MadCap:conditionalText MadCap:conditions="Brand.SHEL LAB">User</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Brand.Cascade TEK">Operator</MadCap:conditionalText> Maintenance chapter for information on how to clean <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and disinfect</MadCap:conditionalText> without damaging the unit.</ul>
+    </body>
+</html>

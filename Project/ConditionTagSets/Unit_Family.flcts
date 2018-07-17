@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="SMI2/6/7/11/12"
+    BackgroundColor="#bdb76b"
+    OriginalName="SMI2/6/7/11/12" />
+  <ConditionTag
+    Comment=""
+    Name="SVAC9"
+    BackgroundColor="#00ffff"
+    OriginalName="SVAC9" />
+  <ConditionTag
+    BackgroundColor="#ffb6c1"
+    Name="SVAC1/2/4"
+    Comment=""
+    OriginalName="SVAC1/2/4" />
+  <ConditionTag
+    BackgroundColor="#ee82ee"
+    Name="SMI2/6/7/11/12 220V"
+    Comment=""
+    OriginalName="SMI2/6/7/11/12 220V" />
+  <ConditionTag
+    BackgroundColor="#ff6347"
+    Name="SVAC1/2/4 220V"
+    Comment=""
+    OriginalName="SVAC1/2/4 220V" />
+</CatapultConditionTagSet>

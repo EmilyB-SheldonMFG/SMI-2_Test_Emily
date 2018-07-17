@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="Power Cord"
+    BackgroundColor="#ff8c00" />
+  <ConditionTag
+    Comment=""
+    Name="Hardwired"
+    BackgroundColor="#7fff00" />
+</CatapultConditionTagSet>

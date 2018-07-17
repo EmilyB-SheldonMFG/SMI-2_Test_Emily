@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Contacting Assistance</h2>
+        <p>Phone hours for Sheldon Technical Support are 6 am – 4:30 pm Pacific Coast Time (west coast of the United States, UTC -8), Monday – Friday. Please have the following information ready when calling or emailing Technical Support: the model number, serial number, part number, and part ID (see page 18).</p>
+        <p><MadCap:variable name="Shellab_Variables.Email" />
+        </p>
+        <p><MadCap:variable name="Shellab_Variables.Toll Free" />, or <MadCap:variable name="Shellab_Variables.Phone Number" /></p>
+        <p><MadCap:variable name="Shellab_Variables.Fax" />
+        </p>
+        <p>&#160;</p>
+        <p><MadCap:variable name="Shellab_Variables.CompanyName" />
+        </p>
+        <p><MadCap:variable name="Shellab_Variables.PO Box" />
+        </p>
+        <p><MadCap:variable name="Shellab_Variables.City_State" />
+        </p>
+    </body>
+</html>

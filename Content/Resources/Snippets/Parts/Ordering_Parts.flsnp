@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h3>Ordering</h3>
+        <p>If you have the Part Number for an item, you may order it directly from Sheldon Manufacturing by calling 1-800-322-4897 extension 3. If you are uncertain that you have the correct Part Number, or if you need that specific item, please contact <MadCap:conditionalText MadCap:conditions="Brand.SHEL LAB">Sheldon Technical Support</MadCap:conditionalText> for help at 1-800-322-4897 extension 4 or (503) 640-3000. Please have the <b>model, part,</b> and <b>serial</b> numbers and <b>Part ID</b> of the unit ready, as Tech Support will need this information to match your unit to its correct part.</p>
+    </body>
+</html>

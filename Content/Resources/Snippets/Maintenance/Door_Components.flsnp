@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h2>Door Components</h2>
+        <p>Periodically, inspect the door latch, trim, catch, and gaskets for signs of deterioration. Failure to maintain the integrity of the door system shortens the life span of the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText>.</p>
+    </body>
+</html>

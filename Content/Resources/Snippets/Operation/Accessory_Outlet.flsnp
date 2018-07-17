@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h2>Chamber Accessory Power Outlet</h2>
+        <p>The <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> is provided with a <MadCap:conditionalText MadCap:conditions="Voltage.220V">220 – 240</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">110 - 120</MadCap:conditionalText> volt, 1-amp power outlet inside the chamber. Do not attach powered equipment that draws more than 1 amp.</p>
+        <ul>•	Verify that any powered accessory equipment used inside the chamber can safely and effectively operate within your selected temperature range.</ul>
+        <ul>•	 Powered equipment, such as stirrers or shakers, can generate heat sufficient to disrupt the thermal uniformity and stability of the chamber.</ul>
+    </body>
+</html>

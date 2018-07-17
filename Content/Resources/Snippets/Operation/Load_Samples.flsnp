@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h2>Load Samples</h2>
+        <p>The manufacturer strongly recommends waiting at least <b>8 hours</b> after putting the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> in operation before loading samples in the chamber. This safeguards samples against temperature instability.</p>
+        <ul>•	Samples should be placed at least 1 inch (25 mm) away from the chamber walls.</ul>
+        <ul>•	Proper spacing allows for maximum air circulation and a higher degree of temperature uniformity.</ul>
+        <ul>•	Proper spacing also decreases the chance of condensate forming in the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> when operating with a large number of samples in the chamber.</ul>
+    </body>
+</html>
