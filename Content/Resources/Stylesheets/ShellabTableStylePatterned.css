@@ -42,6 +42,8 @@ mcTableHeadStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	cell-content-style-tag: p;
+	cell-content-style-class: Table_Header;
 }
 
 mcTableBodyStyle
@@ -55,6 +57,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	text-align: left;
 	cell-padding-left: 10px;
+	cell-content-style-tag: p;
+	cell-content-style-class: table_data;
 }
 
 mcTableBodyStyle
@@ -68,6 +72,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	cell-padding-left: 10px;
+	cell-content-style-tag: p;
+	cell-content-style-class: table_data;
 }
 
 

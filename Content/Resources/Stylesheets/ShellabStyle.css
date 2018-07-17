@@ -185,6 +185,14 @@ p.Back_Page
 	line-height: 5pt;
 }
 
+p.Table_Header
+{
+	font-weight: bold;
+	font-size: 10pt;
+	text-align: center;
+	padding: 5pt;
+}
+
 header
 {
 	font-weight: bold;
@@ -207,12 +215,12 @@ MadCap|pageFooter
 	margin-top: 0px;
 }
 
-td
+p.table_data
 {
 	font: Proxima Nova;
 	font-size: 10pt;
 	text-align: left;
-	padding: 5pt;
+	padding-left: 5pt;
 	margin-left: 8pt;
 }
 
@@ -221,8 +229,6 @@ th
 	font-weight: bold;
 	font-size: 10pt;
 	text-align: center;
-	background: #f5f5f5;
-	padding: 5pt;
 	border: solid 1px #f5f5f5;
 }
 

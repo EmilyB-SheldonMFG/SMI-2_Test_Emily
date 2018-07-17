@@ -19,8 +19,8 @@ mcTableStyle
 	page-break-inside: avoid;
 	cell-padding-left: 10px;
 	cell-padding-right: 5px;
-	cell-padding-top: 2px;
-	cell-padding-bottom: 0px;
+	cell-padding-top: 1px;
+	cell-padding-bottom: 1px;
 }
 
 mcTableColumnStyle
@@ -43,12 +43,13 @@ mcTableHeadStyle
 	separator-color: #000000;
 	name: Header1;
 	id: 2;
-	vertical-align: middle;
 	text-align: center;
 	font-weight: bold;
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: p;
 	background-color: #dcdcdc;
+	cell-padding-top: 1px;
+	cell-padding-bottom: 1px;
 }
 
 mcTableBodyStyle
@@ -61,12 +62,13 @@ mcTableBodyStyle
 	id: 1;
 	text-align: left;
 	vertical-align: middle;
-	cell-content-style-class: Table_Body;
+	cell-content-style-class: table_data;
 	cell-padding-left: 10px;
 	cell-padding-right: 5px;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	background-color: #f5f5f5;
+	cell-content-style-tag: p;
 }
 
 
@@ -102,12 +104,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadI-Column1-Header1 p
@@ -119,15 +121,15 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -142,12 +144,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -162,15 +164,15 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadH-Column1-Header1 p
@@ -182,12 +184,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -202,12 +204,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadC-Column1-Header1 p
@@ -219,15 +221,15 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadB-Column1-Header1 p
@@ -239,12 +241,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadA-Column1-Header1 p
@@ -256,12 +258,12 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	vertical-align: middle;
 	font-weight: bold;
 	text-align: center;
-	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStyle-HeadG-Column1-Header1 p
@@ -273,8 +275,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -288,8 +290,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -306,8 +308,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -321,8 +323,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -339,8 +341,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -354,8 +356,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -369,8 +371,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 	border-right-width: 0px;
@@ -387,8 +389,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
@@ -402,8 +404,8 @@ mcTableBodyStyle
 {
 	padding-left: 10px;
 	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 0px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 	vertical-align: middle;
 }
