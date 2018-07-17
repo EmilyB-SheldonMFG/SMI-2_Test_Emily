@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheetOverride="True" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." xml:lang="en-us" MasterToc="/Project/TOCs/SMITestTOC.fltoc">
+<CatapultProject Version="1" MasterStylesheetOverride="True" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." xml:lang="en-us" MasterToc="/Project/TOCs/SMITestTOC.fltoc" SourceControlProviderType="Git" ProjectGuid="fb7f47fb-dc5a-4b60-a557-dc2130a9a6be">
     <Synchronize>
         <Mapping ProjectPath="Content/Resources/Images/SheldonMFG_BW.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/Sheldon_MFG/SheldonMFG_BW.png" />
         <Mapping ProjectPath="Content/Resources/Images/CE_Cert.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/CE_Cert.png" />
