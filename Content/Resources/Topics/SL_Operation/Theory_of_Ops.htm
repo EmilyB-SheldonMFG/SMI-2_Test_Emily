@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>OPERATION</h1>
+        <h2>Theory of Operation</h2>
+        <p>Each incubator chamber in an SMI12-2 is independently powered and heated.</p>
+        <h3>Heating</h3>
+        <p>When powered, the incubator heats to and then maintains a user-selected target set point in the incubation chamber. The incubator senses the chamber air temperature using a solid-state probe mounted on the chamber interior wall. When the incubator detects that the chamber temperature has dropped below the target set point, it pulses power to the heating elements inside the chamber walls and in the outer chamber door.</p>
+        <p>The incubator temperature controller employs proportional-integral-derivative analytical feedback-loop functions when measuring and controlling the chamber air temperature. PID-controlled heating pulse intensities and lengths are proportional to the difference between the measured chamber temperature and the target set point. The frequency of pulses is derived from the rate of change in the difference. The integral function slows the rate of pulses when the temperature nears the set point to avoid overshooting.</p>
+        <p>SMI incubators rely on natural heat radiation for cooling. These units can achieve a low-end temperature of the ambient room temperature plus the internal waste heat of the incubator.</p>
+        <p>Each chamber door is self-heating to bolster the thermal uniformity and stability of the chamber and to minimize condensation on the glass viewing door. The inner glass door will cool while the chamber door is opened, eventually leading to condensate on the door and impacting the chamber temperature stability and uniformity. Minimize sample viewing times when possible.</p>
+        <p>&#160;</p>
+        <h3>The Over Temperature Limit System (OTL)</h3>
+        <p>The OTL is a mechanical heating cutoff included with each incubator and operates independently of the incubator microprocessor temperature controller. The OTL helps safeguard the incubator by preventing runaway heating in the event of hardware failures or a sudden external heat spike. The OTL is connected to a hydrostatic sensor probe located inside the incubator and is intended to be set by the user to approximately 1°C above the target temperature set point.</p>
+        <p>If the incubator temperature exceeds the OTL cutoff setting, the OTL routes power away from the incubator heating elements. It will continue to do so as long as the chamber air temperature is higher than the OTL cutoff setting. A red indicator illuminates when the OTL is rerouting power.</p>
+        <p>&#160;</p>
+        <h3>Data Logging and Outputs</h3>
+        <p>The incubator logs up to 5 years of temperature data, with measurements recorded every 60 seconds. The log can be exported an as a spreadsheet-readable .CSV file using the USB port on the right side of the incubator. A 4 – 20 milliamp data port outputs temperature data as an analog signal suitable for building monitoring systems. An open / closed dry contact port communicates alarm activation instances.</p>
+        <MadCap:pageBreak />
+    </body>
+</html>

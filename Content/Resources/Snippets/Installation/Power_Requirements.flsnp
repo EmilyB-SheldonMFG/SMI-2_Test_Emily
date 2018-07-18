@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li><b>Supplied voltage must not vary more than 10% from the data plate rating.</b> Damage to the unit may result if supplied voltage varies more than 10%.</li>
+            <li>The wall power source must be protective earth grounded.</li>
+            <li>Use a separate circuit to prevent loss of the unit due to overloading or circuit failure.</li>
+            <li><b>The recommended wall circuit breakers for these units are </b>
+                <MadCap:conditionalText MadCap:conditions="Voltage.220V"><b>16 amps</b>
+                </MadCap:conditionalText><b></b>
+                <MadCap:conditionalText MadCap:conditions="Voltage.110V"><b>15 amps</b>
+                </MadCap:conditionalText><b>.</b>
+            </li>
+            <li>The wall power source must conform to all national and local electrical codes.</li>
+        </ul>
+    </body>
+</html>
