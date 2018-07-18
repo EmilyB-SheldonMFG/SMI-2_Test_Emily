@@ -7,7 +7,7 @@
     BreakType="pageLayout"
     AutoEndOnLeftPage="disabled"
     StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Title_Page.flpgl" />
+    PageLayout="/Content/Resources/PageLayouts/SL_Title_Page.flpgl" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Resources/Topics/Front_Matter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -15,7 +15,7 @@
     PageType="left"
     AutoEndOnLeftPage="disabled"
     StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Blank.flpgl" />
+    PageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Resources/Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -27,8 +27,7 @@
     Link="/Content/Resources/Topics/TableofContents.htm"
     BreakType="pageLayout"
     AutoEndOnLeftPage="disabled"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Table_of_Contents.flpgl"></TocEntry>
+    StartSection="false"></TocEntry>
   <TocEntry
     Title="Introduction">
     <TocEntry
@@ -39,7 +38,7 @@
       AutoEndOnLeftPage="disabled"
       StartSection="false"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Introduction.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/SL_Introduction.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Contact_Assistance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -62,8 +61,7 @@
       AutoEndOnLeftPage="disabled"
       StartSection="false"
       PageNumberReset="continue"
-      PageType="firstright"
-      PageLayout="/Content/Resources/PageLayouts/Receiving.flpgl" />
+      PageType="firstright" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Data_Plate.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -81,7 +79,7 @@
       AutoEndOnLeftPage="disabled"
       StartSection="false"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Installation.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/SL_Installation.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Ambient_&amp;_Clearances.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -110,8 +108,7 @@
       AutoEndOnLeftPage="disabled"
       PageType="firstright"
       StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Graphic_Symbols.flpgl" />
+      PageNumberReset="continue" />
   </TocEntry>
   <TocEntry
     Title="Operation">
@@ -123,7 +120,7 @@
       StartSection="false"
       BreakType="chapter"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Operation.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/SL_Operation.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Set_OTL_Table.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -152,8 +149,7 @@
       AutoEndOnLeftPage="disabled"
       StartSection="false"
       PageNumberReset="continue"
-      PageType="firstright"
-      PageLayout="/Content/Resources/PageLayouts/Maintenance.flpgl" />
+      PageType="firstright" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/Maintenance_Disinfect.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -176,8 +172,7 @@
       PageType="firstright"
       AutoEndOnLeftPage="disabled"
       StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Unit_Specs.flpgl" />
+      PageNumberReset="continue" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -185,5 +180,5 @@
     BreakType="pageLayout"
     AutoEndOnLeftPage="disabled"
     StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Back_Page.flpgl" />
+    PageLayout="/Content/Resources/PageLayouts/SL_Back_Page.flpgl" />
 </CatapultToc>

@@ -1,23 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
+        <p>&#160;</p>
         <h2>Installation&#160;Procedure Checklist</h2>
         <p>For installing the unit in a new workspace location.</p>
         <p>&#160;</p>
+        <p>&#160;</p>
         <h3 class="Checkmark">Pre-Installation</h3>
-        <ul class="Checkmark">Check that the required ambient conditions for the unit are met, page 20.</ul>
-        <ul class="Checkmark">Check that the spacing clearance requirements are met, page 20.</ul>
-        <ul class="Checkmark_Sub">Unit dimensions may be found on page 53.</ul>
-        <ul class="Checkmark">Check that a suitable electrical outlet and power supply is present, page 21.</ul>
+        <ul class="Install_Checklist">
+            <li>Check that the required ambient conditions for the unit are met, page .</li>
+            <li>Check that the spacing clearance requirements are met, page .<ul><li>Unit dimensions may be found on page .</li></ul></li>
+            <li>Check that a suitable electrical outlet and power supply is present, page .</li>
+        </ul>
         <p>&#160;</p>
-        <h3 class="Checkmark">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> in a suitable workspace location</h3>
-        <ul class="Checkmark">Review the lifting and handling instructions, page 22.</ul>
-        <ul class="Checkmark">Install the unit leveling feet, page 22.</ul>
-        <ul class="Checkmark">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> in its workspace location, page 22.</ul>
+        <h3 class="Checkmark">Install the incubator in a suitable workspace location</h3>
+        <ul class="Install_Checklist">
+            <li>Review the lifting and handling instructions, page .</li>
+            <li>Install the unit leveling feet, page .</li>
+            <li>Install the incubator in its workspace location, page.</li>
+        </ul>
         <p>&#160;</p>
-        <h3 class="Checkmark">Set up the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> for use</h3>
-        <ul class="Checkmark">Clean and disinfect the unit and shelving (recommended), page 23.</ul>
-        <ul class="Checkmark">Install the shelving, page 24.</ul>
-        <ul class="Checkmark">Verify the port cover is installed on the access port, page 24.</ul>
+        <h3 class="Checkmark">Set up the incubator for use</h3>
+        <ul class="Install_Checklist">
+            <li>Clean and disinfect the unit and shelving (recommended), page .</li>
+            <li>Install the shelving, page .</li>
+            <li>Verify the port cover is installed on the access port, page .</li>
+        </ul>
+        <p>&#160;</p>
+        <p>&#160;</p>
     </body>
 </html>

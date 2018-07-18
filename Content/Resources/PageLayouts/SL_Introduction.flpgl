@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles>
-    <Page Name="First_Right_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="firstright" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedLeft="0.5in" BleedRight="0.5in">
+    <Page Name="First_Right_SL_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="firstright" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedLeft="0.5in" BleedRight="0.5in">
         <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="-12px" Right="0in" Bottom="-29px" Width="6.5in" Height="9.427083in" FlowIndex="1">
         </Frame>
         <Frame Flow="footer" Anchors="" Right="0px" X="0in" Y="9.385417in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" TextAlign="right" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#a7a6a6" Width="6.5in" Bottom="-85px" VerticalAlign="middle">
@@ -17,7 +17,7 @@
         <Frame X="-76px" Y="-72px" Width="796px" Height="45px" FlowIndex="0" Right="-96px" Bottom="891px" BackgroundColor="#00aeef" BackgroundType="Solid" BorderBottomStyle="solid" BorderBottomWidth="7px" BorderBottomColor="#a7a6a6" Anchors="" Flow="body" />
         <Frame X="0px" Y="920px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-80px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" />
     </Page>
-    <Page Name="Left_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.5in">
+    <Page Name="Left_SL_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.5in">
         <Frame Flow="header" Anchors="" Right="-96px" Bottom="947px" X="-76px" Y="-0.25in" ColumnCount="1" PaddingLeft="50pt" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Height="0.3854167in" BorderBottomStyle="solid" BorderBottomWidth="0pt" BorderBottomColor="#696969" TextAlign="left" Width="8.291667in" BackgroundType="Solid" BackgroundColor="#a7a6a6" VerticalAlign="middle">
             <Content>
                 <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -42,7 +42,7 @@
         </Frame>
         <Frame X="447px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-32px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
     </Page>
-    <Page Name="Right_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.5in">
+    <Page Name="Right_SL_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.5in">
         <Frame Flow="header" Anchors="" Right="-96px" Bottom="947px" X="-76px" Y="-0.25in" ColumnCount="1" PaddingLeft="50pt" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Height="0.3854167in" BorderBottomStyle="solid" BorderBottomWidth="0pt" BorderBottomColor="#696969" TextAlign="left" Width="8.291667in" BackgroundType="Solid" BackgroundColor="#a7a6a6" VerticalAlign="middle">
             <Content>
                 <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -67,7 +67,7 @@
         </Frame>
         <Frame X="0px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-32px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
     </Page>
-    <Page Name="Left_Empty_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="emptyleft" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedRight="0.5in" BleedLeft="0.5in">
+    <Page Name="Left_Empty_SL_Introduction" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="emptyleft" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedRight="0.5in" BleedLeft="0.5in">
         <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="-0.125in" Right="0in" Bottom="-0.3020833in" Width="6.5in" Height="9.427083in">
         </Frame>
         <Frame X="447px" Y="920px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-80px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
