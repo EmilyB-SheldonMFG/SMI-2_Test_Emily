@@ -14,6 +14,21 @@ body
 	padding: 8pt;
 }
 
+/*<headers />*/
+
+header
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 22pt;
+	text-align: left;
+	font-family: 'Proxima Nova Semibold';
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	color: #ffffff;
+}
+
 h1
 {
 	font: 'Proxima Nova Semibold';
@@ -25,7 +40,7 @@ h1
 	page-break-before: always;
 	padding-left: .8in;
 	padding-bottom: 12pt;
-	line-height: 14pt;
+	line-height: 4pt;
 }
 
 h2
@@ -53,19 +68,13 @@ h3.Checkmark
 	padding-left: .44in;
 }
 
-div.NoPageBreak
-{
-	page-break-inside: avoid;
-}
+/*<lists />*/
 
-ul.Checkmark
+li
 {
-	padding-left: .69in;
-}
-
-ul.Checkmark_Sub
-{
-	padding-left: 1.13in;
+	padding-top: 8pt;
+	padding-bottom: 8pt;
+	margin: 2pt;
 }
 
 ul.Right
@@ -78,9 +87,14 @@ ul.Secondary
 	padding-left: 1.13in;
 }
 
-ol
+ol.bold
 {
 	font-weight: bold;
+}
+
+ol
+{
+	font-family: 'Proxima Nova';
 }
 
 p.Note
@@ -185,24 +199,9 @@ p.Back_Page
 	line-height: 5pt;
 }
 
-p.Table_Header
+div.NoPageBreak
 {
-	font-weight: bold;
-	font-size: 10pt;
-	text-align: center;
-}
-
-header
-{
-	font-weight: bold;
-	text-transform: uppercase;
-	font-size: 22pt;
-	text-align: left;
-	font-family: 'Proxima Nova Semibold';
-	margin-bottom: 12pt;
-	margin-left: 0pt;
-	margin-right: 0pt;
-	color: #ffffff;
+	page-break-inside: avoid;
 }
 
 MadCap|pageFooter
@@ -214,24 +213,31 @@ MadCap|pageFooter
 	margin-top: 0px;
 }
 
-p.table_data
-{
-	font: Proxima Nova;
-	font-size: 10pt;
-	text-align: left;
-	padding-left: 5pt;
-	margin-left: 8pt;
-}
-
-th
-{
-	font-weight: bold;
-	font-size: 10pt;
-	text-align: center;
-	border: solid 1px #f5f5f5;
-}
-
 MadCap|xref.ConceptPageNumber
 {
 	mc-format: '{pageref}';
+}
+
+ul.Install_Checklist
+{
+	list-style-image: none;
+	padding-left: .69in;
+}
+
+ul.Install_Checklist > li::marker
+{
+	font-family: Wingdings;
+	content: 'ü';
+}
+
+ul.Install_Checklist > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.Install_Checklist > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
 }
