@@ -44,6 +44,8 @@ mcTableHeadStyle
 	background-color: #dcdcdc;
 	cell-content-style-tag: p;
 	cell-content-style-class: Table_Header;
+	cell-padding-top: 1px;
+	cell-padding-bottom: 1px;
 }
 
 mcTableBodyStyle
@@ -59,6 +61,8 @@ mcTableBodyStyle
 	cell-padding-left: 10px;
 	cell-content-style-tag: p;
 	cell-content-style-class: table_data;
+	cell-padding-top: 1px;
+	cell-padding-bottom: 1px;
 }
 
 mcTableBodyStyle
@@ -112,6 +116,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadI-Column1-Header1 p
@@ -127,6 +133,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -142,6 +150,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -160,6 +170,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadH-Column1-Header1 p
@@ -172,6 +184,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -187,6 +201,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadC-Column1-Header1 p
@@ -202,6 +218,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadB-Column1-Header1 p
@@ -214,6 +232,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadA-Column1-Header1 p
@@ -226,6 +246,8 @@ mcTableBodyStyle
 	text-align: center;
 	vertical-align: middle;
 	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-HeadG-Column1-Header1 p
@@ -339,6 +361,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-BodyI-Column1-Body1 p
@@ -351,6 +375,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -369,6 +395,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -384,6 +412,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -399,6 +429,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -414,6 +446,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-BodyC-Column1-Body1 p
@@ -426,6 +460,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -441,6 +477,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-BodyA-Column1-Body1 p
@@ -453,6 +491,8 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .TableStyle-ShellabTableStylePatterned-BodyG-Column1-Body1 p
