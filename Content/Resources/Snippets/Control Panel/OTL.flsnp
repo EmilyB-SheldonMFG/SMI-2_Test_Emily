@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h3>Over Temperature Limit (OTL)</h3>
+        <p>This graduated dial sets the heating cut off point for the Over Temperature Limit (OTL) system. The OTL helps prevents unchecked heating of the chamber in the event of a hardware failure or external heat spike. For more details, please see the Over Temperature Limit System description in the Theory of Operations (page ).</p>
+        <p>The red Over Temperature Activated light illuminates when the OTL system cuts off heating to the incubation chamber by rerouting power away from the heating elements.</p>
+    </body>
+</html>
