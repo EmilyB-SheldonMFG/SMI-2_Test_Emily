@@ -10,10 +10,10 @@
         <p>&#160;</p>
         <table style="border-spacing: 0px 1px;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;border-collapse: separate;margin-left: 0;margin-right: auto;mc-table-style: url('../../Stylesheets/SLDataPlateTable.css');" class="TableStyle-SLDataPlateTable" cellspacing="0">
             <col class="TableStyle-SLDataPlateTable-Column-Column1" />
-            <col style="width: 300px;" class="TableStyle-SLDataPlateTable-Column-Column2" />
+            <col style="width: 468px;" class="TableStyle-SLDataPlateTable-Column-Column2" />
             <tbody>
                 <tr class="TableStyle-SLDataPlateTable-Body-Body1">
-                    <td style="font-weight: bold;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
+                    <td style="font-weight: bold;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: none;border-bottom-width: 0px;border-bottom-color: #000000;padding-left: 10px;padding-right: 30px;padding-top: 2px;padding-bottom: 2px;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
                         <p>MODEL NO:</p>
                     </td>
                     <td class="TableStyle-SLDataPlateTable-BodyD-Column2-Body1">
@@ -21,7 +21,7 @@
                     </td>
                 </tr>
                 <tr class="TableStyle-SLDataPlateTable-Body-Body1">
-                    <td style="font-weight: bold;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
+                    <td style="font-weight: bold;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: none;border-bottom-width: 0px;border-bottom-color: #000000;padding-left: 10px;padding-right: 30px;padding-top: 2px;padding-bottom: 2px;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
                         <p>SERIAL NO:</p>
                     </td>
                     <td class="TableStyle-SLDataPlateTable-BodyD-Column2-Body1">
@@ -29,7 +29,7 @@
                     </td>
                 </tr>
                 <tr class="TableStyle-SLDataPlateTable-Body-Body1">
-                    <td style="font-weight: bold;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
+                    <td style="font-weight: bold;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: none;border-bottom-width: 0px;border-bottom-color: #000000;padding-left: 10px;padding-right: 30px;padding-top: 2px;padding-bottom: 2px;" class="TableStyle-SLDataPlateTable-BodyE-Column1-Body1">
                         <p>PART NO:</p>
                     </td>
                     <td class="TableStyle-SLDataPlateTable-BodyD-Column2-Body1">

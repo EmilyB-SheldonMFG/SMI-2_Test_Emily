@@ -68,6 +68,16 @@ h3.Checkmark
 	padding-left: .44in;
 }
 
+h3.right
+{
+	text-align: right;
+}
+
+h3.centered
+{
+	text-align: center;
+}
+
 /*<lists />*/
 
 li
@@ -81,7 +91,8 @@ ul.Right
 {
 	text-align: right;
 }
-ol. Right
+
+ol.Right
 {
 	text-align: right;
 }
@@ -89,6 +100,11 @@ ol. Right
 ul.Secondary
 {
 	padding-left: 1.13in;
+}
+
+ul.centered
+{
+	text-align: center;
 }
 
 ol.bold
@@ -112,6 +128,11 @@ p.Note
 	border-bottom-color: black;
 	margin-bottom: 6pt;
 	text-align: justify;
+}
+
+p.right
+{
+	text-align: center;
 }
 
 p.centered
@@ -244,4 +265,11 @@ ul.Install_Checklist > li > ul > li::marker
 {
 	font-family: ;
 	content: '•';
+}
+
+p.Table_Head
+{
+	border-bottom: solid 1px #c0c0c0;
+	border: solid 1px #c0c0c0;
+	background: #dcdcdc;
 }

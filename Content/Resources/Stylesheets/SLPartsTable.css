@@ -4,7 +4,7 @@
 
 mcTableStyle
 {
-	name: ShellabTableStylePatterned;
+	name: SLPartsTable;
 	border-collapse: collapse;
 	border-left-style: solid;
 	border-left-width: 1px;
@@ -56,6 +56,8 @@ mcTableColumnStyle
 	id: 6;
 	name: Column3;
 	background-color: #dcdcdc;
+	separator-style: solid;
+	separator-width: 1px;
 }
 
 mcTableHeadStyle
@@ -97,7 +99,7 @@ mcTableBodyStyle
 
 /* Cell Styles: */
  
-.TableStyle-ShellabTableStylePatterned
+.TableStyle-SLPartsTable
 {
 	border-collapse: collapse;
 	border-left-style: solid;
@@ -115,27 +117,27 @@ mcTableBodyStyle
 	border-spacing: 0px 0px;
 }
 
-.TableStyle-ShellabTableStylePatterned-Column-Column1
+.TableStyle-SLPartsTable-Column-Column1
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-Column-Column2
+.TableStyle-SLPartsTable-Column-Column2
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-Column-Column3
+.TableStyle-SLPartsTable-Column-Column3
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-Head-Header1
+.TableStyle-SLPartsTable-Head-Header1
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column1-Header1
+.TableStyle-SLPartsTable-HeadI-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -146,12 +148,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadI-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column1-Header1
+.TableStyle-SLPartsTable-HeadE-Column1-Header1
 {
 	border-right-width: 1px;
 	border-right-color: #000000;
@@ -168,12 +170,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadE-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column1-Header1
+.TableStyle-SLPartsTable-HeadF-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -187,12 +189,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadF-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadH-Column1-Header1
+.TableStyle-SLPartsTable-HeadH-Column1-Header1
 {
 	border-right-width: 1px;
 	border-right-color: #000000;
@@ -206,12 +208,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadH-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadH-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadD-Column1-Header1
+.TableStyle-SLPartsTable-HeadD-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -225,12 +227,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadD-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadD-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadC-Column1-Header1
+.TableStyle-SLPartsTable-HeadC-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -241,12 +243,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadC-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadC-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column1-Header1
+.TableStyle-SLPartsTable-HeadB-Column1-Header1
 {
 	border-right-width: 1px;
 	border-right-color: #000000;
@@ -260,28 +262,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadB-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadA-Column1-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadA-Column1-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadG-Column1-Header1
+.TableStyle-SLPartsTable-HeadA-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -292,12 +278,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadG-Column1-Header1 p
+.TableStyle-SLPartsTable-HeadA-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column2-Header1
+.TableStyle-SLPartsTable-HeadG-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -308,12 +294,28 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadG-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column2-Header1
+.TableStyle-SLPartsTable-HeadI-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-HeadI-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-HeadE-Column2-Header1
 {
 	border-right-width: 1px;
 	border-right-style: solid;
@@ -329,12 +331,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadE-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column2-Header1
+.TableStyle-SLPartsTable-HeadF-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -348,12 +350,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadF-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadH-Column2-Header1
+.TableStyle-SLPartsTable-HeadH-Column2-Header1
 {
 	border-right-width: 1px;
 	border-right-style: solid;
@@ -366,12 +368,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadH-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadH-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadD-Column2-Header1
+.TableStyle-SLPartsTable-HeadD-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -385,12 +387,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadD-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadD-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadC-Column2-Header1
+.TableStyle-SLPartsTable-HeadC-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -401,12 +403,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadC-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadC-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column2-Header1
+.TableStyle-SLPartsTable-HeadB-Column2-Header1
 {
 	border-right-width: 1px;
 	border-right-style: solid;
@@ -419,28 +421,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadB-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadA-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadA-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadG-Column2-Header1
+.TableStyle-SLPartsTable-HeadA-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -451,12 +437,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadG-Column2-Header1 p
+.TableStyle-SLPartsTable-HeadA-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column3-Header1
+.TableStyle-SLPartsTable-HeadG-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -467,12 +453,49 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadI-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadG-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column3-Header1
+.TableStyle-SLPartsTable-HeadI-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-HeadI-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-HeadE-Column3-Header1
+{
+	border-right-width: 1px;
+	border-right-style: solid;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLPartsTable-HeadE-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-HeadF-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -486,12 +509,30 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadE-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadF-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column3-Header1
+.TableStyle-SLPartsTable-HeadH-Column3-Header1
+{
+	border-right-width: 1px;
+	border-right-style: solid;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-HeadH-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-HeadD-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -505,47 +546,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadF-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadD-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadH-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadH-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadD-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	border-bottom-style: solid;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadD-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadC-Column3-Header1
+.TableStyle-SLPartsTable-HeadC-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -556,12 +562,30 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadC-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadC-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column3-Header1
+.TableStyle-SLPartsTable-HeadB-Column3-Header1
+{
+	border-right-width: 1px;
+	border-right-style: solid;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-HeadB-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-HeadA-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -572,28 +596,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadB-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadA-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadA-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadA-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-HeadG-Column3-Header1
+.TableStyle-SLPartsTable-HeadG-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -604,12 +612,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-HeadG-Column3-Header1 p
+.TableStyle-SLPartsTable-HeadG-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column1-
+.TableStyle-SLPartsTable-FootI-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -618,43 +626,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column1- p
+.TableStyle-SLPartsTable-FootI-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootE-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	border-right-width: 1px;
-	border-right-color: #000000;
-	border-right-style: solid;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootE-Column1- p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-FootF-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootF-Column1- p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-FootH-Column1-
+.TableStyle-SLPartsTable-FootE-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -666,12 +643,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootH-Column1- p
+.TableStyle-SLPartsTable-FootE-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootD-Column1-
+.TableStyle-SLPartsTable-FootF-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -680,26 +657,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootD-Column1- p
+.TableStyle-SLPartsTable-FootF-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootC-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootC-Column1- p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-FootB-Column1-
+.TableStyle-SLPartsTable-FootH-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -711,12 +674,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootB-Column1- p
+.TableStyle-SLPartsTable-FootH-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootA-Column1-
+.TableStyle-SLPartsTable-FootD-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -725,12 +688,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootA-Column1- p
+.TableStyle-SLPartsTable-FootD-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootG-Column1-
+.TableStyle-SLPartsTable-FootC-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -739,12 +702,57 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootG-Column1- p
+.TableStyle-SLPartsTable-FootC-Column1- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column2-
+.TableStyle-SLPartsTable-FootB-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootA-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootG-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootI-Column2-
 {
 	font-weight: bold;
 	text-align: center;
@@ -753,12 +761,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column2- p
+.TableStyle-SLPartsTable-FootI-Column2- p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootE-Column2-
+.TableStyle-SLPartsTable-FootE-Column2-
 {
 	font-weight: bold;
 	text-align: center;
@@ -769,42 +777,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootE-Column2- p
+.TableStyle-SLPartsTable-FootE-Column2- p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootF-Column2-
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: bottom;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootF-Column2- p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootH-Column2-
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: bottom;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	border-right-width: 1px;
-	border-right-style: solid;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootH-Column2- p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootD-Column2-
+.TableStyle-SLPartsTable-FootF-Column2-
 {
 	font-weight: bold;
 	text-align: center;
@@ -813,26 +791,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootD-Column2- p
+.TableStyle-SLPartsTable-FootF-Column2- p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootC-Column2-
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: bottom;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootC-Column2- p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootB-Column2-
+.TableStyle-SLPartsTable-FootH-Column2-
 {
 	font-weight: bold;
 	text-align: center;
@@ -843,26 +807,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootB-Column2- p
+.TableStyle-SLPartsTable-FootH-Column2- p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootA-Column2-
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: bottom;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootA-Column2- p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootG-Column2-
+.TableStyle-SLPartsTable-FootD-Column2-
 {
 	font-weight: bold;
 	text-align: center;
@@ -871,107 +821,171 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootG-Column2- p
+.TableStyle-SLPartsTable-FootD-Column2- p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column3-
+.TableStyle-SLPartsTable-FootC-Column2-
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-FootC-Column2- p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-FootB-Column2-
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-FootB-Column2- p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-FootA-Column2-
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-FootA-Column2- p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-FootG-Column2-
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-FootG-Column2- p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-FootI-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootI-Column3- p
+.TableStyle-SLPartsTable-FootI-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootE-Column3-
+.TableStyle-SLPartsTable-FootE-Column3-
+{
+	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-FootE-Column3- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootF-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootE-Column3- p
+.TableStyle-SLPartsTable-FootF-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootF-Column3-
+.TableStyle-SLPartsTable-FootH-Column3-
+{
+	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-FootH-Column3- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootD-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootF-Column3- p
+.TableStyle-SLPartsTable-FootD-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootH-Column3-
+.TableStyle-SLPartsTable-FootC-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootH-Column3- p
+.TableStyle-SLPartsTable-FootC-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootD-Column3-
+.TableStyle-SLPartsTable-FootB-Column3-
+{
+	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-FootB-Column3- p
+{
+	
+}
+
+.TableStyle-SLPartsTable-FootA-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootD-Column3- p
+.TableStyle-SLPartsTable-FootA-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootC-Column3-
+.TableStyle-SLPartsTable-FootG-Column3-
 {
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-FootC-Column3- p
+.TableStyle-SLPartsTable-FootG-Column3- p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootB-Column3-
-{
-	background-color: #dcdcdc;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootB-Column3- p
+.TableStyle-SLPartsTable-Body-Body1
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-FootA-Column3-
-{
-	background-color: #dcdcdc;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootA-Column3- p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-FootG-Column3-
-{
-	background-color: #dcdcdc;
-}
-
-.TableStyle-ShellabTableStylePatterned-FootG-Column3- p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-Body-Body1
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyI-Column1-Body1
+.TableStyle-SLPartsTable-BodyI-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -980,12 +994,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyI-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyI-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column1-Body1
+.TableStyle-SLPartsTable-BodyE-Column1-Body1
 {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
@@ -1000,12 +1014,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyE-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column1-Body1
+.TableStyle-SLPartsTable-BodyF-Column1-Body1
 {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
@@ -1017,12 +1031,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyF-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column1-Body1
+.TableStyle-SLPartsTable-BodyH-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1034,12 +1048,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyH-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyD-Column1-Body1
+.TableStyle-SLPartsTable-BodyD-Column1-Body1
 {
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
@@ -1051,12 +1065,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyD-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyD-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyC-Column1-Body1
+.TableStyle-SLPartsTable-BodyC-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1065,12 +1079,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyC-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyC-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column1-Body1
+.TableStyle-SLPartsTable-BodyB-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1082,12 +1096,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyB-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyA-Column1-Body1
+.TableStyle-SLPartsTable-BodyA-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1096,12 +1110,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyA-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyA-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyG-Column1-Body1
+.TableStyle-SLPartsTable-BodyG-Column1-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1110,12 +1124,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyG-Column1-Body1 p
+.TableStyle-SLPartsTable-BodyG-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyI-Column2-Body1
+.TableStyle-SLPartsTable-BodyI-Column2-Body1
 {
 	padding-left: 10px;
 	font-weight: bold;
@@ -1125,12 +1139,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyI-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyI-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column2-Body1
+.TableStyle-SLPartsTable-BodyE-Column2-Body1
 {
 	padding-left: 10px;
 	border-bottom-width: 1px;
@@ -1145,12 +1159,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyE-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column2-Body1
+.TableStyle-SLPartsTable-BodyF-Column2-Body1
 {
 	padding-left: 10px;
 	border-bottom-width: 1px;
@@ -1163,12 +1177,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyF-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column2-Body1
+.TableStyle-SLPartsTable-BodyH-Column2-Body1
 {
 	padding-left: 10px;
 	font-weight: bold;
@@ -1180,12 +1194,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyH-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyD-Column2-Body1
+.TableStyle-SLPartsTable-BodyD-Column2-Body1
 {
 	padding-left: 10px;
 	border-bottom-width: 1px;
@@ -1198,12 +1212,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyD-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyD-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyC-Column2-Body1
+.TableStyle-SLPartsTable-BodyC-Column2-Body1
 {
 	padding-left: 10px;
 	font-weight: bold;
@@ -1213,12 +1227,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyC-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyC-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column2-Body1
+.TableStyle-SLPartsTable-BodyB-Column2-Body1
 {
 	padding-left: 10px;
 	font-weight: bold;
@@ -1230,27 +1244,12 @@ mcTableBodyStyle
 	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyB-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyA-Column2-Body1
-{
-	padding-left: 10px;
-	font-weight: bold;
-	text-align: center;
-	vertical-align: bottom;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyA-Column2-Body1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyG-Column2-Body1
+.TableStyle-SLPartsTable-BodyA-Column2-Body1
 {
 	padding-left: 10px;
 	font-weight: bold;
@@ -1260,12 +1259,27 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyG-Column2-Body1 p
+.TableStyle-SLPartsTable-BodyA-Column2-Body1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyI-Column3-Body1
+.TableStyle-SLPartsTable-BodyG-Column2-Body1
+{
+	padding-left: 10px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLPartsTable-BodyG-Column2-Body1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLPartsTable-BodyI-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1275,12 +1289,32 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyI-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyI-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column3-Body1
+.TableStyle-SLPartsTable-BodyE-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-BodyE-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLPartsTable-BodyF-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1293,12 +1327,29 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyE-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyF-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column3-Body1
+.TableStyle-SLPartsTable-BodyH-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
+.TableStyle-SLPartsTable-BodyH-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLPartsTable-BodyD-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1311,12 +1362,12 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyF-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyD-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column3-Body1
+.TableStyle-SLPartsTable-BodyC-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1326,30 +1377,12 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyH-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyC-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyD-Column3-Body1
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 10px;
-	padding-top: 1px;
-	padding-bottom: 1px;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	border-bottom-style: solid;
-	background-color: #dcdcdc;
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyD-Column3-Body1 p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyC-Column3-Body1
+.TableStyle-SLPartsTable-BodyB-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1357,14 +1390,16 @@ mcTableBodyStyle
 	padding-top: 1px;
 	padding-bottom: 1px;
 	background-color: #dcdcdc;
+	border-right-width: 1px;
+	border-right-style: solid;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyC-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyB-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column3-Body1
+.TableStyle-SLPartsTable-BodyA-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1374,12 +1409,12 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyB-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyA-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyA-Column3-Body1
+.TableStyle-SLPartsTable-BodyG-Column3-Body1
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1389,22 +1424,7 @@ mcTableBodyStyle
 	background-color: #dcdcdc;
 }
 
-.TableStyle-ShellabTableStylePatterned-BodyA-Column3-Body1 p
-{
-	
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyG-Column3-Body1
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 10px;
-	padding-top: 1px;
-	padding-bottom: 1px;
-	background-color: #dcdcdc;
-}
-
-.TableStyle-ShellabTableStylePatterned-BodyG-Column3-Body1 p
+.TableStyle-SLPartsTable-BodyG-Column3-Body1 p
 {
 	
 }

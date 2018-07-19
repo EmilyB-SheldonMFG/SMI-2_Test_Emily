@@ -4,7 +4,7 @@
 
 mcTableStyle
 {
-	name: SLShelfCapacity;
+	name: SLShelfCapacityTable;
 	border-collapse: separate;
 	border-left-style: solid;
 	border-left-width: 1px;
@@ -103,14 +103,14 @@ mcTableBodyStyle
 	text-align: left;
 	vertical-align: middle;
 	cell-content-style-class: table_data;
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	cell-content-style-tag: none;
 }
 
 
 /* Cell Styles: */
  
-.TableStyle-SLShelfCapacity
+.TableStyle-SLShelfCapacityTable
 {
 	border-collapse: separate;
 	border-left-style: solid;
@@ -126,32 +126,32 @@ mcTableBodyStyle
 	border-spacing: 0px 0px;
 }
 
-.TableStyle-SLShelfCapacity-Column-Column1
+.TableStyle-SLShelfCapacityTable-Column-Column1
 {
 	width: 114px;
 }
 
-.TableStyle-SLShelfCapacity-Column-Column2
+.TableStyle-SLShelfCapacityTable-Column-Column2
 {
 	width: 151px;
 }
 
-.TableStyle-SLShelfCapacity-Column-Column3
+.TableStyle-SLShelfCapacityTable-Column-Column3
 {
 	width: 170px;
 }
 
-.TableStyle-SLShelfCapacity-Column-Column4
+.TableStyle-SLShelfCapacityTable-Column-Column4
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-Head-Header1
+.TableStyle-SLShelfCapacityTable-Head-Header1
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-HeadI-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadI-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -162,12 +162,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadI-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadI-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadE-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadE-Column1-Header1
 {
 	border-right-width: 0px;
 	border-right-color: #000000;
@@ -184,12 +184,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadE-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadE-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadF-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -203,12 +203,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadF-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadH-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadH-Column1-Header1
 {
 	border-right-width: 0px;
 	border-right-color: #000000;
@@ -222,12 +222,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadH-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadH-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadD-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadD-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -241,12 +241,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadD-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadD-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadC-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadC-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -257,12 +257,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadC-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadC-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadB-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadB-Column1-Header1
 {
 	border-right-width: 0px;
 	border-right-color: #000000;
@@ -276,28 +276,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadB-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadB-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadA-Column1-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadA-Column1-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadG-Column1-Header1
+.TableStyle-SLShelfCapacityTable-HeadA-Column1-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -308,12 +292,28 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadG-Column1-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadA-Column1-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadI-Column2-Header1
+.TableStyle-SLShelfCapacityTable-HeadG-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -324,31 +324,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadI-Column2-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadI-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadE-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
-	border-bottom-style: solid;
-}
-
-.TableStyle-SLShelfCapacity-HeadE-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadF-Column2-Header1
+.TableStyle-SLShelfCapacityTable-HeadE-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -362,28 +343,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column2-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadE-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadH-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadH-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadD-Column2-Header1
+.TableStyle-SLShelfCapacityTable-HeadF-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -397,28 +362,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadD-Column2-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadF-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadC-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadC-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadB-Column2-Header1
+.TableStyle-SLShelfCapacityTable-HeadH-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -429,60 +378,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadB-Column2-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadH-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadA-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadA-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadG-Column2-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadG-Column2-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadI-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadI-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadE-Column3-Header1
+.TableStyle-SLShelfCapacityTable-HeadD-Column2-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -496,12 +397,92 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadE-Column3-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadD-Column2-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column3-Header1
+.TableStyle-SLShelfCapacityTable-HeadC-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -515,28 +496,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column3-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadE-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadH-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadH-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadD-Column3-Header1
+.TableStyle-SLShelfCapacityTable-HeadF-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -550,28 +515,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadD-Column3-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadF-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadC-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadC-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadB-Column3-Header1
+.TableStyle-SLShelfCapacityTable-HeadH-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -582,60 +531,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadB-Column3-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadH-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadA-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadA-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadG-Column3-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadG-Column3-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadI-Column4-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadI-Column4-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadE-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadD-Column3-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -649,12 +550,92 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadE-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadD-Column3-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadC-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column4-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -668,28 +649,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadF-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadE-Column4-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadH-Column4-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadH-Column4-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadD-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadF-Column4-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -703,28 +668,12 @@ mcTableBodyStyle
 	border-bottom-style: solid;
 }
 
-.TableStyle-SLShelfCapacity-HeadD-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadF-Column4-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadC-Column4-Header1
-{
-	font-weight: bold;
-	text-align: center;
-	vertical-align: middle;
-	background-color: #dcdcdc;
-	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-HeadC-Column4-Header1 p
-{
-	font-weight: bold;
-}
-
-.TableStyle-SLShelfCapacity-HeadB-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadH-Column4-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -735,12 +684,31 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadB-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadH-Column4-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadA-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadD-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column4-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -751,12 +719,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadA-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadC-Column4-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-HeadG-Column4-Header1
+.TableStyle-SLShelfCapacityTable-HeadB-Column4-Header1
 {
 	font-weight: bold;
 	text-align: center;
@@ -767,12 +735,44 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-HeadG-Column4-Header1 p
+.TableStyle-SLShelfCapacityTable-HeadB-Column4-Header1 p
 {
 	font-weight: bold;
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column1-
+.TableStyle-SLShelfCapacityTable-HeadA-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcdc;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -781,12 +781,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column1- p
+.TableStyle-SLShelfCapacityTable-FootI-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column1-
+.TableStyle-SLShelfCapacityTable-FootE-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -798,12 +798,12 @@ mcTableBodyStyle
 	border-right-style: none;
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column1- p
+.TableStyle-SLShelfCapacityTable-FootE-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column1-
+.TableStyle-SLShelfCapacityTable-FootF-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -812,57 +812,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column1- p
+.TableStyle-SLShelfCapacityTable-FootF-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 35px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-color: #000000;
-	border-right-style: none;
-}
-
-.TableStyle-SLShelfCapacity-FootH-Column1- p
-{
-	
-}
-
-.TableStyle-SLShelfCapacity-FootD-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 35px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-FootD-Column1- p
-{
-	
-}
-
-.TableStyle-SLShelfCapacity-FootC-Column1-
-{
-	text-align: left;
-	vertical-align: middle;
-	padding-left: 35px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
-.TableStyle-SLShelfCapacity-FootC-Column1- p
-{
-	
-}
-
-.TableStyle-SLShelfCapacity-FootB-Column1-
+.TableStyle-SLShelfCapacityTable-FootH-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -874,12 +829,12 @@ mcTableBodyStyle
 	border-right-style: none;
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column1- p
+.TableStyle-SLShelfCapacityTable-FootH-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column1-
+.TableStyle-SLShelfCapacityTable-FootD-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -888,12 +843,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column1- p
+.TableStyle-SLShelfCapacityTable-FootD-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column1-
+.TableStyle-SLShelfCapacityTable-FootC-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -902,12 +857,29 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column1- p
+.TableStyle-SLShelfCapacityTable-FootC-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column2-
+.TableStyle-SLShelfCapacityTable-FootB-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -916,12 +888,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column2- p
+.TableStyle-SLShelfCapacityTable-FootA-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column2-
+.TableStyle-SLShelfCapacityTable-FootG-Column1-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -930,12 +902,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column2- p
+.TableStyle-SLShelfCapacityTable-FootG-Column1- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column2-
+.TableStyle-SLShelfCapacityTable-FootI-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -944,12 +916,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column2- p
+.TableStyle-SLShelfCapacityTable-FootI-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column2-
+.TableStyle-SLShelfCapacityTable-FootE-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -958,12 +930,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column2- p
+.TableStyle-SLShelfCapacityTable-FootE-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column2-
+.TableStyle-SLShelfCapacityTable-FootF-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -972,12 +944,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column2- p
+.TableStyle-SLShelfCapacityTable-FootF-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column2-
+.TableStyle-SLShelfCapacityTable-FootH-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -986,12 +958,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column2- p
+.TableStyle-SLShelfCapacityTable-FootH-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column2-
+.TableStyle-SLShelfCapacityTable-FootD-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1000,12 +972,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column2- p
+.TableStyle-SLShelfCapacityTable-FootD-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column2-
+.TableStyle-SLShelfCapacityTable-FootC-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1014,12 +986,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column2- p
+.TableStyle-SLShelfCapacityTable-FootC-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column2-
+.TableStyle-SLShelfCapacityTable-FootB-Column2-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1028,12 +1000,40 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column2- p
+.TableStyle-SLShelfCapacityTable-FootB-Column2- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column3-
+.TableStyle-SLShelfCapacityTable-FootA-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1042,12 +1042,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column3- p
+.TableStyle-SLShelfCapacityTable-FootI-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column3-
+.TableStyle-SLShelfCapacityTable-FootE-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1056,12 +1056,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column3- p
+.TableStyle-SLShelfCapacityTable-FootE-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column3-
+.TableStyle-SLShelfCapacityTable-FootF-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1070,12 +1070,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column3- p
+.TableStyle-SLShelfCapacityTable-FootF-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column3-
+.TableStyle-SLShelfCapacityTable-FootH-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1084,12 +1084,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column3- p
+.TableStyle-SLShelfCapacityTable-FootH-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column3-
+.TableStyle-SLShelfCapacityTable-FootD-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1098,12 +1098,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column3- p
+.TableStyle-SLShelfCapacityTable-FootD-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column3-
+.TableStyle-SLShelfCapacityTable-FootC-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1112,12 +1112,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column3- p
+.TableStyle-SLShelfCapacityTable-FootC-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column3-
+.TableStyle-SLShelfCapacityTable-FootB-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1126,12 +1126,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column3- p
+.TableStyle-SLShelfCapacityTable-FootB-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column3-
+.TableStyle-SLShelfCapacityTable-FootA-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1140,12 +1140,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column3- p
+.TableStyle-SLShelfCapacityTable-FootA-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column3-
+.TableStyle-SLShelfCapacityTable-FootG-Column3-
 {
 	text-align: left;
 	vertical-align: middle;
@@ -1154,12 +1154,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column3- p
+.TableStyle-SLShelfCapacityTable-FootG-Column3- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column4-
+.TableStyle-SLShelfCapacityTable-FootI-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1168,12 +1168,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootI-Column4- p
+.TableStyle-SLShelfCapacityTable-FootI-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column4-
+.TableStyle-SLShelfCapacityTable-FootE-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1182,12 +1182,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootE-Column4- p
+.TableStyle-SLShelfCapacityTable-FootE-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column4-
+.TableStyle-SLShelfCapacityTable-FootF-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1196,12 +1196,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootF-Column4- p
+.TableStyle-SLShelfCapacityTable-FootF-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column4-
+.TableStyle-SLShelfCapacityTable-FootH-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1210,12 +1210,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootH-Column4- p
+.TableStyle-SLShelfCapacityTable-FootH-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column4-
+.TableStyle-SLShelfCapacityTable-FootD-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1224,12 +1224,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootD-Column4- p
+.TableStyle-SLShelfCapacityTable-FootD-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column4-
+.TableStyle-SLShelfCapacityTable-FootC-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1238,12 +1238,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootC-Column4- p
+.TableStyle-SLShelfCapacityTable-FootC-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column4-
+.TableStyle-SLShelfCapacityTable-FootB-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1252,12 +1252,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootB-Column4- p
+.TableStyle-SLShelfCapacityTable-FootB-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column4-
+.TableStyle-SLShelfCapacityTable-FootA-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1266,12 +1266,12 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootA-Column4- p
+.TableStyle-SLShelfCapacityTable-FootA-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column4-
+.TableStyle-SLShelfCapacityTable-FootG-Column4-
 {
 	text-align: center;
 	vertical-align: middle;
@@ -1280,19 +1280,19 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-FootG-Column4- p
+.TableStyle-SLShelfCapacityTable-FootG-Column4- p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-Body-Body1
+.TableStyle-SLShelfCapacityTable-Body-Body1
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyI-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1300,14 +1300,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyI-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyE-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1321,14 +1321,14 @@ mcTableBodyStyle
 	border-right-style: none;
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyE-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyF-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1339,14 +1339,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyF-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyH-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1357,14 +1357,14 @@ mcTableBodyStyle
 	border-right-style: none;
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyH-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyD-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1375,14 +1375,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyD-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyC-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1390,14 +1390,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyC-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyB-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1408,14 +1408,14 @@ mcTableBodyStyle
 	border-right-style: none;
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyB-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyA-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1423,14 +1423,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyA-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column1-Body1
+.TableStyle-SLShelfCapacityTable-BodyG-Column1-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1438,14 +1438,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column1-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyG-Column1-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyI-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1453,14 +1453,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyI-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyE-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1471,14 +1471,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyE-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyF-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1489,14 +1489,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyF-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyH-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1504,14 +1504,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyH-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyD-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1522,14 +1522,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyD-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyC-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1537,14 +1537,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyC-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyB-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1552,14 +1552,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyB-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyA-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1567,14 +1567,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyA-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column2-Body1
+.TableStyle-SLShelfCapacityTable-BodyG-Column2-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 35px;
@@ -1582,14 +1582,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column2-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyG-Column2-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyI-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1597,14 +1597,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyI-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyE-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1615,14 +1615,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyE-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyF-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1633,14 +1633,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyF-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyH-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1648,14 +1648,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyH-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyD-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1666,14 +1666,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyD-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyC-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1681,14 +1681,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyC-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyB-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1696,14 +1696,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyB-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyA-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1711,14 +1711,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyA-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column3-Body1
+.TableStyle-SLShelfCapacityTable-BodyG-Column3-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
 	padding-left: 40px;
@@ -1726,14 +1726,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column3-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyG-Column3-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyI-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1741,14 +1741,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyI-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyI-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyE-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1759,14 +1759,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyE-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyE-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyF-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1777,14 +1777,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyF-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyF-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyH-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1792,14 +1792,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyH-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyH-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyD-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1810,14 +1810,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyD-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyD-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyC-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1825,14 +1825,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyC-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyC-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyB-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1840,14 +1840,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyB-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyB-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyA-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1855,14 +1855,14 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyA-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyA-Column4-Body1 p
 {
 	
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column4-Body1
+.TableStyle-SLShelfCapacityTable-BodyG-Column4-Body1
 {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	padding-left: 0px;
@@ -1870,7 +1870,7 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 }
 
-.TableStyle-SLShelfCapacity-BodyG-Column4-Body1 p
+.TableStyle-SLShelfCapacityTable-BodyG-Column4-Body1 p
 {
 	
 }
