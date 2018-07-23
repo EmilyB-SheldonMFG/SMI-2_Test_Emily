@@ -2,11 +2,11 @@
 <PageStyles>
     <Page Name="Title_Page_Shellab" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.51in" PaddingBottom="0.51in" BackgroundRepeat="no-repeat" BackgroundImage="none">
         <Frame X="-95px" Y="-67px" Width="677px" Height="1024px" Right="42px" Bottom="1px" Anchors="" BackgroundImage="../Images/Front_Matter_CoverBKGND.png" VerticalAlign="top" Flow="body" FlowIndex="4" />
-        <Frame X="-48px" Y="16px" Width="473px" Height="72px" Flow="decoration0" Right="199px" Bottom="870px" BackgroundImage="../Images/SHEL_LAB_Logo_Mini40.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-48px" Y="16px" Width="455px" Height="78px" Flow="decoration0" Right="217px" Bottom="864px" BackgroundImage="../Images/SHEL_LAB_Logo_Mini40.png" BackgroundRepeat="stretch" Anchors="" />
         <Frame X="0px" Y="148px" Width="6.5in" Height="7.447917in" Right="0px" Bottom="95px" BackgroundImage="none" BackgroundRepeat="no-repeat" Anchors="" Flow="body" FlowIndex="3" />
         <Frame X="101px" Y="876px" Width="561px" Height="109px" FlowIndex="2" Flow="body" Right="-38px" Bottom="-27px" />
-        <Frame X="-52px" Y="83px" Width="475px" Height="65px" FlowIndex="1" Flow="body" Right="201px" Bottom="810px" />
-        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="4.927083in" Height="0.4166667in" X="-51px" Y="-29px" Right="202px" Bottom="947px" FlowIndex="0">
+        <Frame X="-52px" Y="94px" Width="475px" Height="65px" FlowIndex="1" Flow="body" Right="201px" Bottom="799px" />
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="4.927083in" Height="0.46875in" X="-51px" Y="-29px" Right="202px" Bottom="942px" FlowIndex="0">
         </Frame>
     </Page>
 </PageStyles>
