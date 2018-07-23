@@ -32,6 +32,7 @@ mcTableColumnStyle
 	cell-padding-left: 45px;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -44,6 +45,7 @@ mcTableColumnStyle
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	cell-padding-left: 70px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -56,6 +58,7 @@ mcTableColumnStyle
 	cell-padding-left: 75px;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
+	background-color: #ffffff;
 }
 
 mcTableHeadStyle
@@ -70,7 +73,7 @@ mcTableHeadStyle
 	font-weight: bold;
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: none;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	vertical-align: middle;
@@ -136,7 +139,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -155,7 +158,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -174,7 +177,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -196,7 +199,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -212,7 +215,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -231,7 +234,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -250,7 +253,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -266,7 +269,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -282,7 +285,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -298,7 +301,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -314,7 +317,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -333,7 +336,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -352,7 +355,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -368,7 +371,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -387,7 +390,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -403,7 +406,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -419,7 +422,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -435,7 +438,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -451,7 +454,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -467,7 +470,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -486,7 +489,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -505,7 +508,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -521,7 +524,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -540,7 +543,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -556,7 +559,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -572,7 +575,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -588,7 +591,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -603,6 +606,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -617,6 +621,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -634,6 +639,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -648,6 +654,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -665,6 +672,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -679,6 +687,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -693,6 +702,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -710,6 +720,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -724,6 +735,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -738,6 +750,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -752,6 +765,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -766,6 +780,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -780,6 +795,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -794,6 +810,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -808,6 +825,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -822,6 +840,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -836,6 +855,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -850,6 +870,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -864,6 +885,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -878,6 +900,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -892,6 +915,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -906,6 +930,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -920,6 +945,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -934,6 +960,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -948,6 +975,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -962,6 +990,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -976,6 +1005,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -993,9 +1023,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyI-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1008,12 +1038,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyE-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1029,12 +1059,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyF-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1047,9 +1077,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyH-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1065,12 +1095,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyD-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1083,9 +1113,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyC-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1098,9 +1128,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyB-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1116,9 +1146,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyA-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1131,9 +1161,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyG-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 45px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1146,9 +1176,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyI-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1161,12 +1191,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyE-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1179,12 +1209,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyF-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1197,9 +1227,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyH-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1212,12 +1242,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyD-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1230,9 +1260,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyC-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1245,9 +1275,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyB-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1260,9 +1290,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyA-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1275,9 +1305,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyG-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 70px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1290,9 +1320,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyI-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1305,12 +1335,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyE-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1323,12 +1353,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyF-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1341,9 +1371,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyH-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1356,12 +1386,12 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyD-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1374,9 +1404,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyC-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1389,9 +1419,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyB-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1404,9 +1434,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyA-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1419,9 +1449,9 @@ mcTableBodyStyle
 
 .TableStyle-SLWeightTable-BodyG-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 75px;
 	padding-top: 2px;
 	padding-bottom: 2px;

@@ -2,18 +2,18 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <h2>Contacting Assistance</h2>
-        <p>Phone hours for Sheldon Technical Support are 6 am – 4:30 pm Pacific Coast Time (west coast of the United States, UTC -8), Monday – Friday. Please have the following information ready when calling or emailing Technical Support: the model number, serial number, part number, and part ID (see page 18).</p>
-        <p><MadCap:variable name="Shellab_Variables.Email" />
+        <p>Phone hours for Sheldon Technical Support are 6 am – 4:30 pm Pacific Coast Time (west coast of the United States, UTC -8), Monday – Friday. Please have the following information ready when calling or emailing Technical Support: the <b>model number, serial number, part number, and part ID</b> (see page 18).</p>
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Email" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.Toll Free" />, or <MadCap:variable name="Shellab_Variables.Phone Number" /></p>
-        <p><MadCap:variable name="Shellab_Variables.Fax" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Toll Free" />, or <MadCap:variable name="Shellab_Variables.Phone Number" /></p>
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Fax" />
         </p>
         <p>&#160;</p>
-        <p><MadCap:variable name="Shellab_Variables.CompanyName" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.CompanyName" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.PO Box" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.PO Box" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.City_State" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.City_State" />
         </p>
     </body>
 </html>

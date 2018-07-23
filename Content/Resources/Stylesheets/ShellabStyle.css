@@ -1,6 +1,6 @@
 ﻿/*<meta />*/
 
-a.Popup
+e a.Popup
 {
 	
 }
@@ -12,6 +12,7 @@ body
 	margin: 2pt;
 	text-align: justify;
 	padding: 8pt;
+	mc-hyphenate: never;
 }
 
 /*<headers />*/
@@ -80,11 +81,17 @@ h3.centered
 
 /*<lists />*/
 
+ul
+{
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	padding: 4pt;
+}
 li
 {
-	padding-top: 8pt;
-	padding-bottom: 8pt;
-	margin: 2pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	padding: 4pt;
 }
 
 ul.Right
@@ -100,6 +107,9 @@ ol.Right
 ul.Secondary
 {
 	padding-left: 1.13in;
+	padding-bottom: 2pt;
+	padding-top: 2pt;
+	list-style-type: circle;
 }
 
 ul.centered
@@ -117,19 +127,79 @@ ol
 	font-family: 'Proxima Nova';
 }
 
+ul.Install_Checklist
+{
+	list-style-image: none;
+	padding-left: .69in;
+}
+
+li.Install_Checklist
+{
+	padding-top: 8pt;
+	padding-bottom: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li::marker
+{
+	font-family: Wingdings;
+	content: 'ü';
+}
+
+ul.Install_Checklist > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.Install_Checklist > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
+}
+
 p.Note
 {
 	margin-top: 2pt;
 	border-top-style: solid;
-	border-top-width: 1pt;
+	border-top-width: .5pt;
 	border-top-color: black;
 	border-bottom-style: solid;
-	border-bottom-width: 1pt;
+	border-bottom-width: .5pt;
 	border-bottom-color: black;
 	margin-bottom: 6pt;
 	text-align: justify;
+	mc-auto-number-format: '{b}Note: {/b}';
 }
 
+p.Warning
+{
+	margin-top: 2pt;
+	border-top-style: solid;
+	border-top-width: .5pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: .5pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Warning: {/b}';
+}
+
+p.Warning_French
+{
+	margin-top: 2pt;
+	border-top-style: solid;
+	border-top-width: .5pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: .5pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Avertissement: {/b}';
+}
 p.right
 {
 	text-align: center;
@@ -155,7 +225,7 @@ p.Warranty
 p.Title_Family
 {
 	font-size: 22pt;
-	font-weight: bold;
+	font-weight: bolder;
 	margin-bottom: 15pt;
 	color: #70787C;
 	padding-left: 8pt;
@@ -185,24 +255,27 @@ p.Title_Units
 	color: #70787C;
 	text-align: right;
 	padding-right: 8pt;
+	font-weight: bold;
+	word-spacing: 5px;
 }
 
 p.Copyright
 {
 	font-size: 14pt;
 	font-weight: bold;
+	font: 'Proxima Nova';
 }
 
 p.Copyright_Head
 {
 	font-size: 16pt;
 	font-weight: bold;
+	font: 'Proxima Nova';
 }
 
 p.TOC1
 {
 	font-weight: bold;
-	text-transform: uppercase;
 	margin-top: 3pt;
 	margin-bottom: 3pt;
 }
@@ -218,10 +291,16 @@ p.Back_Page
 {
 	font-size: 12pt;
 	font: 'Proxima Nova Semibold';
+	font-weight: bold;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
 	text-align: right;
-	line-height: 5pt;
+}
+
+p.No_Space
+{
+	padding: 1pt;
+	margin: 0pt;
 }
 
 div.NoPageBreak
@@ -243,33 +322,16 @@ MadCap|xref.ConceptPageNumber
 	mc-format: '{pageref}';
 }
 
-ul.Install_Checklist
-{
-	list-style-image: none;
-	padding-left: .69in;
-}
-
-ul.Install_Checklist > li::marker
-{
-	font-family: Wingdings;
-	content: 'ü';
-}
-
-ul.Install_Checklist > li > ul
-{
-	list-style-type: disc;
-	list-style-image: none;
-}
-
-ul.Install_Checklist > li > ul > li::marker
-{
-	font-family: ;
-	content: '•';
-}
 
 p.Table_Head
 {
 	border-bottom: solid 1px #c0c0c0;
 	border: solid 1px #c0c0c0;
 	background: #dcdcdc;
+}
+
+MadCap|tocProxy
+{
+	border: none 0px #000000;
+	padding: 0px;
 }

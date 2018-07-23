@@ -10,7 +10,7 @@
                 <MadCap:conditionalText MadCap:conditions="Voltage.220V">Both fuses</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">The fuse</MadCap:conditionalText> must be installed and intact for the unit to operate.</li>
             <li>Always find and fix the cause of a blown fuse prior to putting the unit back into operation.</li>
             <li>
-                <MadCap:conditionalText MadCap:conditions="Voltage.220V">Fuse type:</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">Fuse types:</MadCap:conditionalText><ul><li MadCap:conditions="Voltage.220V">T3 amp, 250V, 5x20mm</li><li MadCap:conditions="Voltage.110V"><p>SMI6, SMI7, SMI11, SMI12: 250V T10 amp, 5x20mm</p></li><li MadCap:conditions="Voltage.110V"><p>SMI2: 250V T6.3 amp, 5x20mm</p></li></ul></li>
+                <MadCap:conditionalText MadCap:conditions="Voltage.220V">Fuse type:</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">Fuse types:</MadCap:conditionalText><ul style="list-style-type: circle;"><li MadCap:conditions="Voltage.220V">T3 amp, 250V, 5x20mm</li><ul style="list-style-type: circle;"><li MadCap:conditions="Voltage.110V"><p>SMI6, SMI7, SMI11, SMI12: 250V T10 amp, 5x20mm</p></li></ul><ul style="list-style-type: circle;"><li MadCap:conditions="Voltage.110V"><p>SMI2: 250V T6.3 amp, 5x20mm</p></li></ul></ul></li>
         </ul>
     </body>
 </html>

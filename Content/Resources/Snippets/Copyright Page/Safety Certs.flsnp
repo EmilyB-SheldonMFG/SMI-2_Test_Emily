@@ -3,11 +3,11 @@
     <body>
         <p>These units are CUE listed by TÜV SÜD as <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubators</MadCap:conditionalText> for professional, industrial, or educational use where the preparation or testing of materials is done at an ambient air pressure range of 22.14 – 31.3 inHg (75 – 106 kPa) and no flammable, volatile, or combustible materials are being heated.</p>
         <p>These units have been tested to the following requirements:</p>
-        <p>CAN/CSA C22.2 No. 61010-1:2012</p>
-        <p>CAN/CSA C22.2 No. 61010-2-010 + R:2009</p>
-        <p>UL 61010A-2-010:2002</p>
-        <p>UL 61010-1:2012</p>
-        <p>EN 61010-1:2010</p>
-        <p>EN 61010-2-010:2003</p>
+        <p class="No_Space">CAN/CSA C22.2 No. 61010-1:2012</p>
+        <p class="No_Space">CAN/CSA C22.2 No. 61010-2-010 + R:2009</p>
+        <p class="No_Space">UL 61010A-2-010:2002</p>
+        <p class="No_Space">UL 61010-1:2012</p>
+        <p class="No_Space">EN 61010-1:2010</p>
+        <p class="No_Space">EN 61010-2-010:2003</p>
     </body>
 </html>

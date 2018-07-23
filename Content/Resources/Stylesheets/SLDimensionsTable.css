@@ -74,7 +74,7 @@ mcTableHeadStyle
 	font-weight: bold;
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: none;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	vertical-align: middle;
@@ -141,7 +141,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -161,7 +161,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -181,7 +181,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -204,7 +204,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -221,7 +221,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -241,7 +241,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -261,7 +261,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -278,7 +278,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -295,7 +295,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -312,7 +312,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -329,7 +329,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -349,7 +349,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -369,7 +369,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -386,7 +386,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -406,7 +406,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -423,7 +423,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -440,7 +440,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -457,7 +457,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -474,7 +474,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -491,7 +491,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -511,7 +511,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -531,7 +531,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -548,7 +548,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -568,7 +568,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -585,7 +585,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -602,7 +602,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -619,7 +619,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;

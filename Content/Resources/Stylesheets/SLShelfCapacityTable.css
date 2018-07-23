@@ -33,6 +33,7 @@ mcTableColumnStyle
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	size: 114px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -46,6 +47,7 @@ mcTableColumnStyle
 	cell-padding-bottom: 2px;
 	cell-padding-left: 35px;
 	size: 151px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -59,6 +61,7 @@ mcTableColumnStyle
 	cell-padding-bottom: 2px;
 	cell-padding-left: 40px;
 	size: 170px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -71,6 +74,7 @@ mcTableColumnStyle
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	cell-padding-left: 0px;
+	background-color: #ffffff;
 }
 
 mcTableHeadStyle
@@ -85,7 +89,7 @@ mcTableHeadStyle
 	font-weight: bold;
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: none;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	vertical-align: middle;
@@ -156,7 +160,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -175,7 +179,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -194,7 +198,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -216,7 +220,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -232,7 +236,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -251,7 +255,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -270,7 +274,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -286,7 +290,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -302,7 +306,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -318,7 +322,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -334,7 +338,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -353,7 +357,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -372,7 +376,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -388,7 +392,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -407,7 +411,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -423,7 +427,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -439,7 +443,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -455,7 +459,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -471,7 +475,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -487,7 +491,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -506,7 +510,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -525,7 +529,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -541,7 +545,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -560,7 +564,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -576,7 +580,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -592,7 +596,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -608,7 +612,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -624,7 +628,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -640,7 +644,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -659,7 +663,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -678,7 +682,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -694,7 +698,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -713,7 +717,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -729,7 +733,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -745,7 +749,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -761,7 +765,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -776,6 +780,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -790,6 +795,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -807,6 +813,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -821,6 +828,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -838,6 +846,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -852,6 +861,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -866,6 +876,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -883,6 +894,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -897,6 +909,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -911,6 +924,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -925,6 +939,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -939,6 +954,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -953,6 +969,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -967,6 +984,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -981,6 +999,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -995,6 +1014,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1009,6 +1029,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1023,6 +1044,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1037,6 +1059,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1051,6 +1074,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1065,6 +1089,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1079,6 +1104,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1093,6 +1119,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1107,6 +1134,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1121,6 +1149,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1135,6 +1164,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1149,6 +1179,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1163,6 +1194,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1177,6 +1209,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1191,6 +1224,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1205,6 +1239,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1219,6 +1254,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1233,6 +1269,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1247,6 +1284,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1261,6 +1299,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1275,6 +1314,7 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1292,9 +1332,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyI-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1307,12 +1347,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyE-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1328,12 +1368,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyF-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1346,9 +1386,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyH-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1364,12 +1404,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyD-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1382,9 +1422,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyC-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1397,9 +1437,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyB-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1415,9 +1455,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyA-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1430,9 +1470,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyG-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1445,9 +1485,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyI-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1460,12 +1500,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyE-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1478,12 +1518,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyF-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1496,9 +1536,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyH-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1511,12 +1551,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyD-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1529,9 +1569,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyC-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1544,9 +1584,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyB-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1559,9 +1599,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyA-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1574,9 +1614,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyG-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 35px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1589,9 +1629,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyI-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1604,12 +1644,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyE-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1622,12 +1662,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyF-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1640,9 +1680,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyH-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1655,12 +1695,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyD-Column3-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1673,9 +1713,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyC-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1688,9 +1728,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyB-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1703,9 +1743,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyA-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1718,9 +1758,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyG-Column3-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 40px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1733,9 +1773,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyI-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1748,12 +1788,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyE-Column4-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1766,12 +1806,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyF-Column4-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1784,9 +1824,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyH-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1799,12 +1839,12 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyD-Column4-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1817,9 +1857,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyC-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1832,9 +1872,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyB-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1847,9 +1887,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyA-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -1862,9 +1902,9 @@ mcTableBodyStyle
 
 .TableStyle-SLShelfCapacityTable-BodyG-Column4-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;

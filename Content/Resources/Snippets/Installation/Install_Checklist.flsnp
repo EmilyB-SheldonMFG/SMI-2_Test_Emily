@@ -8,23 +8,23 @@
         <p>&#160;</p>
         <h3 class="Checkmark">Pre-Installation</h3>
         <ul class="Install_Checklist">
-            <li>Check that the required ambient conditions for the unit are met, page .</li>
-            <li>Check that the spacing clearance requirements are met, page .<ul><li>Unit dimensions may be found on page .</li></ul></li>
-            <li>Check that a suitable electrical outlet and power supply is present, page .</li>
+            <li class="Install_Checklist">Check that the required ambient conditions for the unit are met, page .</li>
+            <li class="Install_Checklist">Check that the spacing clearance requirements are met, page .<ul><li>Unit dimensions may be found on page .</li></ul></li>
+            <li class="Install_Checklist">Check that a suitable electrical outlet and power supply is present, page .</li>
         </ul>
         <p>&#160;</p>
         <h3 class="Checkmark">Install the incubator in a suitable workspace location</h3>
         <ul class="Install_Checklist">
-            <li>Review the lifting and handling instructions, page .</li>
+            <li class="Install_Checklist">Review the lifting and handling instructions, page .</li>
             <li>Install the unit leveling feet, page .</li>
-            <li>Install the incubator in its workspace location, page.</li>
+            <li class="Install_Checklist">Install the incubator in its workspace location, page.</li>
         </ul>
         <p>&#160;</p>
         <h3 class="Checkmark">Set up the incubator for use</h3>
         <ul class="Install_Checklist">
-            <li>Clean and disinfect the unit and shelving (recommended), page .</li>
-            <li>Install the shelving, page .</li>
-            <li>Verify the port cover is installed on the access port, page .</li>
+            <li class="Install_Checklist">Clean and disinfect the unit and shelving (recommended), page .</li>
+            <li class="Install_Checklist">Install the shelving, page .</li>
+            <li class="Install_Checklist">Verify the port cover is installed on the access port, page .</li>
         </ul>
         <p>&#160;</p>
         <p>&#160;</p>

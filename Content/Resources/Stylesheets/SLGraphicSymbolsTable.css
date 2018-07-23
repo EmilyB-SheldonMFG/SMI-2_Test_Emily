@@ -30,8 +30,9 @@ mcTableColumnStyle
 	text-align: center;
 	vertical-align: middle;
 	cell-padding-left: 0px;
-	cell-padding-top: 2px;
-	cell-padding-bottom: 2px;
+	cell-padding-top: 5px;
+	cell-padding-bottom: 5px;
+	background-color: #ffffff;
 }
 
 mcTableColumnStyle
@@ -44,6 +45,7 @@ mcTableColumnStyle
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	cell-padding-left: 10px;
+	background-color: #ffffff;
 }
 
 mcTableHeadStyle
@@ -58,7 +60,7 @@ mcTableHeadStyle
 	font-weight: bold;
 	cell-content-style-class: Table_Head;
 	cell-content-style-tag: p;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
 	vertical-align: middle;
@@ -119,7 +121,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -138,7 +140,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -157,7 +159,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -179,7 +181,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -195,7 +197,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -214,7 +216,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -233,7 +235,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -249,7 +251,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -265,7 +267,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -281,7 +283,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -297,7 +299,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -316,7 +318,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -335,7 +337,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -351,7 +353,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -370,7 +372,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -386,7 +388,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -402,7 +404,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -418,7 +420,7 @@ mcTableBodyStyle
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
-	background-color: #dcdcdc;
+	background-color: #f5f5f5;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -433,9 +435,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootI-Column1- p
@@ -447,9 +450,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -464,9 +468,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootF-Column1- p
@@ -478,9 +483,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -495,9 +501,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootD-Column1- p
@@ -509,9 +516,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootC-Column1- p
@@ -523,9 +531,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -540,9 +549,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootA-Column1- p
@@ -554,9 +564,10 @@ mcTableBodyStyle
 {
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootG-Column1- p
@@ -568,6 +579,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -582,6 +594,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -596,6 +609,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -610,6 +624,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -624,6 +639,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -638,6 +654,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -652,6 +669,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -666,6 +684,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -680,6 +699,7 @@ mcTableBodyStyle
 {
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -697,12 +717,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyI-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyI-Column1-Body1 p
@@ -712,15 +732,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyE-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -733,15 +753,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column1-Body1 p
@@ -751,12 +771,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyH-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -769,15 +789,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column1-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column1-Body1 p
@@ -787,12 +807,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyC-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyC-Column1-Body1 p
@@ -802,12 +822,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyB-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -820,12 +840,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyA-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyA-Column1-Body1 p
@@ -835,12 +855,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyG-Column1-Body1
 {
-	background-color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyG-Column1-Body1 p
@@ -850,9 +870,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyI-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -865,12 +885,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyE-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -883,12 +903,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -901,9 +921,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyH-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -916,12 +936,12 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column2-Body1
 {
-	background-color: #ffffff;
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -934,9 +954,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyC-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -949,9 +969,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyB-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -964,9 +984,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyA-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -979,9 +999,9 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyG-Column2-Body1
 {
-	background-color: #ffffff;
 	text-align: left;
 	vertical-align: middle;
+	background-color: #ffffff;
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
