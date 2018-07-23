@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <p><MadCap:variable name="Shellab_Variables.PO Box"></MadCap:variable>
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.PO Box"></MadCap:variable>
         </p>
-        <p><MadCap:variable name="Shellab_Variables.City_State" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.City_State" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.Country" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Country" />
         </p>
-        <p>&#160;</p>
-        <p><MadCap:variable name="Shellab_Variables.Email" />
+        <p class="No_Space">&#160;</p>
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Email" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.Website" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Website" />
         </p>
-        <p>&#160;</p>
-        <p><MadCap:variable name="Shellab_Variables.Toll Free" />
+        <p class="No_Space">&#160;</p>
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Toll Free" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.Phone Number" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Phone Number" />
         </p>
-        <p><MadCap:variable name="Shellab_Variables.Fax" />
+        <p class="No_Space"><MadCap:variable name="Shellab_Variables.Fax" />
         </p>
     </body>
 </html>
