@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Resources/Topics/Title_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Resources/Topics/SL_Covers/Title_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     BreakType="pageLayout"
     AutoEndOnLeftPage="disabled"
     StartSection="false"
@@ -65,6 +65,12 @@
       PageNumberReset="continue"
       PageType="firstright"
       PageLayout="/Content/Resources/PageLayouts/SL_Receiving.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Resources/Topics/SL_Receiving/Orientation_Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Receiving/Data_Plate.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -235,6 +241,12 @@
       PageType="continue"
       AutoEndOnLeftPage="disabled"
       PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Resources/Topics/SL_Maintenance/Calibrating_Temp_Display.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      StartSection="false" />
   </TocEntry>
   <TocEntry
     Title="Unit Specs">
@@ -262,7 +274,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Resources/Topics/Back_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Resources/Topics/SL_Covers/Back_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     BreakType="pageLayout"
     AutoEndOnLeftPage="disabled"
     StartSection="false"
