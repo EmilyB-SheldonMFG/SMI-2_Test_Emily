@@ -7,7 +7,7 @@
   <Variable
     Comment=""
     Name="Toll Free"
-    EvaluatedDefinition="1-800-322-4897 extension 4">1-800-322-4897 extension 4</Variable>
+    EvaluatedDefinition="1-800-322-4897">1-800-322-4897</Variable>
   <Variable
     Name="Phone Number"
     Comment=""
@@ -42,4 +42,8 @@
     Name="Website"
     Comment=""
     EvaluatedDefinition="sheldonmanufacturing.com">sheldonmanufacturing.com</Variable>
+  <Variable
+    Name="Extension"
+    Comment=""
+    EvaluatedDefinition="extension 4">extension 4</Variable>
 </CatapultVariableSet>
