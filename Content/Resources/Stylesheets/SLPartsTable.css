@@ -47,10 +47,11 @@ mcTableColumnStyle
 	cell-padding-top: 0px;
 	cell-padding-bottom: 2px;
 	font-weight: bold;
-	separator-style: none;
-	separator-width: 0px;
+	separator-style: solid;
+	separator-width: 1px;
 	cell-padding-left: 0px;
 	cell-padding-right: 0px;
+	separator-color: #000000;
 }
 
 mcTableColumnStyle
@@ -335,8 +336,9 @@ mcTableBodyStyle
 .TableStyle-SLPartsTable-HeadE-Column2-Header1
 {
 	padding-right: 0px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
@@ -377,8 +379,9 @@ mcTableBodyStyle
 .TableStyle-SLPartsTable-HeadH-Column2-Header1
 {
 	padding-right: 0px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
@@ -433,8 +436,9 @@ mcTableBodyStyle
 .TableStyle-SLPartsTable-HeadB-Column2-Header1
 {
 	padding-right: 0px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 	font-weight: bold;
 	text-align: center;
 	vertical-align: middle;
@@ -820,8 +824,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-FootE-Column2- p
@@ -854,8 +859,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-FootH-Column2- p
@@ -904,8 +910,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-FootB-Column2- p
@@ -1263,8 +1270,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-BodyE-Column2-Body1 p
@@ -1300,8 +1308,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-BodyH-Column2-Body1 p
@@ -1353,8 +1362,9 @@ mcTableBodyStyle
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 2px;
-	border-right-width: 0px;
-	border-right-style: none;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
 }
 
 .TableStyle-SLPartsTable-BodyB-Column2-Body1 p

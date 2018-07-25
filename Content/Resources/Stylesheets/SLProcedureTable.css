@@ -32,6 +32,8 @@ mcTableColumnStyle
 	separator-color: #ffffff;
 	name: Column1;
 	id: 0;
+	vertical-align: middle;
+	text-align: left;
 }
 
 mcTableBodyStyle
@@ -103,6 +105,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadI-Column1- p
@@ -115,6 +119,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -130,6 +136,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadF-Column1- p
@@ -142,6 +150,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -157,6 +167,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadD-Column1- p
@@ -169,6 +181,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadC-Column1- p
@@ -181,6 +195,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -196,6 +212,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadA-Column1- p
@@ -208,6 +226,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-HeadG-Column1- p
@@ -220,6 +240,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootI-Column1- p
@@ -232,6 +254,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -247,6 +271,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootF-Column1- p
@@ -259,6 +285,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -274,6 +302,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootD-Column1- p
@@ -286,6 +316,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootC-Column1- p
@@ -298,6 +330,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -313,6 +347,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootA-Column1- p
@@ -325,6 +361,8 @@ mcTableBodyStyle
 	padding-left: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-FootG-Column1- p
@@ -340,12 +378,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyI-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyI-Column1-Body1 p
@@ -356,8 +394,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyE-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
@@ -365,6 +401,8 @@ mcTableBodyStyle
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -378,8 +416,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyF-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
@@ -387,6 +423,8 @@ mcTableBodyStyle
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyF-Column1-Body1 p
@@ -397,12 +435,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyH-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -416,8 +454,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyD-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
@@ -425,6 +461,8 @@ mcTableBodyStyle
 	border-bottom-width: 0px;
 	border-bottom-color: #000000;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyD-Column1-Body1 p
@@ -435,12 +473,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyC-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyC-Column1-Body1 p
@@ -451,12 +489,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyB-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -470,12 +508,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyA-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyA-Column1-Body1 p
@@ -486,12 +524,12 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyG-Column1-Body1
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyG-Column1-Body1 p
@@ -507,13 +545,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyI-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyI-Column1-Body2 p
@@ -524,8 +562,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyE-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
@@ -533,6 +569,8 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 	border-bottom-width: 0px;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -546,8 +584,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyF-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
@@ -555,6 +591,8 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 	border-bottom-width: 0px;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyF-Column1-Body2 p
@@ -565,13 +603,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyH-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -585,8 +623,6 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyD-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
@@ -594,6 +630,8 @@ mcTableBodyStyle
 	padding-bottom: 2px;
 	border-bottom-width: 0px;
 	border-bottom-style: none;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyD-Column1-Body2 p
@@ -604,13 +642,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyC-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyC-Column1-Body2 p
@@ -621,13 +659,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyB-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 	border-right-width: 0px;
 	border-right-color: #ffffff;
 	border-right-style: none;
@@ -641,13 +679,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyA-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyA-Column1-Body2 p
@@ -658,13 +696,13 @@ mcTableBodyStyle
 .TableStyle-SLProcedureTable-BodyG-Column1-Body2
 {
 	font-weight: bold;
-	text-align: left;
-	vertical-align: middle;
 	background-color: #f5f5f5;
 	padding-left: 4px;
 	padding-right: 2px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .TableStyle-SLProcedureTable-BodyG-Column1-Body2 p
