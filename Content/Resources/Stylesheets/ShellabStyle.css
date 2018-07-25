@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 e a.Popup
 {
@@ -87,6 +87,7 @@ ul
 	margin-bottom: 2pt;
 	padding: 4pt;
 }
+
 li
 {
 	margin-top: 2pt;
@@ -200,6 +201,7 @@ p.Warning_French
 	text-align: justify;
 	mc-auto-number-format: '{b}Avertissement: {/b}';
 }
+
 p.right
 {
 	text-align: center;
@@ -319,9 +321,8 @@ MadCap|pageFooter
 
 MadCap|xref.ConceptPageNumber
 {
-	mc-format: '{pageref}';
+	mc-format: '{page}';
 }
-
 
 p.Table_Head
 {
@@ -335,3 +336,11 @@ MadCap|tocProxy
 	border: none 0px #000000;
 	padding: 0px;
 }
+
+a:link
+{
+	color: #0078ba;
+	font-weight: bold;
+	text-decoration: none;
+}
+
