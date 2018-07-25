@@ -30,8 +30,8 @@ mcTableColumnStyle
 	text-align: center;
 	vertical-align: middle;
 	cell-padding-left: 0px;
-	cell-padding-top: 5px;
-	cell-padding-bottom: 5px;
+	cell-padding-top: 8px;
+	cell-padding-bottom: 8px;
 	background-color: #ffffff;
 }
 
@@ -42,8 +42,8 @@ mcTableColumnStyle
 	name: Column2;
 	text-align: left;
 	vertical-align: middle;
-	cell-padding-top: 2px;
-	cell-padding-bottom: 2px;
+	cell-padding-top: 8px;
+	cell-padding-bottom: 8px;
 	cell-padding-left: 10px;
 	background-color: #ffffff;
 }
@@ -70,8 +70,8 @@ mcTableHeadStyle
 mcTableBodyStyle
 {
 	span: 1;
-	separator-style: solid;
-	separator-width: 6px;
+	separator-style: none;
+	separator-width: 0px;
 	separator-color: #ffffff;
 	name: Body1;
 	id: 1;
@@ -437,8 +437,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootI-Column1- p
@@ -452,8 +452,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -470,8 +470,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootF-Column1- p
@@ -485,8 +485,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -503,8 +503,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootD-Column1- p
@@ -518,8 +518,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootC-Column1- p
@@ -533,8 +533,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -551,8 +551,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootA-Column1- p
@@ -566,8 +566,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootG-Column1- p
@@ -581,8 +581,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootI-Column2- p
@@ -596,8 +596,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootE-Column2- p
@@ -611,8 +611,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootF-Column2- p
@@ -626,8 +626,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootH-Column2- p
@@ -641,8 +641,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootD-Column2- p
@@ -656,8 +656,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootC-Column2- p
@@ -671,8 +671,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootB-Column2- p
@@ -686,8 +686,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootA-Column2- p
@@ -701,8 +701,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-FootG-Column2- p
@@ -721,8 +721,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyI-Column1-Body1 p
@@ -732,15 +732,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyE-Column1-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -753,15 +753,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column1-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column1-Body1 p
@@ -775,8 +775,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -789,15 +789,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column1-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: center;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column1-Body1 p
@@ -811,8 +811,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyC-Column1-Body1 p
@@ -826,8 +826,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	border-right-width: 0px;
 	border-right-color: #000000;
 	border-right-style: none;
@@ -844,8 +844,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyA-Column1-Body1 p
@@ -859,8 +859,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 0px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyG-Column1-Body1 p
@@ -874,8 +874,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyI-Column2-Body1 p
@@ -885,15 +885,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyE-Column2-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyE-Column2-Body1 p
@@ -903,15 +903,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column2-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyF-Column2-Body1 p
@@ -925,8 +925,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyH-Column2-Body1 p
@@ -936,15 +936,15 @@ mcTableBodyStyle
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column2-Body1
 {
-	border-bottom-width: 6px;
+	border-bottom-width: 0px;
 	border-bottom-color: #ffffff;
-	border-bottom-style: solid;
+	border-bottom-style: none;
 	text-align: left;
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyD-Column2-Body1 p
@@ -958,8 +958,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyC-Column2-Body1 p
@@ -973,8 +973,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyB-Column2-Body1 p
@@ -988,8 +988,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyA-Column2-Body1 p
@@ -1003,8 +1003,8 @@ mcTableBodyStyle
 	vertical-align: middle;
 	background-color: #ffffff;
 	padding-left: 10px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .TableStyle-SLGraphicSymbolsTable-BodyG-Column2-Body1 p

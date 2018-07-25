@@ -163,8 +163,8 @@ ul.Install_Checklist > li > ul > li::marker
 p.Note
 {
 	margin-top: 2pt;
-	padding-top: 2pt;
-	padding-bottom: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
@@ -179,8 +179,8 @@ p.Note
 p.Warning
 {
 	margin-top: 2pt;
-	padding-top: 2pt;
-	padding-bottom: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
@@ -195,8 +195,8 @@ p.Warning
 p.Warning_French
 {
 	margin-top: 2pt;
-	padding-top: 2pt;
-	padding-bottom: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
