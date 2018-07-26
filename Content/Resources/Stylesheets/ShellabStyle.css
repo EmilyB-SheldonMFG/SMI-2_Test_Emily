@@ -85,27 +85,25 @@ ul
 {
 	margin-top: 2pt;
 	margin-bottom: 2pt;
-	padding: 4pt;
+	padding-left: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 }
-
-ul.right
+ul.circle
 {
-	text-align: right;
-	marker-offset: 4px;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	padding-left: 30pt;
+	list-style-type: circle;
 }
 
 li
 {
 	margin-top: 2pt;
 	margin-bottom: 2pt;
-	margin-left: 10pt;
-	padding: 4pt;
-	list-style-position: outside;
-}
-
-ol.Right
-{
-	text-align: right;
+	padding-left: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 }
 
 ul.Secondary
@@ -118,7 +116,9 @@ ul.Secondary
 
 ul.centered
 {
-	text-align: center;
+	padding-left: 1.13in;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
 }
 
 ol.bold
@@ -209,11 +209,6 @@ p.Warning_French
 	margin-bottom: 6pt;
 	text-align: justify;
 	mc-auto-number-format: '{b}Avertissement: {/b}';
-}
-
-p.right
-{
-	text-align: center;
 }
 
 p.centered
@@ -352,4 +347,27 @@ a:link
 	color: #0078ba;
 	font-weight: bold;
 	text-decoration: none;
+}
+
+ul.standard_list
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.standard_list > li::marker
+{
+	font-family: ;
+	content: '•';
+}
+
+ul.standard_list > li > ul
+{
+	list-style-image: none;
+}
+
+ul.standard_list > li > ul > li::marker
+{
+	font-family: ;
+	content: '°';
 }
