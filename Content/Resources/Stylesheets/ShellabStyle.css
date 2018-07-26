@@ -88,16 +88,19 @@ ul
 	padding: 4pt;
 }
 
+ul.right
+{
+	text-align: right;
+	marker-offset: 4px;
+}
+
 li
 {
 	margin-top: 2pt;
 	margin-bottom: 2pt;
+	margin-left: 10pt;
 	padding: 4pt;
-}
-
-ul.Right
-{
-	text-align: right;
+	list-style-position: outside;
 }
 
 ol.Right
@@ -265,6 +268,7 @@ p.Title_Units
 	padding-right: 8pt;
 	font-weight: bold;
 	word-spacing: 5px;
+	list-style-position: inherit;
 }
 
 p.Copyright
