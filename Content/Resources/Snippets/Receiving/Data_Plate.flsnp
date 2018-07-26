@@ -6,7 +6,9 @@
     <body>
         <h2>Recording Data Plate Information</h2>
         <p>Record the unit <b>model number, serial number, part number,</b> and <MadCap:conditionalText MadCap:conditions="Brand.SHEL LAB" style="font-weight: bold;">part ID</MadCap:conditionalText> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</p>
-        <ul>•	The data plate is located <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">on the inside of the incubation chamber door in the top right corner.</MadCap:conditionalText></ul>
+        <ul>
+            <li>The data plate is located <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">on the inside of the incubation chamber door in the top right corner.</MadCap:conditionalText></li>
+        </ul>
         <p>&#160;</p>
         <table style="border-spacing: 0px 1px;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;border-collapse: separate;margin-left: 0;margin-right: auto;mc-table-style: url('../../Stylesheets/SLDataPlateTable.css');" class="TableStyle-SLDataPlateTable" cellspacing="0">
             <col class="TableStyle-SLDataPlateTable-Column-Column1" />

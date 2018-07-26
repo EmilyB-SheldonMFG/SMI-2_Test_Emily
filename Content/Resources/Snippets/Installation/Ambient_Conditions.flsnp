@@ -4,9 +4,11 @@
         <h2>Required Ambient Conditions</h2>
         <p>These units are built for use indoors at room temperatures between <b>15°C and </b><MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b>30°C</b></MadCap:conditionalText><b> </b><MadCap:conditionalText MadCap:conditions="Unit Type.Oven"><b>40°C</b></MadCap:conditionalText><b> (59°F and </b><MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b>86°F</b></MadCap:conditionalText><b> </b><MadCap:conditionalText MadCap:conditions="Unit Type.Oven"><b>104°F</b></MadCap:conditionalText><b>)</b>, at no greater than <b>80% Relative Humidity</b> (at 25°C / 77°F). Operating outside these conditions may adversely affect the unit temperature performance.</p>
         <p>When selecting a location to install the unit, consider all environmental conditions that can adversely impact its temperature performance. These include:</p>
-        <ul>•	Proximity to ovens, autoclaves, and any device that produces significant radiant heat</ul>
-        <ul>•	Heating and cooling vents or other sources of fast-moving air currents</ul>
-        <ul>•	High-traffic areas</ul>
-        <ul>•	Direct sunlight</ul>
+        <ul>
+            <li>Proximity to ovens, autoclaves, and any device that produces significant radiant heat</li>
+            <li>Heating and cooling vents or other sources of fast-moving air currents</li>
+            <li>High-traffic areas</li>
+            <li>Direct sunlight </li>
+        </ul>
     </body>
 </html>
