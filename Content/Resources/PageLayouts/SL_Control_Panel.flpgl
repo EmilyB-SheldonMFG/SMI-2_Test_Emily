@@ -9,7 +9,7 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
+                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;color: black;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -35,7 +35,7 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
+                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;color: black;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -60,7 +60,7 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
+                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;color: black;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -81,13 +81,13 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.385417in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="2" Height="0.5in" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#a7a6a6" Width="6.5in" Bottom="-85px" VerticalAlign="middle">
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.385417in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="2" Height="0.5in" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#a7a6a6" Width="6.5in" Bottom="-85px">
             <Content>
                 <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
+                        <xhtml:p xhtml:style="font-size: 10pt;color: #A7A6A6;line-height: 0pt;padding: 0pt;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;color: black;" /> <xhtml:b>|</xhtml:b> Page</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
