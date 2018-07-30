@@ -23,5 +23,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_3.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_3.png" />
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_4.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_4.png" />
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_5.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_5.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI_Label_Pop.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/4501394_Pop.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDMs/" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/" />
     </Synchronize>
 </CatapultProject>
