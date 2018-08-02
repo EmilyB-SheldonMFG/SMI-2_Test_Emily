@@ -22,5 +22,54 @@
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_4.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_4.png" />
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_5.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_5.png" />
         <Mapping ProjectPath="Content/Resources/Images/SMI_Label_Pop.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/4501394_Pop.png" />
+        <Mapping ProjectPath="Content/Resources/Images/CE_Cert_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/CE/CE_Cert_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/NRTL_1_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/TUV_CUE/NRTL_1_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Incubator_8hr_Heat_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Graphs/Temp_Graphs/Incubator_8hr_Heat_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SL_BlankPage_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Blank_Page/SL_BlankPage_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SL_Footer_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Footer_Logo/SL_Footer_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Covers_BKGND_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Cover_Matter/SHEL_LAB/Covers/Covers_BKGND_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SL_Logo_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/SHEL_LAB/SL_Logo_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Sheldon_BCKCVR_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/Sheldon_MFG/Sheldon_BCKCVR_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SheldonBW_CM_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/Sheldon_MFG/SheldonBW_CM_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Probes_ThermoC_Shelf_Upright_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Probes/Probes_ThermoC_Shelf_Upright_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Device_Temp_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Device_Temp_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Temp_38_1C_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Temp_38_1C_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Temp_37C_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Temp_37C_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Temp_37_4C_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Temp_37_4C_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Temp_Ref_38C_Device_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Temp_Ref_38C_Device_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Dev_Mini25_GS_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Dev_Mini25_GS_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/1800500_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/1800500_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/1800510_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/1800510_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/2700512_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/2700512_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/3300515_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/3300515_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/3300520_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/3300520_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5080758_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5080758_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5081174_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5081174_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5081201_Lrg_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5081201_Lrg_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5081201_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5081201_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5081205_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5081205_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5130518_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5130518_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5130523_Lrg_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5130523_Lrg_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5130523_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5130523_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/5130687_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/5130687_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/6500506_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/6500506_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/AC_Power_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/AC_Power_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Earth_Ground_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Earth_Ground_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Power Plug- CEE 7-7_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Power Plug- CEE 7-7_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Power Plug_5-15P_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Power Plug_5-15P_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Power_Cord_CE77_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Power_Cord_CE77_2_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Power_Cord_NEMA_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Power_Cord_NEMA_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Recept_5-15R_1-02_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_5-15R_1-02_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Recept_5-15R_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_5-15R_2_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Recept_CEE77R_2.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77R_2.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Recept_CEE77_1-02_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77_1-02_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Clockwise_Foot_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Components/Clockwise_Foot_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Foot_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Components/Foot_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Spray_Bottle_Glass_Cleaner_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Tools/Spray_Bottle_Glass_Cleaner_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Tape_NStick_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Tools/Tape_NStick_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Condensation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Condensation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Glove_Exam_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Glove_Exam_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Lvl_Mini_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Lvl_Mini_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Manual_Adjust_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Manual_Adjust_Man.png" />
     </Synchronize>
 </CatapultProject>
