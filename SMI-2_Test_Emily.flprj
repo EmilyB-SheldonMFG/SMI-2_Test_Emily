@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheetOverride="True" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." xml:lang="en-us" MasterToc="/Project/TOCs/SMITestTOC.fltoc" SourceControlProviderType="Git" ProjectGuid="fb7f47fb-dc5a-4b60-a557-dc2130a9a6be">
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/SheldonMFG_BW.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/Sheldon_MFG/SheldonMFG_BW.png" />
+        <Mapping ProjectPath="Content/Resources/Images/CE_Cert.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/CE_Cert.png" />
+        <Mapping ProjectPath="Content/Resources/Images/NRTL_1.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SHEL_LAB_Atom.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/SHEL_LAB/SHEL_LAB_Atom.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SHEL_LAB_Atom_Mini20.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/SHEL_LAB/SHEL_LAB_Atom_Mini20.png" />
+        <Mapping ProjectPath="Content/Resources/Images/GRAPHIC_SYMBOLS/" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/GRAPHIC_SYMBOLS/" />
+        <Mapping ProjectPath="Content/Resources/Images/SHEL_LAB_Logo.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/SHELLAB_Manuals/Cover Images/SHEL_LAB_Logo.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Front_Matter_CoverBKGND.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/SHELLAB_Manuals/Cover Images/Front_Matter_CoverBKGND.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Back_Matter_CoverBKGND.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/SHELLAB_Manuals/Cover Images/Back_Matter_CoverBKGND.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Back_Sheldon_Logo.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/SHELLAB_Manuals/Cover Images/Back_Sheldon_Logo.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SL_Atom_Fade_Mini20.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_TestProj_3/Content/Resources/Images/Page_Elements/SL_Atom_Fade_Mini20.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/SMI_Cover/SMI2.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/SMI_Cover/SMI6.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/SMI_Cover/SMI7.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI11.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/SMI_Cover/SMI11.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI12.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/SMI_Cover/SMI12.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_1.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_1.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_2.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_2.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_3.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_3.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_4.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_4.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_5.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_5.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI_Label_Pop.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/4501394_Pop.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDMs/" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/" />
+    </Synchronize>
+</CatapultProject>
