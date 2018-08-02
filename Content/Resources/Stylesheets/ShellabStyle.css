@@ -149,6 +149,7 @@ ul.Install_Checklist > li::marker
 {
 	font-family: Wingdings;
 	content: 'ü';
+	font-weight: bold;
 }
 
 ul.Install_Checklist > li > ul
