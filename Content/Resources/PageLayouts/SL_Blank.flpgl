@@ -21,7 +21,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame X="447px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-32px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="447px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-32px" BackgroundRepeat="stretch" Anchors="" />
     </Page>
     <Page Name="Right_SL_Blank" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.5in">
         <Frame Flow="header" Anchors="" Right="-96px" Bottom="947px" X="-76px" Y="-0.25in" ColumnCount="1" PaddingLeft="50pt" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Height="0.3854167in" BorderBottomStyle="solid" BorderBottomWidth="0pt" BorderBottomColor="#696969" TextAlign="left" Width="8.291667in" BackgroundType="Solid" BackgroundColor="#a7a6a6" VerticalAlign="middle">
@@ -44,12 +44,12 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame X="0px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-32px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="0px" Y="968px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-32px" BackgroundRepeat="stretch" Anchors="" />
     </Page>
     <Page Name="Left_Empty_SL_Blank" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="emptyleft" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedRight="0.5in" BleedLeft="0.5in">
         <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="-0.125in" Right="0in" Bottom="-0.3020833in" Width="6.5in" Height="9.427083in">
         </Frame>
-        <Frame X="447px" Y="920px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-80px" BackgroundImage="../Images/SL_Logo_GS_Mini12.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="447px" Y="920px" Width="177px" Height="24px" Flow="decoration0" Right="0px" Bottom="-80px" BackgroundRepeat="stretch" Anchors="" />
         <Frame X="161px" Y="120px" Width="303px" Height="303px" Right="160px" Bottom="441px" BackgroundRepeat="stretch" Anchors="" />
         <Frame Flow="header" Anchors="" Right="-96px" Bottom="899px" X="-76px" Y="-0.75in" ColumnCount="1" PaddingLeft="50pt" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Height="0.3854167in" BorderBottomStyle="solid" BorderBottomWidth="0pt" BorderBottomColor="#696969" TextAlign="left" Width="8.291667in" BackgroundType="Solid" BackgroundColor="#a7a6a6" VerticalAlign="middle">
             <Content>

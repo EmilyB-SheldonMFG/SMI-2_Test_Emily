@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles>
     <Page Name="Back_Page_Shellab" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.25in" BackgroundRepeat="no-repeat" BackgroundImage="none" BackgroundPositionY="0" BackgroundPositionX="right">
-        <Frame X="-74px" Y="-51px" Width="757px" Height="1048px" FlowIndex="1" Flow="body" Right="-59px" Bottom="-13px" Anchors="" BackgroundImage="../Images/Front_Matter_CoverBKGND.png" />
+        <Frame X="-74px" Y="-51px" Width="757px" Height="1048px" FlowIndex="1" Flow="body" Right="-59px" Bottom="-13px" Anchors="" />
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="2.833333in" Height="2.5625in" X="403px" Y="779px" Right="-51px" Bottom="-41px" Anchors="" BackgroundImage="none" FlowIndex="0">
         </Frame>
-        <Frame X="-48px" Y="-1px" Width="466px" Height="76px" Flow="decoration0" Right="206px" Bottom="909px" BackgroundImage="../Images/SHEL_LAB_Logo_Mini35.png" BackgroundRepeat="stretch" />
-        <Frame X="322px" Y="707px" Width="354px" Height="90px" Flow="decoration1" Right="-52px" Bottom="187px" BackgroundRepeat="no-repeat" Anchors="" BackgroundImage="../Images/Back_Sheldon_Logo_Mini40.png" />
+        <Frame X="-48px" Y="-1px" Width="466px" Height="76px" Flow="decoration0" Right="206px" Bottom="909px" BackgroundRepeat="stretch" />
+        <Frame X="322px" Y="707px" Width="354px" Height="90px" Flow="decoration1" Right="-52px" Bottom="187px" BackgroundRepeat="no-repeat" Anchors="" />
     </Page>
 </PageStyles>
