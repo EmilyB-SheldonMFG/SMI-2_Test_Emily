@@ -101,5 +101,16 @@
         <Mapping ProjectPath="Content/Resources/Images/Port_USB_A_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Data Ports/Port_USB_A_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Jack-Mono_1_Quarter_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Data Ports/Jack-Mono_1_Quarter_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Timer_Wait_1_Hour_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Timers/Timer_Wait_1_Hour_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Gear_GR_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Gear_GR_2_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Graph_HiRez_GR_Small_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Graph_HiRez_GR_Small_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Graph_HiRez_GR_Icon_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Graph_HiRez_GR_Icon_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Green_Checkmark_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Green_Checkmark_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Heating_Indicator_TDM_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Heating_Indicator_TDM_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Icon_Mute_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Icon_Mute_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Left_Arrow_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Left_Arrow_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Lock_GS_Icon_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Lock_GS_Icon_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Lock_GS_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Lock_GS_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Mute_HiRez_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Mute_HiRez_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Mute_HiRez_Muted_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/GUI_Elements/Mute_HiRez_Muted_Man.png" />
     </Synchronize>
 </CatapultProject>
