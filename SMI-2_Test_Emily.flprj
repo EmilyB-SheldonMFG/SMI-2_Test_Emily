@@ -71,5 +71,11 @@
         <Mapping ProjectPath="Content/Resources/Images/Glove_Exam_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Glove_Exam_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Lvl_Mini_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Lvl_Mini_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Manual_Adjust_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Manual_Adjust_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Recycle_Unit_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Recycle_Unit_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Rotate_CC_BACT_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Rotate_CC_BACT_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Rotate_CC_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Rotate_CC_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Rotate_CW_BACT_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Rotate_CW_BACT_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Rotate_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Graphic_Symbols/Rotate_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Caution_WB_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Caution_Icons/Caution_WB_Man.png" />
     </Synchronize>
 </CatapultProject>
