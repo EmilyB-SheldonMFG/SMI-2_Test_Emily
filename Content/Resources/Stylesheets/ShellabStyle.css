@@ -166,8 +166,8 @@ ul.Install_Checklist > li > ul > li::marker
 p.Note
 {
 	margin-top: 2pt;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
+	padding-top: 3pt;
+	padding-bottom: 3pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
@@ -182,14 +182,11 @@ p.Note
 p.Warning
 {
 	margin-top: 2pt;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
+	padding-top: 3pt;
+	padding-bottom: 3pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
-	border-bottom-style: solid;
-	border-bottom-width: .5pt;
-	border-bottom-color: black;
 	margin-bottom: 6pt;
 	text-align: justify;
 	mc-auto-number-format: '{b}Warning: {/b}';
@@ -198,11 +195,8 @@ p.Warning
 p.Warning_French
 {
 	margin-top: 2pt;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
-	border-top-style: solid;
-	border-top-width: .5pt;
-	border-top-color: black;
+	padding-top: 3pt;
+	padding-bottom: 3pt;
 	border-bottom-style: solid;
 	border-bottom-width: .5pt;
 	border-bottom-color: black;
@@ -231,11 +225,11 @@ p.Warranty
 p.Title_Family
 {
 	font-size: 22pt;
-	font-weight: bolder;
+	font-weight: bold;
 	margin-bottom: 15pt;
 	color: #70787C;
-	padding-left: 8pt;
 	line-height: 7pt;
+	padding-left: 0pt;
 }
 
 p.Title_Voltage
@@ -243,7 +237,7 @@ p.Title_Voltage
 	font-size: 18pt;
 	font-weight: bold;
 	color: #70787C;
-	padding-left: 8pt;
+	padding-left: 0pt;
 }
 
 p.Title_Doc_Type
@@ -296,11 +290,12 @@ p.TOC2
 
 p.Back_Page
 {
-	font-size: 12pt;
+	font-size: 11pt;
 	font: 'Proxima Nova Semibold';
 	font-weight: bold;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
+	padding: 0pt;
 	text-align: right;
 }
 
