@@ -156,6 +156,9 @@ ul.Install_Checklist > li > ul
 {
 	list-style-type: disc;
 	list-style-image: none;
+	padding-top: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
 }
 
 ul.Install_Checklist > li > ul > li::marker

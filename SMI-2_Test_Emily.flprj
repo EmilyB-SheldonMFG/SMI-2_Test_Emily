@@ -61,7 +61,6 @@
         <Mapping ProjectPath="Content/Resources/Images/Power/Power_Cord_NEMA_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Power_Cord_NEMA_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Power/Recept_5-15R_1-02_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_5-15R_1-02_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Power/Recept_5-15R_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_5-15R_2_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Power/Recept_CEE77R_2.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77R_2.png" />
         <Mapping ProjectPath="Content/Resources/Images/Power/Recept_CEE77_1-02_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77_1-02_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Icons/Clockwise_Foot_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Components/Clockwise_Foot_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Icons/Foot_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Components/Foot_Man.png" />
@@ -176,5 +175,6 @@
         <Mapping ProjectPath="Content/Resources/Images/Units/SMI12-2_Front_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SMI12-2_Front_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Units/SMI12_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222/SMI12_T_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Units/SMI12-2_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222-EA/SMI12-2_T_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Power/Recept_CEE77R_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77R_2_Man.png" />
     </Synchronize>
 </CatapultProject>
