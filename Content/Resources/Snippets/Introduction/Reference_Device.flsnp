@@ -7,9 +7,11 @@
         <p>&#160;</p>
         <h3>Must be Purchased Separately</h3>
         <p>&#160;</p>
-        <p>A reference sensor device is required for calibrating the unit temperature display.</p>
+        <p>A reference sensor device is required for calibrating the unit temperature display.<img src="../../Images/Calibration/Ref_Device_Temp_Man.png" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" style="float: left;left: 505px;top: 145px;" /></p>
         <p>Reference devices must meet the following standards:</p>
-        <ul>•	Accurate to at least 0.1°C</ul>
+        <ul>
+            <li>Accurate to at least 0.1°C</li>
+        </ul>
         <p>The device should be regularly calibrated, preferably by a third party.</p>
         <p>&#160;</p>
         <h3>Temperature Probes</h3>
