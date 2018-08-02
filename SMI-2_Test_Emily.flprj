@@ -86,5 +86,20 @@
         <Mapping ProjectPath="Content/Resources/Images/Temp_GS_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Temperature_Symbols/Temp_GS_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Temp_SL_Heat_Inc_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Temperature_Symbols/Temp_SL_Heat_Inc_2_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Temp_SL_Heat_Inc_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Temperature_Symbols/Temp_SL_Heat_Inc_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Slight_Left_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Slight_Left_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Middle_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Middle_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Max_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Max_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Left_Middle_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Left_Middle_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Large_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Large_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/OTL_Disc_JUMO_Icon_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Dials/OTL_Disc_JUMO_Icon_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Light_Inactive_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Lights/Light_Inactive_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Light_Red_Icon_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Lights/Light_Red_Icon_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Light_Red_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Lights/Light_Red_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Date_Time_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Timers/Date_Time_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Timer_Wait_8_Hours_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Timers/Timer_Wait_8_Hours_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Drive_USB_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Data Ports/Drive_USB_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Port_USB_A_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Data Ports/Port_USB_A_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Jack-Mono_1_Quarter_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Data Ports/Jack-Mono_1_Quarter_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Timer_Wait_1_Hour_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Timers/Timer_Wait_1_Hour_Man.png" />
     </Synchronize>
 </CatapultProject>
