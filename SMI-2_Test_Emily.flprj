@@ -143,5 +143,10 @@
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Sm_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Alarm_Enabled_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Alarm_Enabled_Sm_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Alarm_Set_Point_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Alarm_Set_Point_Sm_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Set_Point_Med_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Set_Point_Med_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Set_Point_Sm_1_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Set_Point_Sm_1_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Set_Point_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Set_Point_Sm_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Settings_Med_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Settings_Med_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Settings_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Settings_Sm_Man.png" />
     </Synchronize>
 </CatapultProject>
