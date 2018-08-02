@@ -148,5 +148,27 @@
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Set_Point_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Set_Point_Sm_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Settings_Med_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Settings_Med_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/TDM_SMIs_Temp_Settings_Sm_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Displays/Controllers/TDMs/Incubator_37C/TDM_SMIs_Temp_Settings_Sm_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/4501394_Pop_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/4501394_Pop_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Com_Ports_Oper_Data_Outputs_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Com_Ports_Oper_Data_Outputs_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Com_Ports_Oper_Exporting_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Com_Ports_Oper_Exporting_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Shel_Install_1_Inst_Shelving_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Shel_Install_1_Inst_Shelving_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Shel_Install_3_Inst_Shelving_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Shel_Install_3_Inst_Shelving_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI_Com_Ports_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SMI_Com_Ports_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2_Front_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SMI2_Front_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2_100V_PP_Bright_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_100V_PP_Bright_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2-2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2-2_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6_Front_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SMI6_Front_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6_Maint_Calibrating_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SMI6_Maint_Calibrating_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6_RS_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SMI6_RS_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6_DRs_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622/SMI6_DRs_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI6-2_DRs_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622-EA/SMI6-2_DRs_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7_Off_Inst_Leveling_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Off_Inst_Leveling_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7_Off_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Off_Inst_Clearances_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7_Front_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Front_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7_LS_DRs_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_LS_DRs_Inst_Clearances_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7-2_220V_PP_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722-EA/SMI7-2_220V_PP_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI7-2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722-EA/SMI7-2_DR_Rece_Orientation_Man.png" />
     </Synchronize>
 </CatapultProject>
