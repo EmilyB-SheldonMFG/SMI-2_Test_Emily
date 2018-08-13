@@ -4,6 +4,6 @@
     </head>
     <body>
         <h2>Door Components</h2>
-        <p>Periodically, inspect the door latch, trim, catch, and gaskets for signs of deterioration. Failure to maintain the integrity of the door system shortens the life span of the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText>.</p>
+        <p>Periodically, inspect the door latch, trim, catch, and gaskets for signs of deterioration. Failure to maintain the integrity of the door system shortens the life span of the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText>.</p>
     </body>
 </html>

@@ -3,9 +3,11 @@
     <body>
         <h2>Lifting and Handling</h2>
         <p>The unit is heavy. Use appropriate lifting devices that are sufficiently rated for these loads. Follow these guidelines when lifting the unit:</p>
-        <ul><li>Lift the unit only from its bottom surface.</li>
-        <li>Doors, handles, and knobs are not adequate for lifting or stabilization.</li>
-        <li>Restrain the unit completely while lifting or transporting so it cannot tip.</li>
-        <li>Remove all moving parts, such as shelves and trays, and lock doors in the closed position during transfers to prevent shifting and damage.</li></ul>
+        <ul>
+            <li>Lift the unit only from its bottom surface.</li>
+            <li>Doors, handles, and knobs are not adequate for lifting or stabilization.</li>
+            <li>Restrain the unit completely while lifting or transporting so it cannot tip.</li>
+            <li>Remove all moving parts, such as shelves and trays, and lock doors in the closed position during transfers to prevent shifting and damage.</li>
+        </ul>
     </body>
 </html>

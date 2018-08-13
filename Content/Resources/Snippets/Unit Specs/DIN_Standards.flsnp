@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <p>These<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> incubators</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven"> forced air ovens</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven"><MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven">vacuum oven</MadCap:conditionalText>s</MadCap:conditionalText> are <MadCap:conditionalText MadCap:conditions="Voltage.220V">220 — 240</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">110 —120</MadCap:conditionalText> volt units. Please refer to the unit data plate for individual electrical specifications.</p>
+        <p>These<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> incubators</MadCap:conditionalText>are <MadCap:conditionalText MadCap:conditions="Voltage.220V">220 — 240</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">110 —120</MadCap:conditionalText> volt units. Please refer to the unit data plate for individual electrical specifications.</p>
         <p>Technical data specified applies to units with standard equipment at an ambient temperature of 25°C and at nominal voltage. The temperatures specified are determined in accordance with factory standard following DIN 12880 respecting the recommended wall clearances of 10% of the height, width, and depth of the inner chamber. All indications are average values, typical for units produced in the series. We reserve the right to alter technical specifications at all times.</p>
     </body>
 </html>

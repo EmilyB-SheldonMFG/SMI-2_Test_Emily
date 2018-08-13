@@ -3,9 +3,9 @@
     <head>
     </head>
     <body>
-        <h2>Storing the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">Oven</MadCap:conditionalText></h2>
-        <p>Perform the following steps if the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> will be out of use for more than 24 hours to prevent microbiological contamination such as fungus or mold.</p>
-        <ol>1.	Depower the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText>.</ol>
+        <h2>Storing the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator</MadCap:conditionalText></h2>
+        <p>Perform the following steps if the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> will be out of use for more than 24 hours to prevent microbiological contamination such as fungus or mold.</p>
+        <ol>1.	Depower the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText>.</ol>
         <ol>2.	Disinfect and clean if required by your laboratory protocol, or if the chamber has been exposed to pathogenic microorganisms.</ol>
         <ol>3.	Use a soft cloth to dry the chamber surfaces.</ol>
     </body>

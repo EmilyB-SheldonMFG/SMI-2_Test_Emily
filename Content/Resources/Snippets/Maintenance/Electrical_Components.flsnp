@@ -4,6 +4,6 @@
     </head>
     <body>
         <h2>Electrical Components</h2>
-        <p>Electrical components do not require maintenance. If the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> fails to operate as specified, please contact your distributor or <a href="../../Topics/SL_Introduction/Contact_Assistance.htm#Contact_Assistance">Technical Support</a> for assistance.</p>
+        <p>Electrical components do not require maintenance. If the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> fails to operate as specified, please contact your distributor or <a href="../../Topics/SL_Introduction/Contact_Assistance.htm#Contact_Assistance">Technical Support</a> for assistance.</p>
     </body>
 </html>
