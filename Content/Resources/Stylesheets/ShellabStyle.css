@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 e a.Popup
 {
@@ -89,6 +89,7 @@ ul
 	padding-top: 4pt;
 	padding-bottom: 4pt;
 }
+
 ul.circle
 {
 	margin-top: 2pt;
@@ -367,3 +368,15 @@ ul.standard_list > li > ul > li::marker
 	font-family: ;
 	content: '°';
 }
+
+div.TextBox
+{
+	font-size: 10pt;
+	font: Proxima Nova Semibold;
+	background-color: transparent;
+	border: none 0px #000000;
+	padding: 4px;
+	text-align: center;
+	position: absolute;
+}
+
