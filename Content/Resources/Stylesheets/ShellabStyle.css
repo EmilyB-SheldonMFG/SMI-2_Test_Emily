@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 e a.Popup
 {
@@ -103,8 +103,8 @@ li
 	margin-top: 2pt;
 	margin-bottom: 2pt;
 	padding-left: 2pt;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
+	padding-top: 8pt;
+	padding-bottom: 8pt;
 }
 
 ul.Secondary
@@ -130,6 +130,7 @@ ol.bold
 ol
 {
 	font-family: 'Proxima Nova';
+	padding: 8pt;
 }
 
 ul.Install_Checklist
@@ -171,8 +172,8 @@ ul.Install_Checklist > li > ul > li::marker
 p.Note
 {
 	margin-top: 2pt;
-	padding-top: 3pt;
-	padding-bottom: 3pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
@@ -187,12 +188,12 @@ p.Note
 p.Warning
 {
 	margin-top: 2pt;
-	padding-top: 3pt;
-	padding-bottom: 3pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
 	border-top-style: solid;
 	border-top-width: .5pt;
 	border-top-color: black;
-	margin-bottom: 6pt;
+	margin-bottom: 2pt;
 	text-align: justify;
 	mc-auto-number-format: '{b}Warning: {/b}';
 }
@@ -200,8 +201,8 @@ p.Warning
 p.Warning_French
 {
 	margin-top: 2pt;
-	padding-top: 3pt;
-	padding-bottom: 3pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
 	border-bottom-style: solid;
 	border-bottom-width: .5pt;
 	border-bottom-color: black;
@@ -380,3 +381,8 @@ MadCap|pageBreak
 	margin: 0px;
 }
 
+img
+{
+	padding: 2px;
+	margin: 2px;
+}

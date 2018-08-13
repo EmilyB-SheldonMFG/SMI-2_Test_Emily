@@ -21,6 +21,10 @@ mcTableStyle
 	cell-padding-right: 0px;
 	cell-padding-top: 2px;
 	cell-padding-bottom: 2px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
 }
 
 mcTableColumnStyle
@@ -44,8 +48,9 @@ mcTableColumnStyle
 	separator-style: solid;
 	separator-width: 1px;
 	separator-color: #d3d3d3;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	cell-padding-right: 4px;
 }
 
 mcTableColumnStyle
@@ -68,8 +73,9 @@ mcTableColumnStyle
 	separator-style: solid;
 	separator-width: 1px;
 	separator-color: #d3d3d3;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	cell-padding-right: 4px;
 }
 
 mcTableColumnStyle
@@ -121,7 +127,7 @@ mcTableHeadStyle
 	cell-content-style-class: Table_Header;
 	cell-content-style-tag: none;
 	cell-padding-top: 1px;
-	cell-padding-bottom: 1px;
+	cell-padding-bottom: 5px;
 	vertical-align: top;
 	cell-padding-left: 0px;
 	cell-padding-right: 0px;
@@ -240,6 +246,10 @@ mcTableBodyStyle
 	border-top-width: 0px;
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 2px;
+	margin-bottom: 2px;
 	page-break-inside: avoid;
 	frame-break-inside: avoid;
 	border-spacing: 0px 0px;
@@ -295,7 +305,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column1-Header1 p
@@ -317,7 +327,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -339,7 +349,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -364,7 +374,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column1-Header1 p
@@ -383,7 +393,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -405,7 +415,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column1-Header1 p
@@ -427,7 +437,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column1-Header1 p
@@ -446,7 +456,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column1-Header1 p
@@ -465,7 +475,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column1-Header1 p
@@ -482,7 +492,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column2-Header1 p
@@ -501,7 +511,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -520,7 +530,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -542,7 +552,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column2-Header1 p
@@ -558,7 +568,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -577,7 +587,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column2-Header1 p
@@ -596,7 +606,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column2-Header1 p
@@ -612,7 +622,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column2-Header1 p
@@ -628,7 +638,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column2-Header1 p
@@ -644,7 +654,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column3-Header1 p
@@ -663,7 +673,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -682,7 +692,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -704,7 +714,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column3-Header1 p
@@ -720,7 +730,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -739,7 +749,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column3-Header1 p
@@ -758,7 +768,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column3-Header1 p
@@ -774,7 +784,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column3-Header1 p
@@ -790,7 +800,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column3-Header1 p
@@ -806,7 +816,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column4-Header1 p
@@ -825,7 +835,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -844,7 +854,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -866,7 +876,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column4-Header1 p
@@ -882,7 +892,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -901,7 +911,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column4-Header1 p
@@ -920,7 +930,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column4-Header1 p
@@ -936,7 +946,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column4-Header1 p
@@ -952,7 +962,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column4-Header1 p
@@ -968,7 +978,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column5-Header1 p
@@ -987,7 +997,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1006,7 +1016,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1028,7 +1038,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column5-Header1 p
@@ -1044,7 +1054,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1063,7 +1073,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column5-Header1 p
@@ -1082,7 +1092,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column5-Header1 p
@@ -1098,7 +1108,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column5-Header1 p
@@ -1114,7 +1124,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column5-Header1 p
@@ -1130,7 +1140,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column6-Header1 p
@@ -1149,7 +1159,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1168,7 +1178,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1190,7 +1200,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column6-Header1 p
@@ -1206,7 +1216,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1225,7 +1235,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column6-Header1 p
@@ -1244,7 +1254,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column6-Header1 p
@@ -1260,7 +1270,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column6-Header1 p
@@ -1276,7 +1286,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column6-Header1 p
@@ -1292,7 +1302,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadI-Column7-Header1 p
@@ -1311,7 +1321,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1330,7 +1340,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1352,7 +1362,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadH-Column7-Header1 p
@@ -1368,7 +1378,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 	border-bottom-width: 1px;
 	border-bottom-color: #000000;
 	border-bottom-style: solid;
@@ -1387,7 +1397,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadC-Column7-Header1 p
@@ -1406,7 +1416,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadB-Column7-Header1 p
@@ -1422,7 +1432,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadA-Column7-Header1 p
@@ -1438,7 +1448,7 @@ mcTableBodyStyle
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-bottom: 5px;
 }
 
 .TableStyle-SLDataLogTable-HeadG-Column7-Header1 p
@@ -1611,11 +1621,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootI-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootI-Column2- p
@@ -1626,11 +1636,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootE-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -1644,11 +1654,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootF-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootF-Column2- p
@@ -1659,11 +1669,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootH-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -1677,11 +1687,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootD-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootD-Column2- p
@@ -1692,11 +1702,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootC-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootC-Column2- p
@@ -1707,11 +1717,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootB-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -1725,11 +1735,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootA-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootA-Column2- p
@@ -1740,11 +1750,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootG-Column2-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootG-Column2- p
@@ -1899,11 +1909,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootI-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootI-Column4- p
@@ -1914,11 +1924,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootE-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -1932,11 +1942,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootF-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootF-Column4- p
@@ -1947,11 +1957,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootH-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -1965,11 +1975,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootD-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootD-Column4- p
@@ -1980,11 +1990,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootC-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootC-Column4- p
@@ -1995,11 +2005,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootB-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -2013,11 +2023,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootA-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootA-Column4- p
@@ -2028,11 +2038,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-FootG-Column4-
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-FootG-Column4- p
@@ -2669,14 +2679,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body1 p
@@ -2688,7 +2698,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -2697,8 +2706,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -2713,7 +2723,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -2722,8 +2731,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body1 p
@@ -2735,14 +2745,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -2757,7 +2767,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -2766,8 +2775,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body1 p
@@ -2779,14 +2789,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body1 p
@@ -2798,14 +2808,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -2820,14 +2830,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body1 p
@@ -2839,14 +2849,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body1 p
@@ -3047,14 +3057,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body1 p
@@ -3066,7 +3076,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -3075,8 +3084,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -3091,7 +3101,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -3100,8 +3109,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body1 p
@@ -3113,14 +3123,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -3135,7 +3145,6 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
@@ -3144,8 +3153,9 @@ mcTableBodyStyle
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body1 p
@@ -3157,14 +3167,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body1 p
@@ -3176,14 +3186,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -3198,14 +3208,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body1 p
@@ -3217,14 +3227,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body1
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	color: #ffffff;
 	font-weight: bold;
 	background-color: #808080;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body1 p
@@ -3997,11 +4007,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body2 p
@@ -4012,14 +4022,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4033,14 +4043,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body2 p
@@ -4051,11 +4061,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4069,14 +4079,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body2 p
@@ -4087,11 +4097,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body2 p
@@ -4102,11 +4112,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4120,11 +4130,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body2 p
@@ -4135,11 +4145,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body2 p
@@ -4303,11 +4313,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body2 p
@@ -4318,14 +4328,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4339,14 +4349,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body2 p
@@ -4357,11 +4367,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4375,14 +4385,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body2 p
@@ -4393,11 +4403,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body2 p
@@ -4408,11 +4418,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -4426,11 +4436,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body2 p
@@ -4441,11 +4451,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body2
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body2 p
@@ -5109,11 +5119,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body3 p
@@ -5124,14 +5134,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5145,14 +5155,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body3 p
@@ -5163,11 +5173,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5181,14 +5191,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body3 p
@@ -5199,11 +5209,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body3 p
@@ -5214,11 +5224,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5232,11 +5242,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body3 p
@@ -5247,11 +5257,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body3 p
@@ -5415,11 +5425,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body3 p
@@ -5430,14 +5440,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5451,14 +5461,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body3 p
@@ -5469,11 +5479,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5487,14 +5497,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body3 p
@@ -5505,11 +5515,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body3 p
@@ -5520,11 +5530,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -5538,11 +5548,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body3 p
@@ -5553,11 +5563,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body3
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body3 p
@@ -6221,11 +6231,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body4 p
@@ -6236,14 +6246,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6257,14 +6267,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body4 p
@@ -6275,11 +6285,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6293,14 +6303,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body4 p
@@ -6311,11 +6321,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body4 p
@@ -6326,11 +6336,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6344,11 +6354,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body4 p
@@ -6359,11 +6369,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body4 p
@@ -6527,11 +6537,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body4 p
@@ -6542,14 +6552,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6563,14 +6573,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body4 p
@@ -6581,11 +6591,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6599,14 +6609,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body4 p
@@ -6617,11 +6627,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body4 p
@@ -6632,11 +6642,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -6650,11 +6660,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body4 p
@@ -6665,11 +6675,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body4
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body4 p
@@ -7333,11 +7343,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body5 p
@@ -7348,14 +7358,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7369,14 +7379,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body5 p
@@ -7387,11 +7397,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7405,14 +7415,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body5 p
@@ -7423,11 +7433,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body5 p
@@ -7438,11 +7448,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7456,11 +7466,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body5 p
@@ -7471,11 +7481,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body5 p
@@ -7639,11 +7649,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body5 p
@@ -7654,14 +7664,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7675,14 +7685,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body5 p
@@ -7693,11 +7703,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7711,14 +7721,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body5 p
@@ -7729,11 +7739,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body5 p
@@ -7744,11 +7754,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -7762,11 +7772,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body5 p
@@ -7777,11 +7787,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body5
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body5 p
@@ -8445,11 +8455,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body6 p
@@ -8460,14 +8470,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8481,14 +8491,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body6 p
@@ -8499,11 +8509,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8517,14 +8527,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body6 p
@@ -8535,11 +8545,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body6 p
@@ -8550,11 +8560,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8568,11 +8578,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body6 p
@@ -8583,11 +8593,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body6 p
@@ -8751,11 +8761,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body6 p
@@ -8766,14 +8776,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8787,14 +8797,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body6 p
@@ -8805,11 +8815,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8823,14 +8833,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body6 p
@@ -8841,11 +8851,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body6 p
@@ -8856,11 +8866,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -8874,11 +8884,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body6 p
@@ -8889,11 +8899,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body6
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body6 p
@@ -9557,11 +9567,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body7 p
@@ -9572,14 +9582,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9593,14 +9603,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body7 p
@@ -9611,11 +9621,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9629,14 +9639,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body7 p
@@ -9647,11 +9657,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body7 p
@@ -9662,11 +9672,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9680,11 +9690,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body7 p
@@ -9695,11 +9705,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body7 p
@@ -9863,11 +9873,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body7 p
@@ -9878,14 +9888,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9899,14 +9909,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body7 p
@@ -9917,11 +9927,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9935,14 +9945,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body7 p
@@ -9953,11 +9963,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body7 p
@@ -9968,11 +9978,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -9986,11 +9996,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body7 p
@@ -10001,11 +10011,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body7
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body7 p
@@ -10669,11 +10679,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column2-Body8 p
@@ -10684,14 +10694,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -10705,14 +10715,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column2-Body8 p
@@ -10723,11 +10733,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -10741,14 +10751,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column2-Body8 p
@@ -10759,11 +10769,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column2-Body8 p
@@ -10774,11 +10784,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -10792,11 +10802,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column2-Body8 p
@@ -10807,11 +10817,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column2-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column2-Body8 p
@@ -10975,11 +10985,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyI-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyI-Column4-Body8 p
@@ -10990,14 +11000,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyE-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -11011,14 +11021,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyF-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyF-Column4-Body8 p
@@ -11029,11 +11039,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyH-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -11047,14 +11057,14 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyD-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	border-bottom-width: 1px;
 	border-bottom-color: #d3d3d3;
 	border-bottom-style: solid;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyD-Column4-Body8 p
@@ -11065,11 +11075,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyC-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyC-Column4-Body8 p
@@ -11080,11 +11090,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyB-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 	border-right-width: 1px;
 	border-right-color: #d3d3d3;
 	border-right-style: solid;
@@ -11098,11 +11108,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyA-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyA-Column4-Body8 p
@@ -11113,11 +11123,11 @@ mcTableBodyStyle
 .TableStyle-SLDataLogTable-BodyG-Column4-Body8
 {
 	padding-left: 0px;
-	padding-right: 0px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	text-align: center;
+	text-align: right;
 	vertical-align: middle;
+	padding-right: 4px;
 }
 
 .TableStyle-SLDataLogTable-BodyG-Column4-Body8 p
