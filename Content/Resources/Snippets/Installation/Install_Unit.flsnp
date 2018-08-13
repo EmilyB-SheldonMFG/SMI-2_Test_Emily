@@ -2,7 +2,7 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <div class="NoPageBreak">
-            <h2>Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">Oven</MadCap:conditionalText></h2>
+            <h2>Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator</MadCap:conditionalText></h2>
         </div>
         <p>Install the unit in a workspace location that meets the criteria discussed in the previous entries of the Installation section.</p>
     </body>
