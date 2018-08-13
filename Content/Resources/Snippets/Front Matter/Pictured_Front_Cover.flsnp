@@ -3,11 +3,9 @@
     <head>
     </head>
     <body>
-        <p class="centered">Pictured on the front cover, left to right: <MadCap:conditionalText MadCap:conditions="Unit_Family.SMI2/6/7/11/12 220V">SMI2-2, SMI6-2, SMI7-2, SMI11-2, SMI12-2</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit_Family.SMI2/6/7/11/12">SMI2, SMI6, SMI7, SMI11, SMI12</MadCap:conditionalText></p>
+        <p class="centered">Pictured on the front cover, left to right: <MadCap:conditionalText MadCap:conditions="Voltage.220V">SMI2-2, SMI6-2, SMI7-2, SMI11-2, SMI12-2</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">SMI2, SMI6, SMI7, SMI11, SMI12</MadCap:conditionalText></p>
         <p>&#160;</p>
         <p>&#160;</p>
-        <p class="centered"><b>Note:</b> The <MadCap:conditionalText MadCap:conditions="Unit_Family.SMI2/6/7/11/12 220V">SMI12-2</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit_Family.SMI2/6/7/11/12">SMI12</MadCap:conditionalText> requires two power outlets.</p>
-        <p class="centered"><b MadCap:conditions="Power Type.Hardwired">These ovens require permanent connect wiring (also known as hardwiring) to a single-phase power supply.</b>
-        </p>
+        <p class="centered"><b>Note:</b> The <MadCap:conditionalText MadCap:conditions="Voltage.220V">SMI12-2</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">SMI12</MadCap:conditionalText> requires two power outlets.</p>
     </body>
 </html>

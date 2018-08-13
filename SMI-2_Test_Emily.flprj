@@ -176,5 +176,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Units/SMI12_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222/SMI12_T_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Units/SMI12-2_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222-EA/SMI12-2_T_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Power/Recept_CEE77R_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77R_2_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Logos/SheldonMFG_BW_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/Sheldon_MFG/SheldonMFG_BW_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Logos/CE_Cert_Man2.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/CE/CE_Cert_Man2.png" />
     </Synchronize>
 </CatapultProject>
