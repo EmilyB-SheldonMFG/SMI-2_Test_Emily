@@ -12,7 +12,7 @@
   OutputFolder="G:\Tech_Com_Dev\Test_Env\Flare\2018"
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl">
   <PrintedOutput
-    CollapseMargins="false"
+    CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="false"
     GenerateGlossaryProxy="false" />
