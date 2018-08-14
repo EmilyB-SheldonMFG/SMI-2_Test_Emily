@@ -3,7 +3,14 @@
     <body>
         <h3>Disinfecting the Incubator and Incubation Chamber</h3>
         <p>Keep the following points in mind when disinfecting the unit.</p>
-        <ul> <li>Turn off and disconnect the unit to safeguard against electrical hazards.</li><li>For maximum effectiveness, disinfection procedures are typically performed after cleaning.</li><li>Disinfect the unit chamber using commercially available disinfectants that are non-corrosive, non-abrasive, and suitable for use on stainless steel and glass surfaces. Contact your local Site Safety Officer for detailed information on which disinfectants are compatible with your applications.</li><li>If permitted by your protocol, remove all removable interior accessories (shelving and other non-attached items) from the chamber when disinfecting.</li><li>Disinfect all surfaces in the chamber, making sure to thoroughly disinfect the corners. Exercise care to avoid damaging the sensor probes.</li><li>Gas concentrations from evaporating disinfecting agents can inhibit growth or cause metabolic symptoms in microbiological sample populations. Make sure that chlorines, quaternary ammonias, or any other overtly volatile disinfecting agents have been rinsed or otherwise removed from the chamber surfaces, prior to placing samples in the chamber.</li></ul>
+        <ul>
+            <li>Turn off and disconnect the unit to safeguard against electrical hazards.</li>
+            <li>For maximum effectiveness, disinfection procedures are typically performed after cleaning.</li>
+            <li>Disinfect the unit chamber using commercially available disinfectants that are non-corrosive, non-abrasive, and suitable for use on stainless steel and glass surfaces. Contact your local Site Safety Officer for detailed information on which disinfectants are compatible with your applications.</li>
+            <li>If permitted by your protocol, remove all removable interior accessories (shelving and other non-attached items) from the chamber when disinfecting.</li>
+            <li>Disinfect all surfaces in the chamber, making sure to thoroughly disinfect the corners. Exercise care to avoid damaging the sensor probes.</li>
+            <li>Gas concentrations from evaporating disinfecting agents can inhibit growth or cause metabolic symptoms in microbiological sample populations. Make sure that chlorines, quaternary ammonias, or any other overtly volatile disinfecting agents have been rinsed or otherwise removed from the chamber surfaces, prior to placing samples in the chamber.</li>
+        </ul>
         <p>When disinfecting external surfaces, use disinfectants that will not damage painted metal, glass, and plastic.</p>
     </body>
 </html>

@@ -106,16 +106,16 @@ li
 ul.Secondary
 {
 	padding-left: 1.13in;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
 	list-style-type: circle;
 }
 
 ul.centered
 {
 	padding-left: 1.13in;
-	padding-top: 4pt;
-	padding-bottom: 4pt;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
 }
 
 ol.bold
@@ -126,7 +126,7 @@ ol.bold
 ol
 {
 	font-family: 'Proxima Nova';
-	padding: 8pt;
+	padding: 2pt;
 }
 
 ul.Install_Checklist
