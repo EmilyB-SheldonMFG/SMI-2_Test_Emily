@@ -11,7 +11,7 @@ body
 	font-size: 10pt;
 	margin: 2pt;
 	text-align: justify;
-	padding: 8pt;
+	padding: 6pt;
 	mc-hyphenate: never;
 }
 
@@ -83,8 +83,6 @@ h3.centered
 
 ul
 {
-	margin-top: 2pt;
-	margin-bottom: 2pt;
 	padding-left: 2pt;
 	padding-top: 4pt;
 	padding-bottom: 4pt;
@@ -100,11 +98,9 @@ ul.circle
 
 li
 {
-	margin-top: 2pt;
-	margin-bottom: 2pt;
 	padding-left: 2pt;
-	padding-top: 8pt;
-	padding-bottom: 8pt;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
 }
 
 ul.Secondary
