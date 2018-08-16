@@ -352,23 +352,39 @@ ul.standard_list
 {
 	list-style-type: disc;
 	list-style-image: none;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
 }
 
 ul.standard_list > li::marker
 {
 	font-family: ;
 	content: '•';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
 }
 
 ul.standard_list > li > ul
 {
 	list-style-image: none;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
 }
 
 ul.standard_list > li > ul > li::marker
 {
 	font-family: ;
 	content: '°';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
 }
 
 MadCap|pageBreak
