@@ -3,6 +3,6 @@
     <head>
     </head>
     <body>
-        <p><b>Power Source:</b> The power source must match the voltage and amperage requirements listed on the unit data plate. These units are intended for <MadCap:conditionalText MadCap:conditions="Voltage.220V"><MadCap:conditionalText MadCap:conditions="Voltage.220V"><b>220 — 240 volt</b></MadCap:conditionalText><b>,</b></MadCap:conditionalText><b> </b><MadCap:conditionalText MadCap:conditions="Voltage.110V"><b>110 —120 volt,</b></MadCap:conditionalText><b> 50/60 Hz</b> applications at the following amperages:</p>
+        <p><b>Power Source:</b> The power source must match the voltage and amperage requirements listed on the unit data plate. These units are intended for <MadCap:conditionalText MadCap:conditions="Voltage.220V"><MadCap:conditionalText MadCap:conditions="Voltage.220V"><b>220 — 240 volt</b></MadCap:conditionalText><b>,</b></MadCap:conditionalText><b> </b><MadCap:conditionalText MadCap:conditions="Voltage.110V"><b>100 —120 volt,</b></MadCap:conditionalText><b> 50/60 Hz</b> applications at the following amperages:</p>
     </body>
 </html>
