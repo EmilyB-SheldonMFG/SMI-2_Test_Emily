@@ -8,7 +8,7 @@
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
   InjectEmptyPages="true"
   MasterToc="/Project/TOCs/SMITestTOC.fltoc"
-  ConditionTagExpression="include[&quot;Brand.SHEL LAB&quot; or &quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or &quot;Unit_Family.SMI2/6/7/11/12 220V&quot; or Voltage.110V] exclude[&quot;Brand.Cascade TEK&quot; or &quot;Brand.Lab Armor&quot; or &quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Unit_Family.SMI2/6/7/11/12 or Unit_Family.SVAC1/2/4 or &quot;Unit_Family.SVAC1/2/4 220V&quot; or Unit_Family.SVAC9 or Voltage.220V] "
+  ConditionTagExpression="include[&quot;Brand.SHEL LAB&quot; or &quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or &quot;Unit_Family.SMI2/6/7/11/12 220V&quot; or Voltage.220V] exclude[&quot;Brand.Cascade TEK&quot; or &quot;Brand.Lab Armor&quot; or &quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Unit_Family.SMI2/6/7/11/12 or Unit_Family.SVAC1/2/4 or &quot;Unit_Family.SVAC1/2/4 220V&quot; or Unit_Family.SVAC9 or Voltage.110V] "
   OutputFolder="G:\Tech_Com_Dev\Test_Env\Flare\2018"
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
   MasterStylesheetOverride="true">
