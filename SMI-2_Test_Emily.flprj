@@ -22,10 +22,9 @@
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_4.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_4.png" />
         <Mapping ProjectPath="Content/Resources/Images/Set the Over Temperature Limit_5.png" ExternalPath="file:///G:/Tech_Com_Dev/Test_Env/Flare/2018/SMI_Test_Proj/Content/Resources/Images/4861825_UManual_SMI2_SMI6_SMI7_SMI11_SMI12/Set the Over Temperature Limit_5.png" />
         <Mapping ProjectPath="Content/Resources/Images/SMI_Label_Pop.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/4501394_Pop.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Logos/CE_Cert_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/CE/CE_Cert_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Logos/NRTL_1_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/TUV_CUE/NRTL_1_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/CE_Cert_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/CE/CE_Cert_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/NRTL_1_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/TUV_CUE/NRTL_1_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Calibration/Incubator_8hr_Heat_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Graphs/Temp_Graphs/Incubator_8hr_Heat_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Logos/SL_BlankPage_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Blank_Page/SL_BlankPage_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Logos/SL_Footer_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Footer_Logo/SL_Footer_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Logos/Covers_BKGND_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Cover_Matter/SHEL_LAB/Covers/Covers_BKGND_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Logos/SL_Logo_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/SHEL_LAB/SL_Logo_Man.png" />
@@ -178,5 +177,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Power/Recept_CEE77R_2_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Symbols/Power/Recept_CEE77R_2_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Logos/SheldonMFG_BW_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Logos/Sheldon_MFG/SheldonMFG_BW_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Logos/CE_Cert_Man2.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Cert_Marks/CE/CE_Cert_Man2.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SL_Atom_BlankPage_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Blank_Page/SL_Atom_BlankPage_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Logos/SL_Blank_Atom_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Doc_Elmnts/Page_GFXs/SHEL_LAB/Internal/Blank_Page/SL_Blank_Atom_Man.png" />
     </Synchronize>
 </CatapultProject>
