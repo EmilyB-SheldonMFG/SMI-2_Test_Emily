@@ -37,7 +37,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Calibration/Ref_Temp_37C_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Temp_37C_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Calibration/Ref_Temp_37_4C_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Temp_37_4C_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Calibration/Temp_Ref_38C_Device_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Temp_Ref_38C_Device_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Calibration/Ref_Dev_Mini25_GS_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Dev_Mini25_GS_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Ref_Dev_Mini25_GS_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Dev_Mini25_GS_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Parts/1800500_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/1800500_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Parts/1800510_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/1800510_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Parts/2700512_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Parts/Manual_Parts/2700512_Man.png" />
