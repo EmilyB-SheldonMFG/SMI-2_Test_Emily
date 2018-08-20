@@ -11,11 +11,11 @@
   <Variable
     Name="Phone Number"
     Comment=""
-    EvaluatedDefinition="503-640-3000">503-640-3000</Variable>
+    EvaluatedDefinition="(503)-640-3000">(503)-640-3000</Variable>
   <Variable
     Name="Fax"
     Comment=""
-    EvaluatedDefinition="FAX 503-640-1366">FAX 503-640-1366</Variable>
+    EvaluatedDefinition="FAX (503)-640-1366">FAX (503)-640-1366</Variable>
   <Variable
     Name="Email"
     Comment=""
