@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="110V Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Voltage.110V] exclude[Voltage.220V] "
+  MasterToc="/Project/TOCs/SMITestTOC.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
+  MasterStylesheetOverride="true"
+  InjectEmptyPages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    ShowUsedBookmarks="false"
+    ImageCompression="JPEG"
+    PageMode="UseNone"
+    PageLayout="TwoPageLeft" />
+</CatapultTarget>
