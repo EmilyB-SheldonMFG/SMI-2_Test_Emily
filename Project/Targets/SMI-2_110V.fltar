@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   ConditionTagExpression="include[Voltage.110V] exclude[Voltage.220V] "
-  MasterToc="/Project/TOCs/SMITestTOC.fltoc"
+  MasterToc="/Project/TOCs/SMITOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
   MasterStylesheetOverride="true"
