@@ -7,6 +7,6 @@
         <Frame X="-62px" Y="115px" Width="473px" Height="52px" FlowIndex="1" Flow="body" Right="213px" Bottom="791px" />
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="4.927083in" Height="0.5520833in" X="-62px" Y="-19px" Right="213px" Bottom="924px" FlowIndex="0">
         </Frame>
-        <Frame X="-62px" Y="41px" Width="5.052083in" Height="0.6875in" Flow="decoration0" Right="201px" Bottom="851px" BackgroundImage="../Images/Logos/SL_Logo_Man.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-62px" Y="34px" Width="5.052083in" Height="0.84375in" Flow="decoration0" Right="201px" Bottom="843px" BackgroundImage="../Images/Logos/SL_Logo_Man.png" BackgroundRepeat="stretch" Anchors="" />
     </Page>
 </PageStyles>
