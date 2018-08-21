@@ -13,14 +13,14 @@
             <li class="Install_Checklist">Check that a suitable electrical outlet and power supply is present, page <MadCap:xref href="../../Topics/SL_Installation/Power_Requirements.htm#Install_Power_Requirements" class="ConceptPageNumber">1</MadCap:xref>.</li>
         </ul>
         <p>&#160;</p>
-        <h3 class="Checkmark">Install the incubator in a suitable workspace location</h3>
+        <h3 class="Checkmark">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> in a suitable workspace location</h3>
         <ul class="Install_Checklist">
             <li class="Install_Checklist">Review the lifting and handling instructions, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Lift_Handle" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li>Install the unit leveling feet, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Leveling" class="ConceptPageNumber">1</MadCap:xref>.</li>
-            <li class="Install_Checklist">Install the incubator in its workspace location, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Unit" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> in its workspace location, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Unit" class="ConceptPageNumber">1</MadCap:xref>.</li>
         </ul>
         <p>&#160;</p>
-        <h3 class="Checkmark">Set up the incubator for use</h3>
+        <h3 class="Checkmark">Set up the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> for use</h3>
         <ul class="Install_Checklist">
             <li class="Install_Checklist">Clean and disinfect the unit and shelving (recommended), page <MadCap:xref href="../../Topics/SL_Installation/Install_Clean_Disinfect.htm#Install_Clean_Disinfect" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Install the shelving, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Shelving" class="ConceptPageNumber">1</MadCap:xref>.</li>
