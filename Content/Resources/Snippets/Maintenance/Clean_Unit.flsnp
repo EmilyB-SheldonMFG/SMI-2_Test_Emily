@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <h3>Cleaning the Incubator and Incubation Chamber</h3>
+        <h3>Cleaning the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator</MadCap:conditionalText> and <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubation</MadCap:conditionalText> Chamber</h3>
         <ol>1.	Disconnect the unit from its power supply.</ol>
         <ol>2.	Remove all removable interior components such as shelving and accessories.</ol>
         <ol>3.	Clean the unit with a mild soap and water solution, including all corners.</ol>
