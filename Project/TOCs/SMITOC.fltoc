@@ -205,7 +205,7 @@
       PageNumber="1" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Operation/Exporting_Data_Log.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Resources/Topics/SL_Operation/Export_Data_Log.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       PageType="continue"
       AutoEndOnLeftPage="disabled"
       PageNumber="1" />
