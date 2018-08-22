@@ -31,7 +31,9 @@
             <p class="centered">Continued on next page</p>
         </ol>
         <MadCap:pageBreak />
+        <p>&#160;</p>
         <h3>Viewing an Exported Log Spreadsheet</h3>
+        <p>&#160;</p>
         <table style="width: 100%; mc-table-style: url('../../Stylesheets/SLDataLogTable.css'); margin-left: 0; margin-right: auto;" class="TableStyle-SLDataLogTable" cellspacing="0">
             <col class="TableStyle-SLDataLogTable-Column-Column1" style="width: 50px;" />
             <col class="TableStyle-SLDataLogTable-Column-Column2" style="width: 63px;" />
@@ -63,7 +65,7 @@
                         <p>B</p>
                     </td>
                     <td class="TableStyle-SLDataLogTable-BodyE-Column4-Body1">
-                        <p>C</p>
+                        <p style="text-align: center;">C</p>
                     </td>
                     <td class="TableStyle-SLDataLogTable-BodyE-Column5-Body1">
                         <p>D</p>
@@ -241,9 +243,108 @@
         <p>&#160;</p>
         <h3>Time Stamp (Column D)</h3>
         <p>The incubator records time in seconds using a UNIX time stamp (Epoch).</p>
+        <p>To convert the UNIX time stamp into a standard date/time output in an Excel spreadsheet, use the following conversion formula in a date/time formatted cell:</p>
+        <p style="font-weight: bold;">=(TimeStamp/86400)+25569</p>
+        <p style="font-weight: bold;">&#160;</p>
+        <p style="font-weight: bold;">&#160;</p>
+        <p style="font-weight: normal;"><b>Example</b>
+        </p>
+        <table style="width: 100%;mc-table-style: url('../../Stylesheets/SLDataLogTable.css');margin-left: 0;margin-right: auto;" class="TableStyle-SLDataLogTable" cellspacing="0">
+            <col class="TableStyle-SLDataLogTable-Column-Column1" style="width: 50px;" />
+            <col class="TableStyle-SLDataLogTable-Column-Column2" style="width: 88px;" />
+            <col class="TableStyle-SLDataLogTable-Column-Column3" style="width: 164px;" />
+            <col class="TableStyle-SLDataLogTable-Column-Column4" style="width: 124px;" />
+            <col class="TableStyle-SLDataLogTable-Column-Column5" />
+            <thead>
+                <tr class="TableStyle-SLDataLogTable-Head-Header1">
+                    <th class="TableStyle-SLDataLogTable-HeadE-Column1-Header1" style="background-color: #ffffff;border-left-style: none;border-left-width: 0px;border-right-style: none;border-right-width: 0px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 0px;padding-right: 0px;padding-top: 1px;padding-bottom: 1px;">&#160;</th>
+                    <th class="TableStyle-SLDataLogTable-HeadE-Column2-Header1" style="border-right-style: none;border-right-width: 0px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 0px;padding-right: 0px;padding-top: 1px;padding-bottom: 1px;">Time Stamp</th>
+                    <th class="TableStyle-SLDataLogTable-HeadE-Column3-Header1" style="border-right-style: none;border-right-width: 0px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 0px;padding-right: 0px;padding-top: 1px;padding-bottom: 1px;">System Configuration</th>
+                    <th class="TableStyle-SLDataLogTable-HeadE-Column4-Header1">Event Flag</th>
+                    <th class="TableStyle-SLDataLogTable-HeadD-Column5-Header1">Date/Time (formatted cells)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-SLDataLogTable-Body-Body1">
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column1-Body1" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 2px;padding-right: 2px;padding-top: 0px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column2-Body1">
+                        <p style="text-align: center;">D</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column3-Body1">
+                        <p>E</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column4-Body1" style="border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 2px;padding-right: 2px;padding-top: 0px;padding-bottom: 0px;">
+                        <p style="text-align: center;">F</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyD-Column5-Body1">
+                        <p>G</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-SLDataLogTable-Body-Body2">
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column1-Body2" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;">
+                        <p>1</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column2-Body2">
+                        <p>1525604940</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column3-Body2">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column4-Body2" style="border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;text-align: center;">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyD-Column5-Body2" style="border-left-style: none;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
+                        <p>5/6/18 11:09 AM*</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-SLDataLogTable-Body-Body3">
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column1-Body3" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;">
+                        <p>2</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column2-Body3">
+                        <p>1525605000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column3-Body3">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyE-Column4-Body3" style="border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;text-align: center;">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyD-Column5-Body3" style="border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
+                        <p>5/6/18 11:10 AM</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-SLDataLogTable-Body-Body4">
+                    <td class="TableStyle-SLDataLogTable-BodyB-Column1-Body4" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;">
+                        <p>3</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyB-Column2-Body4">
+                        <p>1525605060</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyB-Column3-Body4">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyB-Column4-Body4" style="border-right-style: solid;border-right-width: 1px;border-right-color: #d3d3d3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #d3d3d3;padding-left: 0px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;text-align: center;">
+                        <p>0x00000000</p>
+                    </td>
+                    <td class="TableStyle-SLDataLogTable-BodyA-Column5-Body4" style="border-right-style: solid;border-right-width: 1px;border-right-color: #000000;padding-left: 0px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
+                        <p>5/6/18 11:11 AM</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="font-weight: normal;">* Formula =(D1/86400)+25569</p>
+        <p style="font-weight: normal;">&#160;</p>
+        <p style="font-weight: normal;">&#160;</p>
+        <p class="centered">Continued on next page</p>
+        <MadCap:pageBreak />
+        <p>&#160;</p>
         <p>&#160;</p>
         <h3>System Configuration (Column E)</h3>
         <p>A hardware management function.</p>
+        <p>&#160;</p>
         <p>&#160;</p>
         <h3>Event Flag (Column F)</h3>
         <div class="NoPageBreak">
