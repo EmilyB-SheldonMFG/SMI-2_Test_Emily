@@ -7,24 +7,27 @@
         <p>&#160;</p>
         <p>&#160;</p>
         <h3 class="Checkmark">Pre-Installation</h3>
+        <p>&#160;</p>
         <ul class="Install_Checklist">
+            <li MadCap:conditions="Unit Type.Vacuum Oven">Verify that a vacuum supply source suitable for your application is available and can be connected to the oven.<ul><li MadCap:conditions="Unit Type.Vacuum Oven">See page for the oven gas and vacuum port locations.</li></ul></li>
             <li class="Install_Checklist">Check that the required ambient conditions for the unit are met, page <MadCap:xref href="../../Topics/SL_Installation/Ambient_&amp;_Clearances.htm#Install_Ambient_Conditions" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Check that the spacing clearance requirements are met, page <MadCap:xref href="../../Topics/SL_Installation/Ambient_&amp;_Clearances.htm#Install_Clearances" class="ConceptPageNumber">1</MadCap:xref>.<ul><li>Unit dimensions may be found on page <MadCap:xref href="../../Topics/SL_Unit_Specs/Unit_Specs.htm#Unit_Specs" class="ConceptPageNumber">1</MadCap:xref>.</li></ul></li>
             <li class="Install_Checklist">Check that a suitable electrical outlet and power supply is present, page <MadCap:xref href="../../Topics/SL_Installation/Power_Requirements.htm#Install_Power_Requirements" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist" MadCap:conditions="Power Type.Hardwired">Check that a suitable permanent connect electrical power supply is present, page .</li>
         </ul>
         <p>&#160;</p>
-        <h3 class="Checkmark">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> in a suitable workspace location</h3>
+        <h3 class="Checkmark">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> </MadCap:conditionalText>in a suitable workspace location</h3>
         <ul class="Install_Checklist">
             <li class="Install_Checklist">Review the lifting and handling instructions, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Lift_Handle" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li>Install the unit leveling feet, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Leveling" class="ConceptPageNumber">1</MadCap:xref>.</li>
-            <li class="Install_Checklist">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> in its workspace location, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Unit" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist">Install the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">oven</MadCap:conditionalText> in its workspace location, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Unit" class="ConceptPageNumber">1</MadCap:xref>.<ul><li class="Install_Checklist" MadCap:conditions="Power Type.Hardwired">A qualified technician may now wire the oven to its power source.</li></ul></li>
         </ul>
-        <p>&#160;</p>
-        <h3 class="Checkmark">Set up the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> for use</h3>
+        <h3 class="Checkmark">Set up the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">oven</MadCap:conditionalText> for use</h3>
         <ul class="Install_Checklist">
             <li class="Install_Checklist">Clean and disinfect the unit and shelving (recommended), page <MadCap:xref href="../../Topics/SL_Installation/Install_Clean_Disinfect.htm#Install_Clean_Disinfect" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Install the shelving, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Shelving" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Verify the port cover is installed on the access port, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Port_Stopper" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist" MadCap:conditions="Unit Type.Vacuum Oven">Connect the oven to its vacuum supply source along with any optional backfill gas supply, page .</li>
         </ul>
     </body>
 </html>

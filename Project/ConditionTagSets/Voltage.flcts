@@ -9,4 +9,8 @@
     BackgroundColor="#0000ff"
     Name="110V"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="230V"
+    Comment="" />
 </CatapultConditionTagSet>

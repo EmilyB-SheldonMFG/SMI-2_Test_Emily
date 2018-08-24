@@ -6,6 +6,8 @@
         <h3>SOPs</h3>
         <p>Because of the range of potential applications this unit can be used for, the operator or their supervisors must draw up a site-specific standard operating procedure (SOP) covering each application and associated safety guidelines. This SOP must be written and available to all operators in a language they understand.</p>
         <h3>Intended Applications and Locations</h3>
-        <p>The <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubators</MadCap:conditionalText> are intended for <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">constant temperature, non-humidified microbiological incubation</MadCap:conditionalText> applications in professional, industrial, and educational environments. The units are not intended for use at hazardous or household locations.</p>
+        <p>
+            <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">
+                <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">These incubators are intended for constant temperature, non-humidified microbiological incubation</MadCap:conditionalText> applications</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven">These ovens are intended for constant temperature drying, curing, and baking applications under vacuum</MadCap:conditionalText> in professional, industrial, and educational environments. The units are not intended for use at hazardous or household locations.</p>
     </body>
 </html>
