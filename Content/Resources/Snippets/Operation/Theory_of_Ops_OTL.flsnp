@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">
+    <head>
+    </head>
+    <body>
+        <p>The high limit is set by the user to a minimum of 10˚C above the highest temperature of the application process the oven is currently being used for. Failure to set the high limit control system voids the oven manufacturing defect warranty in the event of an overtemperature event.</p>
+    </body>
+</html>

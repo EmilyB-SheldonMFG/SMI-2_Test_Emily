@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">
+    <head>
+    </head>
+    <body>
+        <p>&#160;</p>
+        <p>Safe operation of the oven is dependent on the actions and behavior of the oven operators. <b>Operating personnel must read and understand the Safety Guidelines and Operating Precautions in this section prior to operating the oven.</b> The operators must follow these instructions to prevent injuries and to safeguard their health, the environment, and the materials being treated in the oven, as well as to prevent damage to the oven. Failure to adhere to the Safety Guidelines and Operating Cautions, deliberately or through error, is a hazardous behavior on the part of the operator.</p>
+        <p>Le fonctionnement sûr du four dépend des actions et du comportement des opérateurs du four. Le personnel d'exploitation doit lire et comprendre les consignes de sécurité et les précautions d'utilisation de cette section avant d'utiliser le four. Les opérateurs doivent suivre ces instructions pour prévenir les blessures et protéger leur santé, leur environnement et les matériaux traités dans le four, ainsi que pour éviter d'endommager le four. Le non-respect des consignes de sécurité et des précautions d'utilisation, délibérément ou par erreur, est un comportement dangereux de la part de l'opérateur.</p>
+        <p>&#160;</p>
+        <h2>Operating Precautions</h2>
+        <ul>
+            <li>Do not use this oven in unsafe improper applications that produce flammable or combustible gases, vapors, liquids or fuel air mixtures in quantities that can become potentially explosive.</li>
+            <li MadCap:conditions="Unit Type.Vacuum Oven">Outgassed byproducts may be hazardous to or noxious for operating personnel. Vacuum pump exhaust should be vented to a location outside the workspace in a safe manner in accordance with all applicable laws, ordinances, and regulations. Do not operate the oven in an unsafe area with noxious fumes.</li>
+            <li>Do not use this oven for applications heating hazardous fibers or dust. These items can become airborne and come into contact with hot surfaces.</li>
+            <li>Individual ovens are not rated to be explosion proof. Follow all building certification requirements and laws for Class I, II, or III locations as defined by the US National Electrical Code.</li>
+            <li>
+                <p>The bottom surface of the chamber should not be used as a work surface. It runs hotter than the shelf temperatures. Never place samples or product on the oven chamber floor.</p>
+            </li>
+            <li>
+                <p>Do not place sealed or filled containers in the oven. These may burst open when the chamber is under vacuum.</p>
+            </li>
+            <li>Do not place alcohol or mercury thermometers in the oven. With improper use, they can rupture.</li>
+            <li>Do not move the oven until it has finished cooling.</li>
+        </ul>
+        <p class="Warning" MadCap:autonum="&lt;b&gt;Warning: &lt;/b&gt;"><b>Hot Surfaces</b>: These areas are marked with Hot Surface labels. Proper protective equipment should be employed to minimize the risk of burns.</p>
+        <p class="Warning_French" MadCap:autonum="&lt;b&gt;Avertissement: &lt;/b&gt;"><b>Surface Chaude</b>: Ces zones sont marquées avec des étiquettes de surface chaude. Un équipement de protection approprié devrait être utilisé pour minimiser le risque de brûlures.</p>
+        <p>&#160;</p>
+    </body>
+</html>
