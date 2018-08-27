@@ -24,9 +24,11 @@
         </ul>
         <h3 class="Checkmark">Set up the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">oven</MadCap:conditionalText> for use</h3>
         <ul class="Install_Checklist">
-            <li class="Install_Checklist">Clean and disinfect the unit and shelving (recommended), page <MadCap:xref href="../../Topics/SL_Installation/Install_Clean_Disinfect.htm#Install_Clean_Disinfect" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist">Clean <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and disinfect</MadCap:conditionalText> the unit and shelving (recommended), page <MadCap:xref href="../../Topics/SL_Installation/Install_Clean_Disinfect.htm#Install_Clean_Disinfect" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Install the shelving, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Shelving" class="ConceptPageNumber">1</MadCap:xref>.</li>
-            <li class="Install_Checklist">Verify the port cover is installed on the access port, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Port_Stopper" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist">
+                <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Verify the port cover is installed on the access port, page <MadCap:xref href="../../Topics/SL_Installation/Install_Shelving.htm#Install_Port_Stopper" class="ConceptPageNumber">1</MadCap:xref>.</MadCap:conditionalText>
+            </li>
             <li class="Install_Checklist" MadCap:conditions="Unit Type.Vacuum Oven">Connect the oven to its vacuum supply source along with any optional backfill gas supply, page .</li>
         </ul>
     </body>
