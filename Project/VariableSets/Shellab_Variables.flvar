@@ -46,4 +46,12 @@
     Name="Extension"
     Comment=""
     EvaluatedDefinition="extension 4">extension 4</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="Incubator">Incubator</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="Oven">Oven</Variable>
 </CatapultVariableSet>
