@@ -7,6 +7,6 @@
         <p>&#160;</p>
         <p>&#160;</p>
         <p class="centered"><b>Note:</b> The <MadCap:conditionalText MadCap:conditions="Voltage.220V">SMI12-2</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">SMI12</MadCap:conditionalText> requires two power outlets.</p>
-        <p class="centered" MadCap:conditions="Power Type.Power Cord">These ovens require permanent connect (also known as hardwiring) to a single phase power supply.</p>
+        <p class="centered" MadCap:conditions="Power Type.Hardwired">These ovens require permanent connect (also known as hardwiring) to a single phase power supply.</p>
     </body>
 </html>
