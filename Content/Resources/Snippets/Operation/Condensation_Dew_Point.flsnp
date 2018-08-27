@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html>
+<html MadCap:conditions="Unit Type.Incubator" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <h2>Condensation and the Dew Point</h2>
         <p>Relative humidity inside the incubation chamber should never be allowed to exceed 80% at 25°C. Exceeding this threshold will likely result in condensation or possible leaks around the incubator, and may cause corrosion damage if allowed to continue for any significant length of time.</p>
