@@ -4,6 +4,7 @@
     </head>
     <body>
         <h2>Door Components</h2>
-        <p>Periodically, inspect the door latch, trim, catch, and gaskets for signs of deterioration. Failure to maintain the integrity of the door system shortens the life span of the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText>.</p>
+        <p>Periodically, inspect the door latch, trim, catch, and gaskets for signs of deterioration. Failure to maintain the integrity of the door system shortens the life span of the unit.</p>
+        <p MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">The gasket should be replaced if it is dry, cracked, or otherwise showing a loss of elasticity.</p>
     </body>
 </html>

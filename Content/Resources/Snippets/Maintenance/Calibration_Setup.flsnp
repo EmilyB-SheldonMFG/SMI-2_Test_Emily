@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Unit Type.Incubator">
     <body>
         <h3>A suggested calibration setup</h3>
         <p><b>1.</b> Introduce the reference device thermocouple probe through the access port on the right side of the unit.</p>
