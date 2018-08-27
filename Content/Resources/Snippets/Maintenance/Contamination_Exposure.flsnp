@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Unit Type.Incubator">
     <head>
     </head>
     <body>
         <h2>Minimizing Contamination Exposure</h2>
-        <p>The following are suggestions for minimizing exposure of the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText>chamber to potential contaminants.</p>
+        <p>The following are suggestions for minimizing exposure of the incubator chamber to potential contaminants.</p>
         <ul>
-            <li>Maintain a high air quality in the laboratory workspaces around the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText>.</li>
-            <li>Avoid placing the<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> incubator</MadCap:conditionalText> near sources of air movement such as doors, air vents, or high traffic routes in the workspace.</li>
-            <li>Minimize the number of times the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator</MadCap:conditionalText> chamber door is opened during normal operations.</li>
+            <li>Maintain a high air quality in the laboratory workspaces around the incubator.</li>
+            <li>Avoid placing the incubator near sources of air movement such as doors, air vents, or high traffic routes in the workspace.</li>
+            <li>Minimize the number of times the incubator chamber door is opened during normal operations.</li>
         </ul>
     </body>
 </html>
