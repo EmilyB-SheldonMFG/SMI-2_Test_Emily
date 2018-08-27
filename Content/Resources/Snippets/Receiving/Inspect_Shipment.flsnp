@@ -17,7 +17,7 @@
             <li>Report any damage to the carrier service that delivered the unit.</li>
             <li>If the carton is not damaged, open the carton and remove the contents.</li>
             <li>Inspect the unit for signs of damage. See the orientation depiction on the next page as a reference.</li>
-            <li>The unit should come with an Installation and Operation Manual.</li>
+            <li>The unit should come with an Installation and Operation Manual, <MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven,Unit Type.Oven"><b>a Profile Programming Guide,</b> and a Watlow EZ-Zone User Manual.</MadCap:conditionalText></li>
             <li>Verify that the correct number of accessory items has been included.</li>
             <li>Carefully check all packaging for accessory items before discarding.</li>
         </ol>
