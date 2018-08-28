@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <p>These units are CUE listed by TÜV SÜD as <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubators</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven">vacuum ovens</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven"> forced air ovens</MadCap:conditionalText> for professional, industrial, or educational use where the preparation or testing of materials is done at an ambient air pressure range of 22.14 – 31.3 inHg (75 – 106 kPa) and no flammable, volatile, or combustible materials are being heated.</p>
+        <p>These units are CUE listed by TÜV SÜD as <MadCap:variable name="Shellab_Variables.Unit Type" /> for professional, industrial, or educational use where the preparation or testing of materials is done at an ambient air pressure range of 22.14 – 31.3 inHg (75 – 106 kPa) and no flammable, volatile, or combustible materials are being heated.</p>
         <p>These units have been tested to the following requirements:</p>
         <p class="No_Space">CAN/CSA C22.2 No. 61010-1:2012</p>
         <p class="No_Space">CAN/CSA C22.2 No. 61010-2-010 + R:2009</p>
