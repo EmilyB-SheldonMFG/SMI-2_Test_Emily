@@ -13,7 +13,7 @@
                     </MadCap:conditionalText><b></b>
                     <MadCap:conditionalText MadCap:conditions="Voltage.110V"><b>15 amps</b>
                     </MadCap:conditionalText>
-                </MadCap:conditionalText><b> </b>
+                </MadCap:conditionalText><b></b>
                 <MadCap:conditionalText MadCap:conditions="Power Type.Hardwired,Voltage.230V"><b>30 amps</b>
                 </MadCap:conditionalText><b>.</b>
             </li>
