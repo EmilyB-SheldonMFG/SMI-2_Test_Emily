@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <p><b>Power Cord:</b> The<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven">oven</MadCap:conditionalText> must be positioned so that all end-users can quickly unplug the cord in the event of an emergency.</p>
+        <p><b>Power Cord:</b> The <MadCap:variable name="Shellab_Variables.Unit Type" /> must be positioned so that all end-users can quickly unplug the cord in the event of an emergency.</p>
         <ul>
             <li MadCap:conditions="Voltage.220V">
                 <MadCap:conditionalText MadCap:conditions="Voltage.220V">Each unit is provided with a <b>230-volt, 10-Amp, EUR16P, 2.5 meters (8ft 2in), CEE 7/7</b> power cord. Always use this cord or an identical replacement.</MadCap:conditionalText>

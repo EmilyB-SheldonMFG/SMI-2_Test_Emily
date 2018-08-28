@@ -32,11 +32,7 @@
                 </tr>
                 <tr class="TableStyle-SLProcedureTable-Body-Body2">
                     <td class="TableStyle-SLProcedureTable-BodyG-Column1-Body2" colspan="2" style="border-left-style: solid;border-left-width: 1px;border-left-color: #dcdcdc;border-right-style: solid;border-right-width: 1px;border-right-color: #dcdcdc;border-top-style: solid;border-top-width: 1px;border-top-color: #dcdcdc;border-bottom-style: none;border-bottom-width: 0px;border-bottom-color: #dcdcdc;padding-left: 4px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">
-                        <p><b>2. Turn on the </b>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b>incubator</b>
-                            </MadCap:conditionalText><b> </b>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><b>oven</b>
-                            </MadCap:conditionalText><b>.</b>
+                        <p><b>2. Turn on the </b><b> </b><MadCap:variable name="Shellab_Variables.Unit Type" /><b>.</b>
                         </p>
                     </td>
                 </tr>
@@ -47,11 +43,7 @@
                         </p>
                     </td>
                     <td class="TableStyle-SLProcedureTable-BodyD-Column1-Body2" style="border-left-style: none;border-left-width: 0px;border-left-color: #dcdcdc;border-right-style: solid;border-right-width: 1px;border-right-color: #dcdcdc;border-top-style: none;border-top-width: 0px;border-top-color: #dcdcdc;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #dcdcdc;padding-left: 4px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">
-                        <p class="table_data"><span style="font-weight: normal;">Place the </span>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><span style="font-weight: normal;">incubator</span>
-                            </MadCap:conditionalText><span style="font-weight: normal;"> </span>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><span style="font-weight: normal;">oven </span>
-                            </MadCap:conditionalText><span style="font-weight: normal;">Power Switch in the ON ( I ) position.</span>
+                        <p class="table_data"><span style="font-weight: normal;">Place the </span><MadCap:variable name="Shellab_Variables.Unit Type" /><span style="font-weight: normal;"> </span><span style="font-weight: normal;"> Power Switch in the ON ( I ) position.</span>
                         </p>
                     </td>
                 </tr>
@@ -98,10 +90,8 @@
                 <tr class="TableStyle-SLProcedureTable-Body-Body1">
                     <td class="TableStyle-SLProcedureTable-BodyG-Column1-Body1" colspan="2">
                         <p><b>5. Allow the</b>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b> incubator</b>
-                            </MadCap:conditionalText><b> </b>
-                            <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><b>oven </b>
-                            </MadCap:conditionalText><b>to heat for a minimum of 8 hours.</b>
+                            <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b> </b>
+                            </MadCap:conditionalText><b> <MadCap:variable name="Shellab_Variables.Unit Type" /></b><b> to heat for a minimum of 8 hours.</b>
                         </p>
                     </td>
                 </tr>
@@ -150,7 +140,7 @@
                     <td class="TableStyle-SLProcedureTable-BodyD-Column1-Body1" style="border-left-style: none;border-left-width: 0px;border-left-color: #dcdcdc;border-right-style: solid;border-right-width: 1px;border-right-color: #dcdcdc;border-top-style: none;border-top-width: 0px;border-top-color: #dcdcdc;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #dcdcdc;background-color: #f5f5f5;padding-left: 4px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">
                         <p class="table_data" style="font-weight: normal;"><a href="Set_OTL.htm#Set_OTL">Set the Over Temperature Limit.</a> See <b>page </b><MadCap:xref href="Set_OTL.htm#Set_OTL" class="ConceptPageNumber" style="font-weight: bold;">1</MadCap:xref><b>.</b></p>
                         <ul>
-                            <li style="font-weight: normal;">The<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> incubator</MadCap:conditionalText> must be heated and stable at your application temperature to perform this procedure.</li>
+                            <li style="font-weight: normal;">The<MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"> </MadCap:conditionalText> <MadCap:variable name="Shellab_Variables.Unit Type" /> must be heated and stable at your application temperature to perform this procedure.</li>
                         </ul>
                     </td>
                 </tr>
@@ -177,7 +167,7 @@
         </table>
         <p>&#160;</p>
         <p>&#160;</p>
-        <h3>The <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">incubator </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">oven </MadCap:conditionalText>is now ready for use.</h3>
+        <h3>The <MadCap:variable name="Shellab_Variables.Unit Type" /> is now ready for use.</h3>
         <ul>
             <li>You may <a href="Alarms.htm#Load_Samples">Load Samples</a>, <b>page </b><MadCap:xref href="Alarms.htm#Load_Samples" class="ConceptPageNumber" style="font-weight: bold;">1</MadCap:xref><b>.</b></li>
         </ul>
