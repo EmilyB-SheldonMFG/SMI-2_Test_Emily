@@ -12,7 +12,9 @@
             <li MadCap:conditions="Unit Type.Vacuum Oven">Verify that a vacuum supply source suitable for your application is available and can be connected to the oven.<ul><li MadCap:conditions="Unit Type.Vacuum Oven">See page for the oven gas and vacuum port locations.</li></ul></li>
             <li class="Install_Checklist">Check that the required ambient conditions for the unit are met, page <MadCap:xref href="../../Topics/SL_Installation/Ambient_&amp;_Clearances.htm#Install_Ambient_Conditions" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Check that the spacing clearance requirements are met, page <MadCap:xref href="../../Topics/SL_Installation/Ambient_&amp;_Clearances.htm#Install_Clearances" class="ConceptPageNumber">1</MadCap:xref>.<ul><li>Unit dimensions may be found on page <MadCap:xref href="../../Topics/SL_Unit_Specs/Unit_Specs.htm#Unit_Specs" class="ConceptPageNumber">1</MadCap:xref>.</li></ul></li>
-            <li class="Install_Checklist">Check that a suitable electrical outlet and power supply is present, page <MadCap:xref href="../../Topics/SL_Installation/Power_Requirements.htm#Install_Power_Requirements" class="ConceptPageNumber">1</MadCap:xref>.</li>
+            <li class="Install_Checklist">
+                <MadCap:conditionalText MadCap:conditions="Power Type.Power Cord">Check that a suitable electrical outlet and power supply is present, page <MadCap:xref href="../../Topics/SL_Installation/Power_Requirements.htm#Install_Power_Requirements" class="ConceptPageNumber">1</MadCap:xref>.</MadCap:conditionalText>
+            </li>
             <li class="Install_Checklist" MadCap:conditions="Power Type.Hardwired">Check that a suitable permanent connect electrical power supply is present, page .</li>
         </ul>
         <p>&#160;</p>

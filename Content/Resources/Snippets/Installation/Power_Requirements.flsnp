@@ -14,11 +14,13 @@
                     <MadCap:conditionalText MadCap:conditions="Voltage.110V"><b>15 amps</b>
                     </MadCap:conditionalText>
                 </MadCap:conditionalText><b> </b>
-                <MadCap:conditionalText MadCap:conditions="Power Type.Hardwired"><b>30 amps</b>
+                <MadCap:conditionalText MadCap:conditions="Power Type.Hardwired,Voltage.230V"><b>30 amps</b>
                 </MadCap:conditionalText><b>.</b>
             </li>
             <li>The wall power source must conform to all national and local electrical codes.</li>
-            <li><b>A switch or circuit breaker must be used in the building installation</b> to protect against overcurrent conditions.</li>
+            <li>
+                <MadCap:conditionalText MadCap:conditions="Power Type.Hardwired"><b>A switch or circuit breaker must be used in the building installation</b> to protect against overcurrent conditions.</MadCap:conditionalText>
+            </li>
         </ul>
     </body>
 </html>

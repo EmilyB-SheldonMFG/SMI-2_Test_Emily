@@ -3,8 +3,13 @@
     <head>
     </head>
     <body>
-        <p>Power</p>
+        <h3>Power</h3>
         <p>Your unit and its recommended accessories are designed and tested to meet strict safety requirements.</p>
-        <ul> <li>Always hardwire the unit power feed to a protective earth-grounded electrical source that conforms to national and local electrical codes. If the unit is not grounded, parts such as knobs and controls can conduct electricity and cause serious injury.</li><li>Position the unit so operators can quickly and easily disconnect or uncouple the power feed in the event of an emergency.</li><li>Do not bend the power feed excessively, step on it, or place heavy objects on it.</li><li>A damaged power feed can be a shock or fire hazard. Never use a power feed if it is damaged or altered in any way.</li><li>Use only approved accessories. Do not modify system components. Any alterations or modifications to your unit not explicitly authorized by the manufacturer can be dangerous and will void your warranty.</li> </ul>
+        <ul>
+            <li>Always hardwire the unit power feed to a protective earth-grounded electrical source that conforms to national and local electrical codes. If the unit is not grounded, parts such as knobs and controls can conduct electricity and cause serious injury.</li>
+            <li>Position the unit so operators can quickly and easily disconnect or uncouple the power feed in the event of an emergency.</li>
+            <li>Do not bend the power feed excessively, step on it, or place heavy objects on it.</li>
+            <li>A damaged power feed can be a shock or fire hazard. Never use a power feed if it is damaged or altered in any way.</li>
+            <li>Use only approved accessories. Do not modify system components. Any alterations or modifications to your unit not explicitly authorized by the manufacturer can be dangerous and will void your warranty.</li> </ul>
     </body>
 </html>
