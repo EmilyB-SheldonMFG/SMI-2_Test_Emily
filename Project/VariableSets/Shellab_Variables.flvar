@@ -49,9 +49,9 @@
   <Variable
     Name="Unit Type"
     Comment=""
-    EvaluatedDefinition="Incubator">Incubator</Variable>
+    EvaluatedDefinition="incubator">incubator</Variable>
   <Variable
     Name="Unit Type"
     Comment=""
-    EvaluatedDefinition="Oven">Oven</Variable>
+    EvaluatedDefinition="oven">oven</Variable>
 </CatapultVariableSet>

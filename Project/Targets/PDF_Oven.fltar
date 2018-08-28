@@ -17,6 +17,6 @@
     GenerateGlossaryProxy="false" />
   <Variables>
     <Variable
-      Name="Shellab_Variables/Unit Type">Oven</Variable>
+      Name="Shellab_Variables/Unit Type">oven</Variable>
   </Variables>
 </CatapultTarget>
