@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <h3>Disinfecting the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubator</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">Oven</MadCap:conditionalText> and <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubation</MadCap:conditionalText> Chamber</h3>
+        <h3>Disinfecting the <MadCap:variable name="Shellab_Variables.Unit Type" /> and <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">Incubation</MadCap:conditionalText> Chamber</h3>
         <p>Keep the following points in mind when disinfecting the unit.</p>
         <ul>
             <li>Turn off and disconnect the unit to safeguard against electrical hazards.</li>

@@ -6,7 +6,7 @@
   GlossaryTermConversion="marked"
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
   MasterStylesheetOverride="true"
-  ConditionTagExpression="include[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.230V] exclude[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V or Voltage.220V] "
+  ConditionTagExpression="include[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.230V] exclude[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or &quot;Unit Type.Oven&quot; or Voltage.110V or Voltage.220V] "
   MasterToc="/Project/TOCs/SMITOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
   InjectEmptyPages="true">
