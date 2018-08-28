@@ -6,7 +6,7 @@
     <body>
         <p class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">Test the OTL system at least once per year to verify its functionality.</p>
         <h2><a name="Set_OTL"></a>Set the Over Temperature Limit (OTL)<img src="../../Images/Graphic Symbols/Temperature/OTL_SL_Man.png" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" style="float: left;width: 60px;height: 61px;left: 625px;top: 37px;" /></h2>
-        <p>This procedure sets the Over Temperature Limit heating cutoff to approximately 1˚C above the current chamber temperature. <b>Perform this procedure when the unit has been running with no temperature fluctuations at your application temperature for at least 30 minutes.</b></p>
+        <p>This procedure sets the Over Temperature Limit heating cutoff to approximately <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">1˚C</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven">10°C</MadCap:conditionalText> above the current chamber temperature. <b>Perform this procedure when the unit has been running with no temperature fluctuations at your application temperature for at least 30 minutes.</b></p>
         <table style="width: 100%;mc-table-style: url('../../Stylesheets/SLProcedureTable.css');margin-left: 0;margin-right: auto;" class="TableStyle-SLProcedureTable" cellspacing="0">
             <col class="TableStyle-SLProcedureTable-Column-Column1" />
             <col class="TableStyle-SLProcedureTable-Column-Column1" />
@@ -51,7 +51,11 @@
                     </td>
                     <td class="TableStyle-SLProcedureTable-BodyD-Column1-Body1">
                         <ul>
-                            <li><span style="font-weight: normal;">The Over Temperature Limit is now set approximately 1˚C above the current chamber air temperature.</span>
+                            <li><span style="font-weight: normal;">The Over Temperature Limit is now set approximately </span>
+                                <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><span style="font-weight: normal;">1˚C</span>
+                                </MadCap:conditionalText><span style="font-weight: normal;"> </span>
+                                <MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><span style="font-weight: normal;">10°C</span>
+                                </MadCap:conditionalText><span style="font-weight: normal;"> above the current chamber air temperature.</span>
                             </li>
                         </ul>
                     </td>
