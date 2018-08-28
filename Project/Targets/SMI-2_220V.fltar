@@ -8,7 +8,7 @@
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
   InjectEmptyPages="true"
   MasterToc="/Project/TOCs/SMITOC.fltoc"
-  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.220V]exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.110V]"
+  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.220V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.110V or Voltage.230V] "
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
   MasterStylesheetOverride="true"
   OutputFolder="G:\Tech_Com_Dev\Test_Env\Flare\2018\SMI-2_Test_Emily">

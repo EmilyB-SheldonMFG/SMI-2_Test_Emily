@@ -5,7 +5,7 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Voltage.110V] exclude[Voltage.220V] "
+  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.220V or Voltage.230V] "
   MasterToc="/Project/TOCs/SMITOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/SL_Blank.flpgl"
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
