@@ -7,7 +7,6 @@
         <p>&#160;</p>
         <p>&#160;</p>
         <h3 class="Checkmark">Pre-Installation</h3>
-        <p>&#160;</p>
         <ul class="Install_Checklist">
             <li MadCap:conditions="Unit Type.Vacuum Oven">Verify that a vacuum supply source suitable for your application is available and can be connected to the oven.<ul><li MadCap:conditions="Unit Type.Vacuum Oven">See page for the oven gas and vacuum port locations.</li></ul></li>
             <li class="Install_Checklist">Check that the required ambient conditions for the unit are met, page <MadCap:xref href="../../Topics/SL_Installation/Ambient_&amp;_Clearances.htm#Install_Ambient_Conditions" class="ConceptPageNumber">1</MadCap:xref>.</li>
