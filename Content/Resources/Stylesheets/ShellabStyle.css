@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 e a.Popup
 {
@@ -398,3 +398,9 @@ img
 	padding: 2px;
 	margin: 2px;
 }
+
+MadCap|xref.RelLinkPageNumber
+{
+	mc-format: '{pageref}';
+}
+
