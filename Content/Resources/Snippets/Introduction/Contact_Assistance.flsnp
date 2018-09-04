@@ -2,7 +2,7 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <h2>Contacting Assistance</h2>
-        <p>Phone hours for <MadCap:conditionalText>Sheldon</MadCap:conditionalText> Technical Support are 6 am – 4:30 pm Pacific Coast Time (west coast of the United States, UTC -8), Monday – Friday. Please have the following information ready when calling or emailing Technical Support: the <b>model number, serial number, part number, and part ID</b> (see page <MadCap:xref href="../../Topics/SL_Receiving/Data_Plate.htm#Recording_Data_Plate" class="ConceptPageNumber">1</MadCap:xref>).</p>
+        <p>Phone hours for <MadCap:conditionalText>Sheldon</MadCap:conditionalText> Technical Support are 6 am — 4:30 pm Pacific Coast Time (west coast of the United States, UTC -8), Monday – Friday. Please have the following information ready when calling or emailing Technical Support: the <b>model number, serial number, part number, and part ID</b> (see page <MadCap:xref href="../../Topics/SL_Receiving/Data_Plate.htm#Recording_Data_Plate" class="ConceptPageNumber">1</MadCap:xref>).</p>
         <p class="No_Space"><MadCap:variable name="Shellab_Variables.Email" />
         </p>
         <p class="No_Space"><MadCap:variable name="Shellab_Variables.Toll Free" /> <MadCap:variable name="Shellab_Variables.Extension" />, or <MadCap:variable name="Shellab_Variables.Phone Number" /></p>
