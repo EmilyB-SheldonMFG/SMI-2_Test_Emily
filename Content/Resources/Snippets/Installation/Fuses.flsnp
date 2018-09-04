@@ -3,8 +3,8 @@
     <head>
     </head>
     <body>
-        <p MadCap:conditions="Voltage.220V"><b>Fuses:</b> Each <MadCap:variable name="Shellab_Variables.Unit Type" /> ships with a fuse installed in the power cord inlet and a second fuse installed in an adjacent fuse holder.</p>
-        <p MadCap:conditions="Voltage.110V"><b>Fuses:</b> Each <MadCap:variable name="Shellab_Variables.Unit Type" /> ships with a fuse installed in the power cord inlet.</p>
+        <p MadCap:conditions="Voltage.220V"><b>Fuses:</b> Each unit ships with a fuse installed in the power cord inlet and a second fuse installed in an adjacent fuse holder.</p>
+        <p MadCap:conditions="Voltage.110V"><b>Fuses:</b> Each unit ships with a fuse installed in the power cord inlet.</p>
         <ul>
             <li>
                 <MadCap:conditionalText MadCap:conditions="Voltage.220V">Both fuses</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">The fuse</MadCap:conditionalText> must be installed and intact for the unit to operate.</li>
