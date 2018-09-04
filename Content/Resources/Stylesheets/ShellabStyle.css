@@ -404,3 +404,8 @@ MadCap|xref.RelLinkPageNumber
 	mc-format: '{pageref}';
 }
 
+MadCap|xref.IndexPageNumber
+{
+	mc-format: 'page {page}';
+}
+
