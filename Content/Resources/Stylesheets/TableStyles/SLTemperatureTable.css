@@ -1,0 +1,1907 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: SLTemperatureTable;
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	max-id: 9;
+	frame-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 0px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-left: 0px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	size: 114px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 7;
+	name: Column2;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 0px;
+	size: 151px;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 8;
+	name: Column3;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 0px;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 9;
+	name: Column4;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 0px;
+	background-color: #ffffff;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+	text-align: center;
+	font-weight: bold;
+	cell-content-style-class: Table_Header;
+	cell-content-style-tag: none;
+	background-color: #f5f5f5;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	vertical-align: middle;
+	cell-padding-left: 0px;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	text-align: left;
+	vertical-align: middle;
+	cell-content-style-class: table_data;
+	background-color: #ffffff;
+	cell-content-style-tag: none;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-SLTemperatureTable
+{
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	page-break-inside: avoid;
+	frame-break-inside: avoid;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-SLTemperatureTable-Column-Column1
+{
+	width: 114px;
+}
+
+.TableStyle-SLTemperatureTable-Column-Column2
+{
+	width: 151px;
+}
+
+.TableStyle-SLTemperatureTable-Column-Column3
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-Column-Column4
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-Head-Header1
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadI-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadE-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadF-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadH-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLTemperatureTable-HeadD-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadC-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadB-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadA-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-HeadG-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column1-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column3- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootI-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootE-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootF-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootH-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootD-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootC-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootB-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootA-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-FootG-Column4- p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-Body-Body1
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column2-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column3-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyI-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyE-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyF-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyH-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyD-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyC-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyB-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyA-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLTemperatureTable-BodyG-Column4-Body1 p
+{
+	
+}
+
+

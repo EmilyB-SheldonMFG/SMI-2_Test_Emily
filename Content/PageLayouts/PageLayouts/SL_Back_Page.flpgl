@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Back_Page_Shellab" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="0.5in" PaddingBottom="0.25in" BackgroundRepeat="no-repeat" BackgroundImage="none" BackgroundPositionY="0" BackgroundPositionX="right">
+        <Frame X="-85px" Y="-47px" Width="8.270833in" Height="10.90625in" Flow="decoration2" Right="-85px" Bottom="-16px" BackgroundImage="../Images/Logos/SL_Front_DK.png" BackgroundRepeat="stretch" Anchors="" FlowIndex="1" />
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="2.833333in" Height="2.354167in" X="381px" Y="772px" Right="-29px" Bottom="-14px" Anchors="" BackgroundImage="none" FlowIndex="0" BackgroundRepeat="no-repeat" BackgroundColor="transparent">
+        </Frame>
+        <Frame X="-51px" Y="0px" Width="4.947917in" Height="0.8020833in" Flow="decoration2" Right="200px" Bottom="907px" BackgroundImage="../Images/Logos/SL_Logo_Man.png" BackgroundRepeat="stretch" Anchors="" FlowIndex="1" BackgroundType="GradientWE" />
+        <Frame X="345px" Y="701px" Width="3.125in" Height="0.7395833in" Flow="decoration2" Right="-21px" Bottom="212px" BackgroundImage="../Images/Logos/Sheldon_BCKCVR_Man.png" BackgroundRepeat="stretch" Anchors="" BackgroundColor="transparent" />
+    </Page>
+</PageStyles>

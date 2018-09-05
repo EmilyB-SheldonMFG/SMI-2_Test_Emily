@@ -1,0 +1,1437 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: SLCapacityTable;
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	max-id: 9;
+	frame-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 0px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	text-align: left;
+	vertical-align: middle;
+	cell-padding-left: 55px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	size: 163px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 7;
+	name: Column2;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 0px;
+	size: 208px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 8;
+	name: Column3;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-left: 0px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+	text-align: center;
+	font-weight: bold;
+	cell-content-style-class: Table_Header;
+	cell-content-style-tag: none;
+	background-color: #f5f5f5;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	vertical-align: middle;
+	cell-padding-left: 0px;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	text-align: left;
+	vertical-align: middle;
+	cell-content-style-class: table_data;
+	background-color: #ffffff;
+	cell-content-style-tag: none;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-SLCapacityTable
+{
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	page-break-inside: avoid;
+	frame-break-inside: avoid;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-SLCapacityTable-Column-Column1
+{
+	width: 163px;
+}
+
+.TableStyle-SLCapacityTable-Column-Column2
+{
+	width: 208px;
+}
+
+.TableStyle-SLCapacityTable-Column-Column3
+{
+	
+}
+
+.TableStyle-SLCapacityTable-Head-Header1
+{
+	
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadI-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadE-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadF-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadH-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLCapacityTable-HeadD-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadC-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadB-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadA-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-HeadG-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLCapacityTable-FootI-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootE-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootF-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootH-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootD-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootC-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootB-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootA-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootG-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootI-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootE-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootF-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootH-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootD-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootC-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootB-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootA-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootG-Column2-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootI-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootI-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootE-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootE-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootF-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootF-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootH-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootH-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootD-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootD-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootC-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootC-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootB-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootB-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootA-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootA-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-FootG-Column3-
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-FootG-Column3- p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-Body-Body1
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column1-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column1-Body1
+{
+	background-color: #ffffff;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 55px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column2-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column2-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column2-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column2-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyI-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column3-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyE-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column3-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyF-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyH-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column3-Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyD-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyC-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyB-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyA-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column3-Body1
+{
+	background-color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLCapacityTable-BodyG-Column3-Body1 p
+{
+	
+}
+
+

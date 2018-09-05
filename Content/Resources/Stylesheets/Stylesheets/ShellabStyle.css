@@ -1,0 +1,411 @@
+/*<meta />*/
+
+e a.Popup
+{
+	
+}
+
+body
+{
+	font-family: 'Proxima Nova';
+	font-size: 10pt;
+	margin: 2pt;
+	text-align: justify;
+	padding: 6pt;
+	mc-hyphenate: never;
+}
+
+/*<headers />*/
+
+header
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 22pt;
+	text-align: left;
+	font-family: 'Proxima Nova Semibold';
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	color: #ffffff;
+}
+
+h1
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 22pt;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: transparent;
+	page-break-after: avoid;
+	page-break-before: always;
+	padding-left: .8in;
+	padding-bottom: 12pt;
+	line-height: 4pt;
+}
+
+h2
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 16pt;
+	font-style: italic;
+	font-variant: small-caps;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	padding-top: 9pt;
+	page-break-after: avoid;
+}
+
+h3
+{
+	font-size: 10pt;
+	font-weight: bold;
+	page-break-after: avoid;
+	mc-heading-level: 0;
+}
+
+h3.Checkmark
+{
+	padding-left: .44in;
+}
+
+h3.right
+{
+	text-align: right;
+}
+
+h3.centered
+{
+	text-align: center;
+}
+
+/*<lists />*/
+
+ul
+{
+	padding-left: 2pt;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
+}
+
+ul.circle
+{
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	padding-left: 30pt;
+	list-style-type: circle;
+}
+
+li
+{
+	padding-left: 2pt;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
+}
+
+ul.Secondary
+{
+	padding-left: 1.13in;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
+	list-style-type: circle;
+}
+
+ul.centered
+{
+	padding-left: 1.13in;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
+}
+
+ol.bold
+{
+	font-weight: bold;
+}
+
+ol
+{
+	font-family: 'Proxima Nova';
+	padding: 2pt;
+}
+
+ul.Install_Checklist
+{
+	list-style-image: none;
+	padding-left: .69in;
+}
+
+li.Install_Checklist
+{
+	padding-top: 8pt;
+	padding-bottom: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li::marker
+{
+	font-family: Wingdings;
+	content: 'ü';
+	font-weight: bold;
+}
+
+ul.Install_Checklist > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+	padding-top: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
+}
+
+p.Note
+{
+	margin-top: 2pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	border-top-style: solid;
+	border-top-width: .5pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: .5pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Note: {/b}';
+}
+
+p.Warning
+{
+	margin-top: 2pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	border-top-style: solid;
+	border-top-width: .5pt;
+	border-top-color: black;
+	margin-bottom: 2pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Warning: {/b}';
+}
+
+p.Warning_French
+{
+	margin-top: 2pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	border-bottom-style: solid;
+	border-bottom-width: .5pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Avertissement: {/b}';
+}
+
+p.centered
+{
+	text-align: center;
+	font-weight: normal;
+}
+
+p.Thank_You
+{
+	font-style: italic;
+}
+
+p.Warranty
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 14pt;
+}
+
+p.Title_Family
+{
+	font-size: 22pt;
+	font-weight: bold;
+	margin-bottom: 15pt;
+	color: #70787C;
+	line-height: 7pt;
+	padding: 0pt;
+}
+
+p.Title_Voltage
+{
+	font-size: 18pt;
+	font-weight: bold;
+	color: #70787C;
+	padding: 0pt;
+	margin: 0pt;
+}
+
+p.Title_Doc_Type
+{
+	font-size: 28pt;
+	margin-bottom: 12pt;
+	text-align: right;
+	padding-right: 8pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+p.Title_Units
+{
+	font-size: 14pt;
+	font: 'Proxima Nova Semibold';
+	color: #70787C;
+	text-align: right;
+	padding-right: 8pt;
+	font-weight: bold;
+	list-style-position: inherit;
+	word-spacing: 10px;
+}
+
+p.Copyright
+{
+	font-size: 14pt;
+	font-weight: bold;
+	font: 'Proxima Nova';
+}
+
+p.Copyright_Head
+{
+	font-size: 16pt;
+	font-weight: bold;
+	font: 'Proxima Nova';
+}
+
+p.TOC1
+{
+	font-weight: bold;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+}
+
+p.TOC2
+{
+	font-style: italic;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-weight: lighter;
+}
+
+p.Back_Page
+{
+	font-size: 11pt;
+	font: 'Proxima Nova Semibold';
+	font-weight: bold;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding: 0pt;
+	text-align: right;
+}
+
+p.No_Space
+{
+	padding: 1pt;
+	margin: 0pt;
+}
+
+div.NoPageBreak
+{
+	page-break-inside: avoid;
+}
+
+MadCap|pageFooter
+{
+	font-size: 10pt;
+	color: #A7A6A6;
+}
+
+MadCap|xref.ConceptPageNumber
+{
+	mc-format: '{page}';
+}
+
+p.Table_Head
+{
+	border-bottom: solid 1px #c0c0c0;
+	border: solid 1px #c0c0c0;
+	background: #dcdcdc;
+}
+
+MadCap|tocProxy
+{
+	border: none 0px #000000;
+	padding: 0px;
+	margin: 0px;
+}
+
+a:link
+{
+	color: #0078ba;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul.standard_list
+{
+	list-style-type: disc;
+	list-style-image: none;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+ul.standard_list > li::marker
+{
+	font-family: ;
+	content: '•';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+ul.standard_list > li > ul
+{
+	list-style-image: none;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+ul.standard_list > li > ul > li::marker
+{
+	font-family: ;
+	content: '°';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+MadCap|pageBreak
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+img
+{
+	padding: 2px;
+	margin: 2px;
+}
+
+MadCap|xref.RelLinkPageNumber
+{
+	mc-format: '{pageref}';
+}
+
+MadCap|xref.IndexPageNumber
+{
+	mc-format: 'page {page}';
+}
+

@@ -1,0 +1,1918 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: SLShelfCapacityTable;
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	max-id: 9;
+	frame-break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 0px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	text-align: left;
+	vertical-align: middle;
+	cell-padding-left: 35px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	size: 114px;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 7;
+	name: Column2;
+	text-align: left;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 35px;
+	size: 151px;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 8;
+	name: Column3;
+	text-align: left;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 40px;
+	size: 170px;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 9;
+	name: Column4;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	cell-padding-left: 0px;
+	background-color: #ffffff;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+	text-align: center;
+	font-weight: bold;
+	cell-content-style-class: Table_Header;
+	cell-content-style-tag: none;
+	background-color: #f5f5f5;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	vertical-align: middle;
+	cell-padding-left: 0px;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	text-align: left;
+	vertical-align: middle;
+	cell-content-style-class: table_data;
+	background-color: #ffffff;
+	cell-content-style-tag: none;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-SLShelfCapacityTable
+{
+	border-collapse: separate;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	page-break-inside: avoid;
+	frame-break-inside: avoid;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-SLShelfCapacityTable-Column-Column1
+{
+	width: 114px;
+}
+
+.TableStyle-SLShelfCapacityTable-Column-Column2
+{
+	width: 151px;
+}
+
+.TableStyle-SLShelfCapacityTable-Column-Column3
+{
+	width: 170px;
+}
+
+.TableStyle-SLShelfCapacityTable-Column-Column4
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-Head-Header1
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column1-Header1
+{
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column1-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column1-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column2-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column2-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column3-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column3-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadI-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadE-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadF-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadH-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadD-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadC-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadB-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadA-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column4-Header1
+{
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #f5f5f5;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-HeadG-Column4-Header1 p
+{
+	font-weight: bold;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column1-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column2-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column3-
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column3- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootI-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootE-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootF-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootH-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootD-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootC-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootB-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootA-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column4-
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-FootG-Column4- p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-Body-Body1
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 0px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column1-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column2-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column2-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 35px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column3-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column3-Body1
+{
+	text-align: left;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column3-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyI-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyE-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyF-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyH-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column4-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyD-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyC-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyB-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyA-Column4-Body1 p
+{
+	
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column4-Body1
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-SLShelfCapacityTable-BodyG-Column4-Body1 p
+{
+	
+}
+
+
