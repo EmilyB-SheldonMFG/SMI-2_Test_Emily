@@ -4,8 +4,11 @@
         <h3>A suggested calibration setup</h3>
         <p>&#160;</p>
         <p><b>1.</b> Introduce the reference device thermocouple probe through the access port on the right side of the unit.</p>
+        <p>&#160;</p>
         <p><b>2.</b> Position the sensor probe head as close as possible to the geometric center point of the chamber. The probe head must be at least 2 inches (51 mm) above or below shelving surfaces to prevent heat sinking. Secure the probe head in position using the non-stick tape.</p>
+        <p>&#160;</p>
         <p><b>3</b>. After securing the probe head in position, carefully place the access port stopper in the port over the probe wires. Use non-stick tape to seal any gaps created between the stopper and the port by the probe wires.</p>
+        <p>&#160;</p>
         <p><b>4.</b> The <MadCap:variable name="Shellab_Variables.Unit Type" /> door must be closed and latched. Failure to do so will prevent an accurate calibration.</p>
     </body>
 </html>
