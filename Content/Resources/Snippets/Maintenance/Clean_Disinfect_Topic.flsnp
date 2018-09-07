@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <div class="NoPageBreak">
-            <p class="Warning" MadCap:autonum="&lt;b&gt;Warning: &lt;/b&gt;">Disconnect this unit from its power supply prior to performing maintenance or services.</p>
-            <p class="Warning_French" MadCap:autonum="&lt;b&gt;Avertissement: &lt;/b&gt;">Débranchez cet appareil de son alimentation électrique avant d'effectuer la maintenance ou les services.</p>
-        </div>
-        <h2>Cleaning <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and Disinfecting</MadCap:conditionalText></h2>
         <p>If a hazardous material or substance has spilled in the unit chamber, immediately initiate your site Hazardous Material Spill Containment protocol. Contact your local Site Safety Officer and follow instructions per the site policy and procedures.</p>
         <ul>
             <li>Periodic cleaning and disinfection are required.</li>
