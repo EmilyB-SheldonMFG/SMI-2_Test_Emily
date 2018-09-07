@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <h2>Installation Cleaning <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and Disinfection</MadCap:conditionalText></h2>
         <p>The manufacturer recommends cleaning the shelving and unit chamber prior to installation of the shelving in the chamber.</p>
         <ul>
             <li>The unit was cleaned at the factory but may have been exposed to contaminants during shipping.</li>

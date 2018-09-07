@@ -2,6 +2,6 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <div class="NoPageBreak">
-            <h2>Install the <MadCap:variable name="Shellab_Variables.Unit Type" /></h2>
+            <p>&#160;</p>
         </div>Install the unit in a workspace location that meets the criteria discussed in the previous entries of the Installation section.<ul><li MadCap:conditions="Power Type.Hardwired"><b MadCap:conditions="Power Type.Hardwired">A qualified technician may now connect the oven to its power source.</b></li></ul></body>
 </html>

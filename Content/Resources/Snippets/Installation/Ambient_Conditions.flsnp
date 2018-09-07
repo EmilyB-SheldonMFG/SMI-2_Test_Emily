@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <h2>Required Ambient Conditions</h2>
         <p>These units are built for use indoors at room temperatures between <b>15°C and </b><MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b>30°C</b></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><b> 40°C</b></MadCap:conditionalText><b> </b><b>(59°F and </b><MadCap:conditionalText MadCap:conditions="Unit Type.Incubator"><b>86°F</b></MadCap:conditionalText><b> </b><MadCap:conditionalText MadCap:conditions="Unit Type.Oven,Unit Type.Vacuum Oven"><b>104°F</b></MadCap:conditionalText><b>)</b>, at no greater than <b>80% Relative Humidity</b> (at 25°C / 77°F). Operating outside these conditions may adversely affect the unit temperature performance.</p>
         <p>When selecting a location to install the unit, consider all environmental conditions that can adversely impact its temperature performance. These include:</p>
         <ul>

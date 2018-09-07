@@ -2,10 +2,6 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <p>&#160;</p>
-        <h2>Installation&#160;Procedure Checklist</h2>
-        <p>For installing the unit in a new workspace location.</p>
-        <p>&#160;</p>
-        <p>&#160;</p>
         <h3 class="Checkmark">Pre-Installation</h3>
         <ul class="Install_Checklist">
             <li MadCap:conditions="Unit Type.Vacuum Oven">Verify that a vacuum supply source suitable for your application is available and can be connected to the oven.<ul><li MadCap:conditions="Unit Type.Vacuum Oven">See page for the oven gas and vacuum port locations.</li></ul></li>
@@ -23,6 +19,7 @@
             <li>Install the unit leveling feet, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Leveling" class="ConceptPageNumber">1</MadCap:xref>.</li>
             <li class="Install_Checklist">Install the <MadCap:variable name="Shellab_Variables.Unit Type" /> in its workspace location, page <MadCap:xref href="../../Topics/SL_Installation/Lifting_&amp;_Leveling.htm#Install_Unit" class="ConceptPageNumber">1</MadCap:xref>.<ul><li class="Install_Checklist" MadCap:conditions="Power Type.Hardwired">A qualified technician may now wire the oven to its power source.</li></ul></li>
         </ul>
+        <p>&#160;</p>
         <h3 class="Checkmark">Set up the <MadCap:variable name="Shellab_Variables.Unit Type" /> for use</h3>
         <ul class="Install_Checklist">
             <li class="Install_Checklist">Clean <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">and disinfect</MadCap:conditionalText> the unit and shelving (recommended), page <MadCap:xref href="../../Topics/SL_Installation/Install_Clean_Disinfect.htm#Install_Clean_Disinfect" class="ConceptPageNumber">1</MadCap:xref>.</li>
