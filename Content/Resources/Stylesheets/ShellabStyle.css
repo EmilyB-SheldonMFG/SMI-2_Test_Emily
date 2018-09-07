@@ -375,6 +375,7 @@ ul.standard_list > li > ul
 	margin-bottom: 0pt;
 	padding-top: 0pt;
 	padding-bottom: 0pt;
+	line-height: 8pt;
 }
 
 ul.standard_list > li > ul > li::marker
@@ -385,6 +386,7 @@ ul.standard_list > li > ul > li::marker
 	margin-bottom: 0pt;
 	padding-top: 0pt;
 	padding-bottom: 0pt;
+	line-height: 8pt;
 }
 
 MadCap|pageBreak
