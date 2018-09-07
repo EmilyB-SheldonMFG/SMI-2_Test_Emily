@@ -3,11 +3,9 @@
     <head>
     </head>
     <body>
-        <h2>Reference Sensor Device</h2>
-        <p>&#160;</p>
         <h3>Must be purchased separately</h3>
         <p>&#160;</p>
-        <p>A reference sensor device is required for calibrating the unit temperature display.<img src="../../Images/Calibration/Ref_Device_Temp_Man.png" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" style="float: left;left: 490px;top: 143px;" /></p>
+        <p>A reference sensor device is required for calibrating the unit temperature display.</p>
         <p>Reference devices must meet the following standards:</p>
         <ul>
             <li>Accurate to at least 0.1°C</li>
@@ -18,7 +16,7 @@
         <p>Use a digital device with a wire thermocouple probe that can be introduced into the unit chamber through the <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator,Unit Type.Oven"><MadCap:conditionalText MadCap:conditions="Unit Type.Incubator,Unit Type.Oven">access port or door spac</MadCap:conditionalText>e</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven">unit access port</MadCap:conditionalText>.  <MadCap:conditionalText MadCap:conditions="Unit Type.Vacuum Oven">A feedthrough baseplate is required for introducing the probe through the port.</MadCap:conditionalText> Select a thermocouple suitable for the application temperature you will be calibrating at.</p>
         <p>&#160;</p>
         <h3>Why a Probe?</h3>
-        <p>Reference readings taken outside the chamber using wire temperature probes avoid chamber door openings. Openings disrupt the chamber temperature. Each disruption requires a <b>minimum 1-hour wait</b> to allow the atmosphere to re-stabilize before continuing.</p>
+        <p>Reference readings taken from outside the chamber using wire temperature probes avoid chamber door openings. Openings disrupt the chamber temperature. Each disruption requires a <b>minimum 1-hour wait</b> to allow the atmosphere to re-stabilize before continuing.</p>
         <p>&#160;</p>
         <h3>No Alcohol or Mercury Thermometers</h3>
         <p>Alcohol thermometers do not have sufficient accuracy to conduct accurate temperature calibrations. <b>Never place a mercury thermometer in the unit chamber.</b> Always use thermocouple probes.</p>

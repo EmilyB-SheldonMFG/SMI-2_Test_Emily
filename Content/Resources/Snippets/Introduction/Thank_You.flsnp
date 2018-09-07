@@ -3,6 +3,6 @@
     <head>
     </head>
     <body>
-        <p class="Thank_You">Thank you for purchasing a <MadCap:conditionalText>SHEL LAB</MadCap:conditionalText> <MadCap:variable name="Shellab_Variables.Unit Type" />. We know you have many choices in today’s competitive marketplace when it comes to constant temperature equipment. We appreciate you choosing ours. We stand behind our products and will be here for you if you need us.</p>
+        <p class="Thank_You">Thank you for purchasing a <MadCap:conditionalText>SHEL LAB</MadCap:conditionalText> <MadCap:variable name="Shellab_Variables.Unit Type" />. We know you have many choices in today’s competitive marketplace when it comes to constant temperature equipment. We appreciate you choosing ours. We stand behind our products and will be here if you need us.</p>
     </body>
 </html>
