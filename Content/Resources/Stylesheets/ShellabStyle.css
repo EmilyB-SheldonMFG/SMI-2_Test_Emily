@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 e a.Popup
 {
@@ -10,7 +10,7 @@ body
 	font-family: 'Proxima Nova';
 	font-size: 10pt;
 	margin: 2pt;
-	text-align: justify;
+	text-align: left;
 	padding: 6pt;
 	mc-hyphenate: never;
 }
@@ -408,4 +408,3 @@ MadCap|xref.IndexPageNumber
 {
 	mc-format: 'page {page}';
 }
-
