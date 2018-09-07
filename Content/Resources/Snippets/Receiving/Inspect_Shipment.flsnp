@@ -3,7 +3,6 @@
     <head>
     </head>
     <body>
-        <h2>Inspect the Shipment</h2>
         <ul>
             <li> When a unit leaves the factory, safe delivery becomes the responsibility of the carrier.</li>
             <li><b>Damage sustained during transit is not covered by the manufacturing defect warranty.</b>
