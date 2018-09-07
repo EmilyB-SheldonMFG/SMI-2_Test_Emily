@@ -3,7 +3,6 @@
     <head>
     </head>
     <body>
-        <h2>Load Samples</h2>
         <p>The manufacturer strongly recommends waiting at least <b>8 hours</b> after putting the <MadCap:variable name="Shellab_Variables.Unit Type" /> in operation before loading samples in the chamber. This safeguards samples against temperature instability.</p>
         <ul>
             <li>Samples should be placed at least 1 inch (25 mm) away from the chamber walls.</li>

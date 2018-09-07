@@ -3,7 +3,6 @@
     <head>
     </head>
     <body>
-        <h2>Chamber Accessory Power Outlet</h2>
         <p>The <MadCap:variable name="Shellab_Variables.Unit Type" /> is provided with a <MadCap:conditionalText MadCap:conditions="Voltage.220V">220 — 240</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Voltage.110V">100 — 120</MadCap:conditionalText> volt, 1-amp power outlet inside the chamber. Do not attach powered equipment that draws more than 1 amp.</p>
         <ul>
             <li>Verify that any powered accessory equipment used inside the chamber can safely and effectively operate within your selected temperature range.</li>
