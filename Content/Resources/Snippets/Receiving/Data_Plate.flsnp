@@ -4,7 +4,7 @@
         <link href="../../Stylesheets/SLDataPlateTable.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
     <body>
-        <p>Record the unit <b>model number, serial number, part number,</b> and <MadCap:conditionalText style="font-weight: bold;">part ID</MadCap:conditionalText> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</p>
+        <p>Record the unit <b>model number, serial number, part number,</b> and the <MadCap:conditionalText style="font-weight: bold;">part ID</MadCap:conditionalText> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</p>
         <ul>
             <li>The data plate is located <MadCap:conditionalText MadCap:conditions="Unit Type.Incubator">on the inside of the incubation chamber door in the top right corner.</MadCap:conditionalText></li>
         </ul>
