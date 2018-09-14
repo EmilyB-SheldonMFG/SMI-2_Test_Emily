@@ -54,4 +54,8 @@
     Name="Unit Type"
     Comment=""
     EvaluatedDefinition="oven">oven</Variable>
+  <Variable
+    Name="Warranty"
+    Comment=""
+    EvaluatedDefinition="sheldonmanufacturing.com/warranty">sheldonmanufacturing.com/warranty</Variable>
 </CatapultVariableSet>

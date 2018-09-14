@@ -3,6 +3,7 @@
     <body>
         <p class="Warranty">Manufacturing Warranty</p>
         <p>For information on your warranty and online warranty registration please visit:</p>
-        <p>sheldonmanufacturing.com/warranty</p>
+        <p><MadCap:variable name="Shellab_Variables.Warranty" />
+        </p>
     </body>
 </html>
