@@ -5,11 +5,12 @@
   Type="MsWord"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/SMITOC.fltoc"
-  MasterPageLayout="/Content/Resources/PageLayouts/SL_Back_Page.flpgl"
+  MasterToc="/Project/TOCs/Word_TOC.fltoc"
   MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
   OutputFolder="H:\Flare_Tests"
-  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.220V or Voltage.230V] ">
+  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.220V or Voltage.230V] "
+  OutputFile="smi_word_test.docx"
+  MasterPageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
