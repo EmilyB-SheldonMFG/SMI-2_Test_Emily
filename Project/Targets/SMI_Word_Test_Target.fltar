@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/SMITOC.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/SL_Back_Page.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/ShellabStyle.css"
+  OutputFolder="H:\Flare_Tests"
+  ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.220V or Voltage.230V] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <Glossaries />
+</CatapultTarget>
