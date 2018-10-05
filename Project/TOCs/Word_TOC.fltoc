@@ -3,7 +3,13 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Resources/Topics/Front_Matter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Resources/Topics/SL_Covers/Title_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Resources/Topics/Front_Matter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Resources/Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -28,11 +34,15 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Introduction/Contact_Assistance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Introduction/Reference_Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
   </TocEntry>
   <TocEntry
     Title="Receiving">
@@ -76,7 +86,10 @@
       Link="/Content/Resources/Topics/SL_Installation/Lifting_&amp;_Leveling.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Installation/Install_Shelving.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Resources/Topics/SL_Installation/Install_Shelving.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Installation/Install_Clean_Disinfect.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -116,27 +129,27 @@
       StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Operation/Set_OTL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Operation/Set_Temp_Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Operation/Set_Date_Time.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Operation/Alarms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
+      Link="/Content/Resources/Topics/SL_Operation/Set_Temp_Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Resources/Topics/SL_Operation/Set_OTL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Operation/Passcode_Locking.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Resources/Topics/SL_Operation/Data_Outputs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Resources/Topics/SL_Operation/Alarms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
@@ -148,8 +161,16 @@
       StartSection="false" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/Resources/Topics/SL_Operation/Data_Outputs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Resources/Topics/SL_Operation/Condensation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
   </TocEntry>
   <TocEntry
     Title="Maintenance">
@@ -187,4 +208,10 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
   </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Resources/Topics/SL_Covers/Back_Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl" />
 </CatapultToc>

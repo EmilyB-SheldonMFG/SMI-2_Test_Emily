@@ -10,7 +10,8 @@
   OutputFolder="H:\Flare_Tests"
   ConditionTagExpression="include[&quot;Power Type.Power Cord&quot; or &quot;Unit Type.Incubator&quot; or Voltage.110V] exclude[&quot;Power Type.Hardwired&quot; or &quot;Unit Type.Oven&quot; or &quot;Unit Type.Vacuum Oven&quot; or Voltage.220V or Voltage.230V] "
   OutputFile="smi_word_test.docx"
-  MasterPageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl">
+  MasterPageLayout="/Content/Resources/PageLayouts/Word_Layout.flpgl"
+  PatchHeadingLevels="false">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
